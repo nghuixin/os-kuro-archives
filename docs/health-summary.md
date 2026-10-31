@@ -20,8 +20,26 @@ Kuro was a male dog, 15 years old in December 2025, cared for by FurKids (regula
 
 Prednisolone 5 mg, Protexin Pro-Enzorb, Supra Mineral at every invoiced visit; darbepoetin and iron tablets from Apr 2026; Aminavast from Aug 2026; Baytril in Apr and Sep 2026; Advocate in Sep 2026.
 
+## Lab panels, 2026 (FurKids in-house, IDEXX)
+
+From `data/processed/lab_panels.csv`. H/L = outside the printed reference interval.
+
+| Analyte | Ref | 2026-02-04 | 2026-07-01 | 2026-08-10 | 2026-09-14 |
+|---|---|---|---|---|---|
+| UREA (mmol/L) | 2.5–9.6 | 11.2 H | 11.5 H | 17.2 H | 13.0 H |
+| CREA (µmol/L) | 44–159 | 78 | 97 | 80 | 114 |
+| ALT (U/L) | 10–125 | – | 94 | 130 H | 112 |
+| ALKP (U/L) | 23–212 | – | 217 H | 211 | 192 |
+| HCT (%) | 37.3–61.7 | – | 33.9 L | 32.8 L | 34.9 L |
+| HGB (g/dL) | 13.1–20.5 | – | 11.8 L | 12.0 L | 12.5 L |
+| RETIC (K/µL) | 10–110 | – | 60.3 | 70.4 | 38.3 |
+| WBC (×10⁹/L) | 5.05–16.76 | – | 11.17 | 13.39 | 16.00 |
+| MONO (×10⁹/L) | 0.16–1.12 | – | 0.98 | 1.26 H | 1.29 H |
+
+SNAP 4Dx Plus (Anaplasma, Ehrlichia, heartworm, Lyme): negative in Jun 2024 and Sep 2026. The analyzer printed "anemia without reticulocytosis – likely non-regenerative anemia" in Aug and Sep 2026.
+
 ## Gaps
 
-- No numeric lab panels yet: Chem17, CBC and SDMA were run at least four times, but the results are not in these records. Request the full history from FurKids.
+- No SDMA value in any record, though it was ordered in Oct 2024, Apr 2026 and Aug 2026. Panels before Jul 2026 (beyond the partial Feb 2026 one) need to be requested from FurKids.
 - No invoices before Oct 2025.
-- About 30 medical photos (medicine labels, packaging, one analyzer printout) are not yet transcribed.
+- Remaining medical photos are mostly medicine labels and acupuncture appointment screenshots; dosing from the Feb 2026 labels is in `health_events.csv`.
