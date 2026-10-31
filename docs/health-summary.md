@@ -1,11 +1,14 @@
-# Kuro — health summary, May 2024 to Oct 2026
+# Kuro — health summary, Jan 2023 to Oct 2026
 
-Kuro was a male, neutered mixed-breed dog, born around March 2010. He died on 18 October 2026, aged 16. His regular vet was FurKids (Furkids Wellness Veterinary Centre); he also had acupuncture at Asia Paws and house calls from Petcare. This summary is assembled from in-house IDEXX lab reports, 25 invoices, medicine labels, clinic images and WhatsApp messages. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../data/processed/).
+Kuro was a male, neutered golden mix, born on 10 March 2010. He died on 18 October 2026, aged 16. His regular vet was FurKids (Furkids Wellness Veterinary Centre); he also had acupuncture at Asia Paws and house calls from Petcare. This summary is assembled from in-house IDEXX lab reports, 25 invoices, medicine labels, clinic images and WhatsApp messages. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../data/processed/).
 
 ## Timeline at a glance
 
+- **2023: skin, ears and eyes.** Seen at an earlier clinic (Taman Megah) in Jan 2023 for a skin infection: skin tablets on alternate days, medicated ear drops, eye-cleansing solution and medicated shampoo. Through 2023 the pet sitter cleaned his ears, gave eye drops and supplements; scabbing and itching came back when the shampoo was reduced (Dec 2023). In Sep 2023 a vet found "his blood tests are all ok" and the allergy cause unknown.
+- **Jan 2024:** moved to FurKids; "slightly anemic since Jan this year".
 - **Mar 2024:** home-cooked NRC-balanced senior diet formulated (`diet.csv`); 21.5 kg.
 - **Jun–Jul 2024: hospital stay.** HCT fell from 34.0% (27 May) to 24.8% (28 Jun) and 13.2% (30 Jun); WBC 26.8–30.2; lipase 5,745 U/L and cPL abnormal (pancreatitis). The vet rated the bloods "critical" and suspected "a mass cancer in the abdomen". ICU from 28 Jun with blood typing (DEA 1+), a transfusion from a German Shepherd donor on 30 Jun, x-rays, ultrasound and IV fluids; red cell count rose 13% → 17% → 20%. A rescan before planned surgery showed the tumour had "spread to kidney and some parts of intestine", an "inoperable mass", so surgery was cancelled in favour of stabilisation and "palliative care". Home on about 5 Jul; fine needle aspiration that day (no result in the records).
+- **Jul 2024:** hind-leg wounds from the kennel stay (cone, ointment four times a day; biopsy showed "not a tumor"); house-call vet found "crepitus... indicating athritis"; acupuncture at Asia Paws starts (weekly in Aug 2024, twice weekly Feb–Apr 2025).
 - **Aug 2024:** "CPLi back to normal... recovered from pancreatitis"; prednisolone tapered.
 - **Oct 2024:** red cell count 26.6 → 30%, liver normal; darbepoetin injected ("another dose").
 - **17 Nov 2024:** seen at an outside clinic (Kota Damansara Veterinary Centre) while the FurKids vets were away: HCT 18.9%, HGB 6.7, WBC 28.07, platelets 111. The vet suspected an "immune-mediated issue due to the spleen mass" and gave prednisolone, Clavamox and Yunnan Baiyao.
@@ -28,6 +31,8 @@ From `lab_panels.csv`; one value per visit (first run of the day). All FurKids e
 | 2024-11-17 | 18.9 L | 111 L | 5.5 | 90 | – | 68 | 193 | 852 |
 | 2025-01-06 | 31.4 L | 701 H | 8.9 | 89 | – | 33 | 193 | – |
 | 2025-02-10 | 36.5 L | 624 H | 13.5 H | 116 | – | 74 | 141 | – |
+| 2025-03-10 | 32.7 L | 584 H | 7.9 | 69 | – | 145 H | 207 | – |
+| 2025-04-16 | 35.3 L | 578 H | 9.5 | 104 | – | 151 H | 218 H | 1,368 |
 | 2025-05-05 | 34.9 L | 603 H | – | – | – | 138 H | 213 H | – |
 | 2025-06-16 | 38.5 | 586 H | – | – | – | 135 H | 168 | – |
 | 2025-11-10 | 35.0 L | 473 | 7.0 | 81 | 12 | 134 H | 198 | 4,451 H |
@@ -47,10 +52,11 @@ The analyzer repeatedly commented "anemia without reticulocytosis – likely non
 | Pancreas | 2024-06 → 2025-11 | Lipase high Jun 2024 and Nov 2025; cPL abnormal Jun 2024; pancreatic lipase test Nov 2025; low-fat gastrointestinal diet and Lypex pancreatitis supplement. |
 | Liver values | 2025-05 → 2026-08 | ALT above range May–Nov 2025 and Aug 2026; ALKP intermittently high. Ursofalk (Oct 2025), Samylin, Maximus Hep. |
 | Kidney values | 2025-02 → 2026-09 | Urea high from Dec 2025 on, peaking at 17.2 (Aug 2026); creatinine always in range; SDMA normal (Nov, Dec 2025). |
-| Hind leg, hip and back pain | 2024-10 → 2026-10 | Mentioned at almost every acupuncture session; progressed to weakness and "sarcopenia (muscle atrophy)" by Jul 2026. |
+| Skin, ears and eyes | 2023-01 → 2024-06 | Skin infection with scabbing and itching, controlled by medicated shampoo; regular ear cleaning with medicated drops; eye drops; eye discharge on one side (Apr 2024); fur loss at the tail (May 2024); head-shaking again Oct 2025. |
+| Hind leg, hip and back pain | 2024-07 → 2026-10 | Arthritis ("crepitus") noted Jul 2024; "Arthritis and some nerve pain" Apr 2025. Mentioned at almost every acupuncture session; progressed to weakness and "sarcopenia (muscle atrophy)" by Jul 2026. |
 | Incontinence | 2024-10 → 2026-07 | Diapers from Nov 2024; urine soiling and urine burn concerns in mid-2026. |
 | Weight | 2024-06 → 2026-09 | 23.0 kg (Jun 2024) → 20.9 (Feb 2025) → 21.3–22.2 (Jun 2025 – Feb 2026) → 19.4–19.7 (Aug–Sep 2026). |
-| Wounds and lumps | 2025-04 → 2026-09 | Leg abrasion (Apr–May 2025); bump near the eye, "small cyst" (Dec 2025); cheek fluid (Mar 2026); leg and armpit growths, "may be a lipoma" (Jul 2026); nibbled wound (Sep 2026). |
+| Wounds and lumps | 2024-07 → 2026-09 | Hind-leg wounds from kennel stay (Jul–Aug 2024); leg abrasion (Apr–May 2025); bump near the eye, "small cyst" (Dec 2025); cheek fluid (Mar 2026); leg and armpit growths, "may be a lipoma" (Jul 2026); nibbled wound (Sep 2026). |
 
 ## Medications
 

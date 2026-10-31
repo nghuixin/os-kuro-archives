@@ -1,4 +1,6 @@
 date,date_basis,analyte,value,unit,qualitative,source,note
+2023-09-10,chat,blood panel,,,normal,whatsapp pet sitting chat (owner),"""his blood tests are all ok"""
+2024-05-27,chat,red blood cell count,,,low,whatsapp pet sitting chat (owner),"""a bit anemic, same as last time""; matches HCT 34.0% in lab_panels.csv"
 2024-06-30,chat,blood type,DEA 1+,,,whatsapp furkids chat (clinic),before transfusion
 2024-06-30,chat,red blood cell count (as reported),13 -> 17 -> 20,%,low,whatsapp furkids chat (vet),series during transfusion and stabilisation
 2024-08-13,chat,cPL,,,normal,whatsapp furkids chat (vet),"""CPLi back to normal"""

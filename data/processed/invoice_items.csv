@@ -63,6 +63,10 @@ date,invoice_id,item,category,qty,unit_price_rm,amount_rm
 2024-07-25,INV-9031,SUPRA MINERAL PER BOTTLE - Petdiatric,supplement,1,63.00,63.00
 2024-07-25,INV-9031,PREDNISOLONE 5MG PER TAB,medication / other,20,0.80,16.00
 2024-07-25,INV-9031,BAYTRIL 150MG PER TAB,medication / other,12,15.00,180.00
+2024-07-29,Petcare-2024-07-29,BN (M) - B12,medication / other,,,20.00
+2024-07-29,Petcare-2024-07-29,"Neuroforte, 1 SID (30 days)",supplement,,,30.00
+2024-07-29,Petcare-2024-07-29,Transport / house visit,consultation,,,100.00
+2024-07-29,Petcare-2024-07-29,Consultation,consultation,,,50.00
 2024-08-14,INV-9564,"CONSULTATION, FOLLOW UP",consultation,1,40.00,40.00
 2024-08-14,INV-9564,MAXIMUS HEP - Petdiatric,medication / other,1,140.00,140.00
 2024-08-14,INV-9564,PROTEXIN PRO-ENZORB FOR DOG & CAT PER CAP,supplement,20,5.50,110.00

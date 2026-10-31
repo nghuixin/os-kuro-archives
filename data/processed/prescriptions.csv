@@ -1,7 +1,25 @@
 date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confidence,note
+2023-01-11,earlier clinic (Yeoh or Bangsar Veterinary Clinic),Skin tablets (name unreadable),skin infection,2.5 tablets,"1x daily, then every other day","11-21 Jan, then 22-28 Jan alternate days",,IMG-20230118-WA0012.jpg,low,two bags; clinic tick box unclear
+2023-01-18,,Surolan topical suspension (Elanco),ear,5 drops each ear,2x daily,10 days,after ear cleaning,IMG-20230118-WA0014.jpg,medium,"handwritten on box; chat: ""two drops each ear"""
+2023-01-18,,Ear cleaner,ear cleaning,fill ear canal,,,massage base of ear,IMG-20230118-WA0013.jpg,low,brand not visible
+2023-01-18,,Gold Medal Pets Clean Eyes,eye cleansing,,,,,IMG-20230303-WA0014.jpg,high,
+2023-03-03,owner (supplement),Resvantage Canine (resveratrol 5 mg),longevity supplement,,,,,IMG-20230303-WA0015.jpg,medium,
+2023-03-03,owner (supplement),dermcare Aloveen,skin/coat,,,,,IMG-20230303-WA0015.jpg,medium,product type partly hidden
+2023-09-03,owner (supplement),RESET healthy-aging capsules,aging supplement,1 capsule,1x daily,,,IMG-20230904-WA0002.jpg,high,brand partly covered
+2023-09-03,owner (supplement),Bioline Eye Care balsam,eye care,,,,,IMG-20230904-WA0003.jpg,high,
+2023-09-03,owner (supplement),"VetClassics CAS Options (reishi, shiitake, maitake, turkey tail)",immune and antioxidant support,2 chews,1x daily,,,IMG-20230904-WA0005.jpg,high,
+2023-09-10,vet (clinic not printed),Maximus Ophtal (PETdiatric),eye supplement,1 tablet,1x daily,,,IMG-20230910-WA0013.jpg,high,added after vet visit
+2023-09-10,vet (clinic not printed),Cetirizine 10 mg,antihistamine,1 tablet,1x daily,6 days,after food,IMG-20230910-WA0014.jpg,high,added after vet visit
+2023-12-11,owner (supplement),Lanomax lanosterol eye drops,cataract eye drops,,,,,IMG-20231211-WA0009.jpg,high,
+2023-12-11,owner (supplement),MAOWASH oral-care water additive,dental,2-3 pumps,in drinking water,,,IMG-20231211-WA0008.jpg,medium,"dose from chat; label tags read triclosan, xylitol, preservative - unclear whether 'contains' or 'free of'"
+2023-12-25,vet-carried,MiconaHex+Triz shampoo,"antimicrobial, antifungal shampoo",,,,,IMG-20231226-WA0012.jpg,high,
+2024-02-23,owner (supplement),Maximus Ophtal (PETdiatric),eye supplement,,,,,IMG-20240223-WA0006.jpg,high,bought from Philos vet
 2024-07-05,FurKids,Prednisolone 5 mg,steroid,1 tablet,2x daily,7 days,,IMG-20240711-WA0003.jpg,high,label dated 5 Jul 2024
 2024-07-08,FurKids,Metrogyl 400 mg (metronidazole),,1 tablet,2x daily,,,IMG-20240708-WA0015.jpg,medium,blister pack only; dose from chat
 2024-07-25,FurKids,Baytril 150 mg,antibiotic,0.75 tablet,1x daily,16 days,after meal; to be completed; pre-prepared capsules,IMG-20240726-WA0001.jpg,high,
+2024-07-25,owner (supplement),Liver tonic (name not visible),"liver, kidney, pancreas, gallbladder support",0.5 ml,2x daily,,with meals; refrigerate,IMG-20240725-WA0004.jpg,high,dose for 5-60 lb dogs
+2024-07-29,Petcare (house call),B12 supplement,vitamin B12,1 tablet,1x daily,,,IMG-20240729-WA0010.jpg,medium,
+2024-07-29,Petcare (house call),Neuroforte,nerve supplement,1,1x daily,30 days,,IMG-20240729-WA0010.jpg,low,name partly readable on invoice
 2024-08-14,FurKids,Maximus Hep (curcumin liver supplement),liver supplement,,,,,IMG-20240814-WA0002.jpg,medium,label partly removed; identified from chat and the later Maximus Hep photo; exp 03/2027
 2024-10-23,FurKids,Maltofer iron tablet,iron,1 tablet,1x daily,30 days,,IMG-20241117-WA0024.jpg,high,
 2024-10-23,FurKids,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,30 days,after food,IMG-20241117-WA0026.jpg,high,
@@ -18,6 +36,7 @@ date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confi
 2025-03-10,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,,,after meal,IMG-20250310-WA0003.jpg,medium,frequency partly hidden by another bag
 2025-03-10,FurKids,Protexin Pro-Enzorb,,,,,,IMG-20250310-WA0003.jpg,low,dispensed; dosing hidden
 2025-03-10,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20250310-WA0003.jpg,high,box only; no dosing label
+2025-04-22,FurKids,Arnica C30 (homeopathic),pain,,,,,IMG-20250422-WA0053.jpg,high,given free by the vet
 2025-04-28,Petcare (house call),Neuroforte,nerve supplement,1 tablet,1x daily,,,IMG-20250501-WA0065.jpg,medium,"start date handwritten, read as 28/4/25; times-daily digit overwritten; label also notes ""20kgs"""
 2025-04-29,Petcare (house call),Galliprant,anti-inflammatory,0.5 tablet,1x daily,10 days,after food,IMG-20250501-WA0062.jpg,high,drug name from invoice 79410; label says anti-inflammatory
 2025-05-01,Petcare,Antibiotic (name not on label),antibiotic,1 tablet,2x daily,5 days,after food,IMG-20250501-WA0067.jpg,high,also IMG-20250501-WA0070.jpg
@@ -25,6 +44,8 @@ date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confi
 2025-05-01,FurKids,Murozin ointment (mupirocin 2%),wound care (antibacterial),thin layer,,,"step 3: pat dry, apply thin layer",IMG-20250501-WA0073.jpg,high,
 2025-05-16,Asia Paws,Arnica 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
 2025-05-16,Asia Paws,Hypericum 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
+2025-06-15,owner (supplement),YuMOVE Senior (green-lipped mussel),joint supplement,,,,,IMG-20250615-WA0050.jpg,high,"medicines on hand in Jun 2025, with Maximus Hep, Supra Mineral, Samylin and homeopathic vials"
+2025-06-15,FurKids,"Samylin (VetPlus, 10-30 kg)",liver supplement,,,,,IMG-20250615-WA0053.jpg,high,
 2025-08-28,owner (over the counter),TropiClean Fresh Breath oral care,mouth spray,3-4 sprays,,,,IMG-20251015-WA0009.jpg,high,"per 5 ml: cetylpyridinium chloride 4.6 mg, green tea extract 0.6 mg, zinc gluconate 0.5 mg; dose from chat 2025-08-28"
 2025-09-11,Asia Paws,Arnica (homeopathic),"""for pain & trauma""",a few globuli,every 0.5-1 hour,,in his water,IMG-20250912-WA0022.jpg,medium,label partly visible; dosing from chat
 2025-11-04,Asia Paws,Strophanthus (homeopathic),"""heart support""",,,,,IMG-20251104-WA0029.jpg,medium,label partly visible
