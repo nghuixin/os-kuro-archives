@@ -4,7 +4,7 @@ date,date_basis,modality,view,measurement,source,note
 2024-07-01,invoice,x-ray,2 views + additional views,,INV-8599,no images or report in records
 2024-07-05,invoice,fine needle aspiration,,,INV-8671,site and result not in records
 2024-07-11,invoice,x-ray,additional views,,INV-8842,no images or report in records
-2024-07-11,image header,x-ray,thorax lateral,,A04911.jpg (Furkids),no written report
+2024-07-11,image header,x-ray,thorax lateral,,clinic x-ray image (Furkids),no written report
 2024-07-11,chat,ultrasound,abdomen (stills from video),,IMG-20240711-WA0034 to WA0038.jpg (Furkids),"clinic sent ""manually captured"" stills of the earlier ultrasound"
 2024-11-20,chat (reported),ultrasound,abdomen,,whatsapp pet taxi chat (owner relaying vet),"""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""; scan date not stated"
 2025-05-05,invoice,x-ray,2 views,,INV-16890,no images or report in records
