@@ -209,6 +209,53 @@ date,time,analyzer,analyte,value,unit,ref_low,ref_high,flag,lab,source,confidenc
 2024-07-01,14:39,IDEXX ProCyte Dx,PLT,208,K/uL,148,484,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,analyzer flag: confirm with dot plot and/or blood film
 2024-07-01,14:39,IDEXX ProCyte Dx,MPV,15.6,fL,8.7,13.2,high,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
 2024-07-01,14:39,IDEXX ProCyte Dx,PCT,0.32,%,0.14,0.46,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-11-17,15:35,IDEXX ProCyte Dx,RBC,2.97,x10^12/L,5.65,8.87,low,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,HCT,18.9,%,37.3,61.7,low,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,HGB,6.7,g/dL,13.1,20.5,low,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,MCV,63.6,fL,61.6,73.5,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,MCH,22.6,pg,21.2,25.9,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,MCHC,35.4,g/dL,32.0,37.9,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,RDW,15.8,%,13.6,21.7,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%RETIC,1.7,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,RETIC,50.2,K/uL,10.0,110.0,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,RETIC-HGB,22.4,pg,22.3,29.6,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,WBC,28.07,x10^9/L,5.05,16.76,high,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%NEU,88.8,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%LYM,7.3,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%MONO,3.8,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%EOS,0.1,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,%BASO,0.0,%,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,NEU,24.93,x10^9/L,2.95,11.64,high,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,LYM,2.04,x10^9/L,1.05,5.1,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,MONO,1.07,x10^9/L,0.16,1.12,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,EOS,0.02,x10^9/L,0.06,1.23,low,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,BASO,0.01,x10^9/L,0.0,0.1,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,PLT,111,K/uL,148,484,low,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,MPV,13.4,fL,8.7,13.2,high,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,PDW,13.6,fL,9.1,19.4,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:35,IDEXX ProCyte Dx,PCT,0.15,%,0.14,0.46,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0021.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,GLU,5.76,mmol/L,3.89,7.95,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,CREA,90,umol/L,44,159,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,UREA,5.5,mmol/L,2.5,9.6,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,BUN/CREA,15,,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,PHOS,1.04,mmol/L,0.81,2.2,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,CA,2.34,mmol/L,1.98,3.0,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,TP,60,g/L,52,82,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,ALB,28,g/L,22,39,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,GLOB,33,g/L,25,45,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,ALT,68,U/L,10,125,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,ALKP,193,U/L,23,212,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,GGT,0,U/L,0,11,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,TBIL,3,umol/L,0,15,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,CHOL,3.94,mmol/L,2.84,8.26,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,AMYL,933,U/L,500,1500,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,LIPA,852,U/L,200,1800,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,Na,156,mmol/L,144,160,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,K,3.6,mmol/L,3.5,5.8,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,Na/K,44,,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,Cl,113,mmol/L,109,122,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
+2024-11-17,15:47,IDEXX Catalyst One,Osm Calc,308,mmol/kg,,,,Kota Damansara Veterinary Centre (in-house),IMG-20241117-WA0027.jpg,high,outside clinic; photographed printout
 2025-01-06,10:58,IDEXX ProCyte Dx,RBC,5.42,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
 2025-01-06,10:58,IDEXX ProCyte Dx,HCT,31.4,%,37.3,61.7,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
 2025-01-06,10:58,IDEXX ProCyte Dx,HGB,11.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column

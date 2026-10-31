@@ -1,4 +1,6 @@
 date,date_basis,clinic,visit_type,summary,source
+2024-05-27,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20240628_114919_3815.pdf
+2024-06-28,lab report,FurKids,consultation,"CBC, chemistry with electrolytes, cPL, 4Dx; HCT 24.8%; start of the 28 Jun - 1 Jul hospital stay billed on INV-8599",KURO_20240628_114919_3815.pdf
 2024-07-01,invoice,FurKids,hospitalization,"HOSPITALIZATION, ICU; CATALYST - CHEM17 + CBC(PACKAGE); CATALYST - LYTE 4; FLUIDS - IV SET UP + 1ST BAG; BLOOD TRANSFUSION (>20KG); RAPIDVET BLOOD TYPING - CANINE; FLUID BAG 1000ML (LR/NACL); ULTRASOUND - THOROUGH (>15MIN); RADIOGRAPH 2VIEWS; RADIOGRAPH - 3RD ONWARDS; TEST - SNAP cPL (PANCREATITIS); CBC (INCLUDE PBF); 12 medications/supplements",INV-8599
 2024-07-05,invoice,FurKids,consultation,"BOARDING, DOG > 20KG; CBC (INCLUDE PBF); FINE NEEDLE ASPIRATION (FNA); FLUIDS - SC (>20KG); 9 medications/supplements",INV-8671
 2024-07-11,invoice,FurKids,consultation,RADIOGRAPH - 3RD ONWARDS; CATALYST - CHEM17 + CBC(PACKAGE); 8 medications/supplements,INV-8842
@@ -8,8 +10,10 @@ date,date_basis,clinic,visit_type,summary,source
 2024-10-15,chat,Asia Paws,acupuncture,"gums checked: ""looks good and hydrated""",whatsapp pet taxi chat
 2024-10-22,chat,FurKids,consultation,blood test; jab and meds; then acupuncture,whatsapp pet taxi chat
 2024-10-24,chat,Asia Paws,acupuncture,lower back pain; urinary infection ruled out; written report relayed,whatsapp pet taxi chat
+2024-11-17,chat,KD Vet (outside clinic),consultation,"ultrasound and bloods while FurKids vets were away; red cell count 19%; prednisolone, antibiotic, anti-bleeding",whatsapp furkids chat; whatsapp pet taxi chat
 2024-11-26,chat,Asia Paws,acupuncture,"""left body side has signs of pain""",whatsapp pet taxi chat
 2024-12-12,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); 6 medications/supplements,INV-12766
+2025-01-06,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20250210_113328_5110.pdf
 2025-02-07,chat,Asia Paws,acupuncture,"""left kneee is abit bad""",whatsapp pet taxi chat
 2025-02-10,invoice,FurKids,consultation,CATALYST - CHEM10 + CBC(PACKAGE); 5 medications/supplements,INV-14317
 2025-02-27,chat,Asia Paws,acupuncture,"""left side more pain""; supplement given",whatsapp pet taxi chat
@@ -31,6 +35,7 @@ date,date_basis,clinic,visit_type,summary,source
 2025-10-13,invoice,FurKids,consultation,Chem17 + CBC,INV-22117
 2025-11-10,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; CATALYST - PANCREATIC LIPASE (PL); CATALYST - SDMA; 7 medications/supplements,INV-23175
 2025-12-28,chat,FurKids,consultation,"x-rays (2025-12-29 on image); bump near eye ""small cyst that can be popped""",whatsapp pet taxi chat; furkids chat
+2025-12-30,chat,FurKids,consultation,"left hind limp, possible mild sprain; paw pad red",whatsapp furkids chat
 2026-02-03,chat,FurKids,consultation,"bloodwork ""overall reading good""; steroids, pancreas supplement, multivitamin",whatsapp pet taxi chat
 2026-03-16,chat,FurKids,consultation,"blood test; right cheek ""Touch of it is fluid""; ""abit anemic""",whatsapp pet taxi chat
 2026-04-20,invoice,FurKids,consultation,Chem17 + CBC + SDMA; 20.6 kg; antibiotics; darbepoetin,INV-29152; whatsapp pet taxi chat
@@ -41,6 +46,3 @@ date,date_basis,clinic,visit_type,summary,source
 2026-09-14,invoice,FurKids,consultation,Chem17 + CBC + SNAP 4Dx Plus; 19.7 kg; antibiotics; Advocate,INV-35208; whatsapp pet taxi chat
 2026-10-06,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat
 2026-10-19,invoice,FurKids,post mortem,POST MORTEM,INV-36648
-2024-05-27,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20240628_114919_3815.pdf
-2024-06-28,lab report,FurKids,consultation,"CBC, chemistry with electrolytes, cPL, 4Dx; HCT 24.8%; start of the 28 Jun - 1 Jul hospital stay billed on INV-8599",KURO_20240628_114919_3815.pdf
-2025-01-06,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20250210_113328_5110.pdf

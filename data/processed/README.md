@@ -12,7 +12,8 @@ Values extracted from Kuro's records. The raw sources (WhatsApp chats, photos, i
 | `lab_results.csv` | one per finding | earlier numbers and qualitative readings mentioned in chat | chats |
 | `weights.csv` | one per weighing | weight in kg | chats |
 | `imaging.csv` | one per study | ultrasound, x-ray, surgical photo, with measurements | chats, clinic images |
-| `health_events.csv` | one per mention | symptoms, diagnoses, medications, care notes, quoted | chats |
+| `health_events.csv` | one per mention | symptoms, diagnoses, medications, care notes and post-mortem findings, quoted | Pet Taxi chat, FurKids chats |
+| `diet.csv` | one per nutrient | home-cooked NRC-balanced senior recipe: macronutrients, amino acids, fatty acids, minerals, vitamins vs NRC allowance | diet analysis PDF, Mar 2024 |
 
 ## Conventions
 

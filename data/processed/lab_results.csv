@@ -1,11 +1,19 @@
 date,date_basis,analyte,value,unit,qualitative,source,note
+2024-06-30,chat,blood type,DEA 1+,,,whatsapp furkids chat (clinic),before transfusion
+2024-06-30,chat,red blood cell count (as reported),13 -> 17 -> 20,%,low,whatsapp furkids chat (vet),series during transfusion and stabilisation
+2024-08-13,chat,cPL,,,normal,whatsapp furkids chat (vet),"""CPLi back to normal"""
 2024-10-22,chat,red blood cell count (as reported),30,%,,whatsapp pet taxi chat (owner relaying vet),"reported on 2024-11-20 as ""last month"""
+2024-10-23,chat,red blood cell count (as reported),30,%,low,whatsapp furkids chat (vet),"up from 26.6; ""mild anemia"""
 2024-11-20,chat,red blood cell count (as reported),19,%,low,whatsapp pet taxi chat (owner relaying vet),"""No fever"", other organs normal"
 2025-07-15,chat,ALT,,,high,whatsapp pet taxi chat (owner),"""ALT is a bit high so ... liver needs support"""
+2025-11-10,chat,lipase,4000+,U/L,high,whatsapp furkids chat (vet),"""from 2000+ last month""; matches 4451 in lab_panels.csv"
 2026-02-03,chat,unspecified,,,slightly high,whatsapp pet taxi chat (service),"""overall reading good""; ""reading a little high but not too concerning"""
 2026-03-16,chat,red blood cell count,,,low,whatsapp pet taxi chat (service),"""abit anemic"""
+2026-03-16,chat,red blood cell count (as reported),36,%,low,whatsapp furkids chat (vet),cited at the 2026-04-20 visit
 2026-04-19,chat,kidney panel,,,normal,whatsapp pet taxi chat (service),"""Kidney okay""; SDMA ordered (invoice INV-29152)"
 2026-04-19,chat,liver panel,,,slightly high,whatsapp pet taxi chat (service),"""liver abit high""; ""Suspect got infection"" from blood test"
+2026-04-20,chat,red blood cell count (as reported),37,%,low,whatsapp furkids chat (vet),"""still below the normal range"""
+2026-04-20,chat,SDMA,,,normal,whatsapp furkids chat (vet),"kidney good ""including SDMA""; value not given"
 2026-05-17,chat,liver panel,,,normal,whatsapp pet taxi chat (service),"""Liver okay"""
 2026-05-17,chat,kidney panel,,,slightly abnormal,whatsapp pet taxi chat (service),"""due to dehydration abit off"""
 2026-05-17,chat,red blood cell count,,,low,whatsapp pet taxi chat (service),"""Anemic abit so jab"""
