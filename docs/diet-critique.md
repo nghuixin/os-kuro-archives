@@ -1,6 +1,6 @@
 # Diet critique: NRC Balanced White + Red Meat, Senior V2 (Mar 2024)
 
-A brief review of the home-cooked recipe in [`data/processed/diet.csv`](../data/processed/diet.csv), analysed on 15 Mar 2024 for Kuro at 21.5 kg, inactive senior. The recipe is 540 g and 895 kcal a day. Values are converted to per 1,000 kcal so they can be compared with published limits. This is a desk review, not a substitute for a board-certified veterinary nutritionist.
+A brief review of the tailored recipe in [`data/processed/diet.csv`](../data/processed/diet.csv), analysed on 15 Mar 2024 for Kuro at 21.5 kg, inactive senior. It almost certainly corresponds to the **tailored raw diet** he started around 25 Mar 2024, whose ingredients the owner listed in the grooming chat: salmon head, chicken meaty bones, cooked spinach, buffalo spleen and liver, chicken liver, red cabbage, cooked carrot, blueberries, psyllium husk, kefir, inulin, pumpkin seeds, curcumin, piperine, flax seed, wheat germ oil, kelp powder and zinc. The recipe is 540 g and 895 kcal a day. Values are converted to per 1,000 kcal so they can be compared with published limits. This is a desk review, not a substitute for a board-certified veterinary nutritionist.
 
 ## What it gets right
 
@@ -32,6 +32,7 @@ A brief review of the home-cooked recipe in [`data/processed/diet.csv`](../data/
 
 Photos and chats in [`feeding.csv`](../data/processed/feeding.csv) show what reached the bowl after the analysis:
 
+- **25 Mar – Jun 2024: the tailored raw diet** (ingredients above). It includes **chicken meaty bones** (a calcium source), **wheat germ oil and flax** (oils), kelp and zinc, so it was a complete recipe on paper. It was **raw and high in fat**, and he developed pancreatitis about three months after starting it; on 29 Jun 2024 the owner wrote, "Maybe from his diet change". In Apr–May 2024 the groomer also linked new tail hair loss to the diet change.
 - **Jul 2024 (after the pancreatitis episode):** "chicken breast, 0.25 cup of sweet potatoes, 0.25 cup of pumpkin, 2x day", plus Royal Canin and Vet Pro low-fat gastrointestinal food from FurKids, a boiled egg in the evening, and a pork food topper (70% muscle meat with bones and vegetables).
 - **Jul 2024 care notes:** the same chicken, sweet potato and pumpkin meals, plus Dr. Harvey's Multivitamin & Mineral Powder (4 scoops, twice a day), turmeric and a herbal powder mixed in.
 - **Oct 2024:** a handwritten list, "Kuro Daily Foods Ingredients": beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries.
@@ -40,12 +41,12 @@ Photos and chats in [`feeding.csv`](../data/processed/feeding.csv) show what rea
 
 Two points follow:
 
-1. **A vitamin-mineral supplement was added, but calcium and oil are still unaccounted for.** The ingredient lists alone include no calcium source, oil or vitamin-mineral mix, which an NRC-balanced meat-and-vegetable recipe depends on. The owner's Jul 2024 care notes show that **Dr. Harvey's Multivitamin & Mineral Powder, 4 scoops twice a day**, was mixed into his food, with turmeric and a herbal powder. That covers the vitamin-mineral gap for 2024, but whether it supplied enough calcium depends on its formulation, which the records don't give. By 2025 it no longer appears on the supplement list. The 2025 ingredient list adds **beef liver and beef lung**, which add vitamin A, B vitamins, iron and copper, but still no calcium source or oil.
+1. **After the raw diet stopped, calcium and oil are unaccounted for.** The raw recipe covered them (bones, wheat germ oil, flax), but the home-cooked lists from Jul 2024 onward include no calcium source, oil or vitamin-mineral mix, which an NRC-balanced meat-and-vegetable recipe depends on. The owner's Jul 2024 care notes show that **Dr. Harvey's Multivitamin & Mineral Powder, 4 scoops twice a day**, was mixed into his food, with turmeric and a herbal powder. That covers the vitamin-mineral gap for 2024, but whether it supplied enough calcium depends on its formulation, which the records don't give. By 2025 it no longer appears on the supplement list. The 2025 ingredient list adds **beef liver and beef lung**, which add vitamin A, B vitamins, iron and copper, but still no calcium source or oil.
 2. **The Jul 2024 version suits the vet's low-fat order.** Chicken breast with pumpkin and sweet potato is a lean base, unlike the 43%-fat analysed recipe. But it gives no meat quantity, so its calories and protein can't be checked against his weight loss later on.
 
 ## Overall
 
-A well-built maintenance recipe for a healthy senior. But it is **too high in fat** for a dog who developed pancreatitis three months later, **over the AAFCO vitamin D maximum**, and **only just adequate** on choline and vitamin K. The analysis covers the recipe as written, not what was actually cooked and eaten.
+A well-built maintenance recipe for a healthy senior. But it is a **raw, high-fat** recipe — **too high in fat** for a dog who developed pancreatitis about three months after starting it — **over the AAFCO vitamin D maximum**, and **only just adequate** on choline and vitamin K. The analysis covers the recipe as written, not what was actually cooked and eaten.
 
 ## Sources
 

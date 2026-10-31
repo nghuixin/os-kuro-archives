@@ -1,4 +1,4 @@
-﻿# os-kuro-archives
+# os-kuro-archives
 
 A health archive for **Kuro**, a mixed-breed dog (Embark: 52% Golden Retriever, 34% Japanese Spitz), born 10 Mar 2010 in Malaysia, died 18 Oct 2026, aged 16. It covers 2021 – Oct 2026 and is built from his vet invoices, in-house lab reports, X-rays, medicine labels, care notes, photos and the WhatsApp chats with his family, vets, pet sitter, pet taxi and household helper.
 
@@ -28,13 +28,14 @@ It is also the reference dataset for the **Canine Health Atlas**, a planned tool
 | `labs.csv` | 850 | IDEXX blood panels (chemistry, CBC, SDMA, electrolytes, 4Dx), analyzer comments and lab findings mentioned in chat |
 | `prescriptions.csv` | 118 | Medications, supplements and care products, with kind, brand, dose and duration |
 | `invoice_items.csv` | 228 | Every line of 27 vet invoices (RM) |
-| `health_events.csv` | 453 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
+| `health_events.csv` | 462 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
 | `weights.csv` | 24 | Weights from 2020 to 2026 |
 | `imaging.csv` | 13 | X-rays, ultrasounds, biopsy and post-mortem photo |
-| `feeding.csv` | 32 | What he ate: home-cooked meals, therapeutic diets, toppers, treats, feeding instructions |
+| `feeding.csv` | 33 | What he ate: home-cooked meals, therapeutic diets, toppers, treats, feeding instructions |
 | `diet.csv` | 53 | Nutrient analysis of his Mar 2024 home-cooked recipe |
 | `home_care.csv` | 321 | Hot/cold pack sessions on his hips and hindquarters (May 2025 – Apr 2026) |
 | `stool_log.csv` | 63 | Stool photos scored for consistency, colour, blood and mucus (Jul 2024 – May 2025) |
+| `grooming.csv` | 54 | Home grooming sessions with the groomer's notes on his skin and ears (Jan 2024 – Oct 2026) |
 | `providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
 | `milestones.csv` | 21 | Birthdays, celebrations and life milestones |
 | `birthday_wishes.csv` | 11 | Messages for his 15th birthday |

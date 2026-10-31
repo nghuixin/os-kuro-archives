@@ -3,6 +3,7 @@ date,date_basis,type,item,amount,frequency,composition,source,confidence,note
 2023-11-20,photo,treat,Curated Cuts grass-fed beef treats,,,single ingredient beef,IMG-20231120-WA0009.jpg,medium,from OCR of the pack
 2023-12-27,chat,home-cooked,Chicken liver,,,,whatsapp pet sitting chat,high,owner asked for liver to be cooked for him
 2024-03-15,diet analysis,diet plan,"NRC Balanced: White + Red Meat, Senior V2",540 g,per day,"see diet.csv: 895 kcal, fat 43% of calories",NutritionalFacts_WM+RMV2.pdf,high,recipe as analysed; ingredients and supplements not listed in the PDF
+2024-03-25,chat,diet change,Tailored raw diet (therawproof),,,"salmon head, chicken meaty bones, cooked spinach, buffalo spleen, buffalo liver, chicken liver, red cabbage, cooked carrot, blueberries, psyllium husk, double-fermented kefir, chicory inulin, ground pumpkin seeds, curcumin, piperine, ground flax seed, wheat germ oil, kelp powder, zinc picolinate",grooming chat,high,started about 25 Mar 2024; owner later wondered whether the diet change contributed to his Jun 2024 pancreatitis
 2024-03-28,photo,treat,"Birthday cake order, pumpkin flavour",,once,,IMG-20240328-WA0034.jpg,medium,14th birthday
 2024-06-28,chat,therapeutic food,Gastrointestinal low-fat pouch; low-fat kibble trial,,,,whatsapp furkids chat,high,"vet: ""Kuro needs to be on low fat diet"""
 2024-07-01,invoice,therapeutic food,"Royal Canin Gastrointestinal Low Fat (dry, 1.5 kg)",1 bag,,,INV-8599,high,
