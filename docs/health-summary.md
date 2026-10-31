@@ -1,13 +1,13 @@
 # Kuro — health summary, Jan 2023 to Oct 2026
 
-Kuro was a male, neutered golden mix, born on 10 March 2010. He died on 18 October 2026, aged 16. His regular vet was FurKids (Furkids Wellness Veterinary Centre); he also had acupuncture at Asia Paws and house calls from Petcare. This summary is assembled from in-house IDEXX lab reports, 25 invoices, medicine labels, clinic images and WhatsApp messages. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../data/processed/).
+Kuro was a male, neutered golden mix, born on 10 March 2010. He died on 18 October 2026, aged 16. His regular vet was FurKids (Furkids Wellness Veterinary Centre); he also had acupuncture at Asia Paws and house calls from Petcare. This summary is assembled from in-house IDEXX lab reports, 27 vet invoices, medicine labels, feeding notes, clinic images and WhatsApp messages. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../data/processed/).
 
 ## Timeline at a glance
 
 - **2023: skin, ears and eyes.** Seen at an earlier clinic (Taman Megah) in Jan 2023 for a skin infection: skin tablets on alternate days, medicated ear drops, eye-cleansing solution and medicated shampoo. Through 2023 the pet sitter cleaned his ears, gave eye drops and supplements; scabbing and itching came back when the shampoo was reduced (Dec 2023). In Sep 2023 a vet found "his blood tests are all ok" and the allergy cause unknown.
 - **Jan 2024:** moved to FurKids; "slightly anemic since Jan this year".
-- **Mar 2024:** home-cooked NRC-balanced senior diet formulated (`diet.csv`); 21.5 kg.
-- **Jun–Jul 2024: hospital stay.** HCT fell from 34.0% (27 May) to 24.8% (28 Jun) and 13.2% (30 Jun); WBC 26.8–30.2; lipase 5,745 U/L and cPL abnormal (pancreatitis). The vet rated the bloods "critical" and suspected "a mass cancer in the abdomen". ICU from 28 Jun with blood typing (DEA 1+), a transfusion from a German Shepherd donor on 30 Jun, x-rays, ultrasound and IV fluids; red cell count rose 13% → 17% → 20%. A rescan before planned surgery showed the tumour had "spread to kidney and some parts of intestine", an "inoperable mass", so surgery was cancelled in favour of stabilisation and "palliative care". Home on about 5 Jul; fine needle aspiration that day (no result in the records).
+- **Mar 2024:** home-cooked NRC-balanced senior diet formulated (`diet.csv`): 540 g and 895 kcal a day, 43% of calories from fat; 21.5 kg.
+- **Jun–Jul 2024: hospital stay.** HCT fell from 34.0% (27 May) to 24.8% (28 Jun) and 13.2% (30 Jun); WBC 26.8–30.2; lipase 5,745 U/L and cPL abnormal (pancreatitis). The vet rated the bloods "critical" and suspected "a mass cancer in the abdomen". ICU from 28 Jun with blood typing (DEA 1+), a transfusion from a German Shepherd donor on 30 Jun, x-rays, ultrasound and IV fluids; red cell count rose 13% → 17% → 20%. A rescan before planned surgery showed the tumour had "spread to kidney and some parts of intestine", an "inoperable mass", so surgery was cancelled in favour of stabilisation and "palliative care". Home on about 5 Jul; fine needle aspiration that day (no result in the records). Diet switched to low fat: Royal Canin and Vet Pro gastrointestinal low-fat food, then home-cooked chicken breast with pumpkin and sweet potato.
 - **Jul 2024:** hind-leg wounds from the kennel stay (cone, ointment four times a day; biopsy showed "not a tumor"); house-call vet found "crepitus... indicating athritis"; acupuncture at Asia Paws starts (weekly in Aug 2024, twice weekly Feb–Apr 2025).
 - **Aug 2024:** "CPLi back to normal... recovered from pancreatitis"; prednisolone tapered.
 - **Oct 2024:** red cell count 26.6 → 30%, liver normal; darbepoetin injected ("another dose").
@@ -51,22 +51,42 @@ The analyzer repeatedly commented "anemia without reticulocytosis – likely non
 | Theme | Period | What the records show |
 |---|---|---|
 | Anemia and splenic tumour | 2024-05 → 2026-10 | HCT below range at almost every test; transfusion Jun 2024 after internal bleeding ("the bleeding has stabilized"); judged inoperable in Jul 2024. Immune-mediated anemia suspected Nov 2024. Mass measured 197.5 × 179.7 mm on x-ray Dec 2025. Post mortem confirmed a large splenic tumour with partial rupture. Prednisolone throughout; darbepoetin from Oct 2024; iron throughout. |
-| Pancreas | 2024-06 → 2025-11 | Lipase high Jun 2024 and Nov 2025; cPL abnormal Jun 2024; pancreatic lipase test Nov 2025; low-fat gastrointestinal diet and Lypex pancreatitis supplement. |
+| Pancreas | 2024-06 → 2025-11 | Lipase high Jun 2024 and Nov 2025; cPL abnormal Jun 2024; pancreatic lipase test Nov 2025. Low-fat diet from Jun 2024, strict low fat for a month in Nov 2025; Lypex pancreatitis supplement. The Mar 2024 home-cooked recipe was high in fat (see Diet and feeding). |
 | Liver values | 2025-05 → 2026-08 | ALT above range May–Nov 2025 and Aug 2026; ALKP intermittently high. Ursofalk (Oct 2025), Samylin, Maximus Hep. |
 | Kidney values | 2025-02 → 2026-09 | Urea high from Dec 2025 on, peaking at 17.2 (Aug 2026); creatinine always in range; SDMA normal (Nov, Dec 2025). |
 | Skin, ears and eyes | 2023-01 → 2024-06 | Skin infection with scabbing and itching, controlled by medicated shampoo; regular ear cleaning with medicated drops; eye drops; eye discharge on one side (Apr 2024); fur loss at the tail (May 2024); head-shaking again Oct 2025. |
 | Hind leg, hip and back pain | 2024-07 → 2026-10 | Arthritis ("crepitus") noted Jul 2024; "Arthritis and some nerve pain" Apr 2025. Mentioned at almost every acupuncture session; progressed to weakness and "sarcopenia (muscle atrophy)" by Jul 2026. |
 | Incontinence | 2024-10 → 2026-07 | Diapers from Nov 2024; urine soiling and urine burn concerns in mid-2026. |
-| Weight | 2024-06 → 2026-09 | 23.0 kg (Jun 2024) → 20.9 (Feb 2025) → 21.3–22.2 (Jun 2025 – Feb 2026) → 19.4–19.7 (Aug–Sep 2026). |
+| Weight | 2024-03 → 2026-09 | 21.5 kg (Mar 2024) → 23.0 (Jun 2024 report header) → 20.9–21.7 (Oct 2024 – Feb 2025) → 21.3–22.2 (Jun 2025 – Feb 2026) → 19.4–19.7 (Aug–Sep 2026). Meals increased in May and Jul 2026 to stop the loss. |
 | Wounds and lumps | 2024-07 → 2026-09 | Hind-leg wounds from kennel stay (Jul–Aug 2024); leg abrasion (Apr–May 2025); bump near the eye, "small cyst" (Dec 2025); cheek fluid (Mar 2026); leg and armpit growths, "may be a lipoma" (Jul 2026); nibbled wound (Sep 2026). |
 
 ## Medications
 
 Ongoing from invoices: prednisolone 5 mg (19 invoices), Protexin Pro-Enzorb, Supra Mineral, iron (Maltofer, then iron tablets), darbepoetin (from Oct 2024; on invoices from Apr 2026), Maximus Hep and Samylin for the liver, Aminavast from Aug 2026. Short courses: Baytril, Clavamox, Metrogyl, gabapentin, Cerenia/maropitant. Full list with doses in `invoice_items.csv` and `prescriptions.csv`.
 
+## Diet and feeding
+
+From `feeding.csv` and `diet.csv`; the recipe is reviewed in [`diet-critique.md`](diet-critique.md).
+
+| Period | What he ate |
+|---|---|
+| Mar 2024 | NRC-balanced home-cooked senior recipe, white and red meat: 540 g, 895 kcal a day; 31% of calories from protein, 43% from fat |
+| Jun–Jul 2024 | Vet: "Kuro needs to be on low fat diet". Royal Canin Gastrointestinal Low Fat (dry and canned) and Vet Pro gastrointestinal pouches; eating little, "only chicken" (8 Jul) |
+| Jul–Aug 2024 | Owner's notes: chicken breast, 0.25 cup sweet potato and 0.25 cup pumpkin, twice a day; pills hidden in part of breakfast; boiled egg in the evening; Honu Paws pork topper (muscle meat, bones, vegetables) |
+| Oct 2024 | Handwritten daily ingredients: beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries |
+| Aug 2025 | Stopped eating pumpkin and sweet potato |
+| Nov 2025 | Strict low-fat diet for one month during the pancreatitis flare |
+| May 2026 | After dropping to 19.9 kg: smaller, more frequent meals, 200 g three times a day, with probiotics |
+| Jul–Aug 2026 | Meals increased by 10–15% to hold 19.5–20 kg; about 1 litre of water a day for high urea |
+
+Treats over 2023–2025 were mostly single-ingredient meat and fish: beef, lamb, fish skins and jerky, salmon-and-egg puree.
+
+The diet review raises two points about feeding: the analysed recipe was high in fat for a dog who developed pancreatitis three months later, and neither handwritten ingredient list includes a calcium source, oil or vitamin-mineral mix, which a balanced home-cooked diet needs.
+
 ## Gaps
 
 - No written reports for the Jun–Jul 2024 ultrasound and x-rays (images exist), the fine needle aspiration, or the post mortem (findings only in chat).
 - SDMA was billed five times; values exist for Jul 2024 (9), Nov 2025 (12) and Dec 2025 (8), all normal. Oct 2024 and Apr 2026 are described as normal without a number.
-- Lab panels for visits without a saved report (e.g. Jul–Oct 2024, Dec 2024, Mar–Apr 2025, Jul–Oct 2025, Mar–May 2026) need to be requested from FurKids.
+- Blood tests were billed but no results are in the records for 8 FurKids visits: 2024-07-05, 2024-08-14, 2024-10-22, 2024-12-12, 2025-07-15, 2025-10-13, 2026-03-16, 2026-04-20 (`visits.csv`, `lab_status`). These need to be requested from FurKids.
+- How the home-cooked food was actually prepared (quantities, and whether a calcium source, oil and vitamin-mineral mix were added) is not recorded.
 - Some invoices named in the clinic's statement of account (e.g. INV-13432, INV-30272) are not in the export.
