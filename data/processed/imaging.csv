@@ -1,6 +1,11 @@
 date,date_basis,modality,view,measurement,source,note
+2024-07-01,invoice,ultrasound,abdomen (thorough),,INV-8599,billed during the 28 Jun - 1 Jul hospital stay; no report in records
+2024-07-01,invoice,x-ray,2 views + additional views,,INV-8599,no images or report in records
+2024-07-05,invoice,fine needle aspiration,,,INV-8671,site and result not in records
+2024-07-11,invoice,x-ray,additional views,,INV-8842,no images or report in records
 2024-11-20,chat (reported),ultrasound,abdomen,,whatsapp pet taxi chat (owner relaying vet),"""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""; scan date not stated"
-2025-12-29,image header,x-ray,abdomen lateral,197.5 mm x 179.7 mm,IMG-20251229-WA0024.jpg (Furkids),"clinic's measurement lines across a large rounded shape in the abdomen; no written report; age on header 15Y"
+2025-05-05,invoice,x-ray,2 views,,INV-16890,no images or report in records
+2025-12-29,image header,x-ray,abdomen lateral,197.5 mm x 179.7 mm,IMG-20251229-WA0024.jpg (Furkids),clinic's measurement lines across a large rounded shape in the abdomen; no written report; age on header 15Y
 2025-12-29,image header,x-ray,thorax lateral,,IMG-20251229-WA0025.jpg (Furkids),no measurements annotated
 2026-05-17,chat,ultrasound,abdomen,,whatsapp pet taxi chat,"advised against: mass would ""block the image of organs"""
-2026-10-21,chat (sent),surgical photo,abdominal mass,,IMG-20261021-WA0039.jpg (Furkids),sent by the clinic at the owner's request
+2026-10-21,chat (sent),photo,abdominal mass,,IMG-20261021-WA0039.jpg (Furkids),sent by the clinic at the owner's request; a post mortem was billed on 2026-10-19 (INV-36648)

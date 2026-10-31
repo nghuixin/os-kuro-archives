@@ -1,120 +1,550 @@
 date,time,analyzer,analyte,value,unit,ref_low,ref_high,flag,lab,source,confidence,note
-2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Anaplasma spp.,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,previous-result column on the 2026-09-14 report
-2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Ehrlichia spp.,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,previous-result column on the 2026-09-14 report
-2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Heartworm,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,previous-result column on the 2026-09-14 report
-2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Lyme,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,previous-result column on the 2026-09-14 report
-2026-02-04,14:47,IDEXX Catalyst One,GLU,4.5,mmol/L,3.89,7.95,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,CREA,78,umol/L,44,159,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,UREA,11.2,mmol/L,2.5,9.6,high,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,BUN/CREA,35,,,,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,PHOS,1.43,mmol/L,0.81,2.2,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,CA,2.39,mmol/L,1.98,3.0,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,14:47,IDEXX Catalyst One,TP,66,g/L,52,82,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,,IDEXX ProCyte Dx,PLT,548,K/uL,148,484,high,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,,IDEXX ProCyte Dx,MPV,12.2,fL,8.7,13.2,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,,IDEXX ProCyte Dx,PDW,11.0,fL,9.1,19.4,,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-02-04,,IDEXX ProCyte Dx,PCT,0.67,%,0.14,0.46,high,FurKids (in-house),IMG-20260203-WA0038.jpg,medium,printout photographed upside down and partly cut off; partial panel
-2026-07-01,15:38,IDEXX Catalyst One,GLU,4.28,mmol/L,3.89,7.95,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,CREA,97,umol/L,44,159,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,UREA,11.5,mmol/L,2.5,9.6,high,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,BUN/CREA,29,,,,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,PHOS,1.08,mmol/L,0.81,2.2,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,CA,2.19,mmol/L,1.98,3.0,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,TP,64,g/L,52,82,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,GLOB,37,g/L,25,45,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,ALT,94,U/L,10,125,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,ALKP,217,U/L,23,212,high,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,CHOL,4.91,mmol/L,2.84,8.26,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,AMYL,809,U/L,500,1500,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:38,IDEXX Catalyst One,LIPA,1163,U/L,200,1800,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,RBC,5.15,x10^12/L,5.65,8.87,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,HCT,33.9,%,37.3,61.7,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,HGB,11.8,g/dL,13.1,20.5,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,MCV,65.8,fL,61.6,73.5,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,MCH,22.9,pg,21.2,25.9,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,MCHC,34.8,g/dL,32.0,37.9,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,RDW,15.1,%,13.6,21.7,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%RETIC,1.2,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,RETIC,60.3,K/uL,10.0,110.0,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,RETIC-HGB,24.8,pg,22.3,29.6,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,WBC,11.17,x10^9/L,5.05,16.76,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%NEU,70.8,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%LYM,12.8,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%MONO,8.8,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%EOS,7.4,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,%BASO,0.2,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,NEU,7.91,x10^9/L,2.95,11.64,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,LYM,1.43,x10^9/L,1.05,5.1,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,MONO,0.98,x10^9/L,0.16,1.12,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,EOS,0.83,x10^9/L,0.06,1.23,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,BASO,0.02,x10^9/L,0.0,0.1,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,PLT,474,K/uL,148,484,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,MPV,11.3,fL,8.7,13.2,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,PDW,9.2,fL,9.1,19.4,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-07-01,15:23,IDEXX ProCyte Dx,PCT,0.54,%,0.14,0.46,high,FurKids (in-house),IMG-20260809-WA0041.jpg,high,previous-result column on the 2026-08-10 report
-2026-08-10,14:23,IDEXX Catalyst One,GLU,4.43,mmol/L,3.89,7.95,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,CREA,80,umol/L,44,159,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,UREA,17.2,mmol/L,2.5,9.6,high,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,BUN/CREA,53,,,,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,PHOS,1.1,mmol/L,0.81,2.2,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,CA,2.4,mmol/L,1.98,3.0,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,TP,64,g/L,52,82,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,GLOB,36,g/L,25,45,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,ALT,130,U/L,10,125,high,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,ALKP,211,U/L,23,212,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,CHOL,5.32,mmol/L,2.84,8.26,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,AMYL,749,U/L,500,1500,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:23,IDEXX Catalyst One,LIPA,1344,U/L,200,1800,,FurKids (in-house),IMG-20260809-WA0040.jpg,high,
-2026-08-10,14:15,IDEXX ProCyte Dx,RBC,4.96,x10^12/L,5.65,8.87,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,HCT,32.8,%,37.3,61.7,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,HGB,12.0,g/dL,13.1,20.5,low,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,MCV,66.1,fL,61.6,73.5,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,MCH,24.2,pg,21.2,25.9,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,MCHC,36.6,g/dL,32.0,37.9,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,RDW,15.4,%,13.6,21.7,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%RETIC,1.4,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,RETIC,70.4,K/uL,10.0,110.0,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,RETIC-HGB,27.3,pg,22.3,29.6,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,WBC,13.39,x10^9/L,5.05,16.76,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%NEU,74.6,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%LYM,9.7,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%MONO,9.4,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%EOS,6.0,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,%BASO,0.3,%,,,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,NEU,9.99,x10^9/L,2.95,11.64,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,LYM,1.3,x10^9/L,1.05,5.1,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,MONO,1.26,x10^9/L,0.16,1.12,high,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,EOS,0.8,x10^9/L,0.06,1.23,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,BASO,0.04,x10^9/L,0.0,0.1,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,PLT,434,K/uL,148,484,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,MPV,12.4,fL,8.7,13.2,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,PDW,9.1,fL,9.1,19.4,,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-08-10,14:15,IDEXX ProCyte Dx,PCT,0.54,%,0.14,0.46,high,FurKids (in-house),IMG-20260809-WA0041.jpg,high,photo at an angle; values cross-checked against the 2026-09-14 previous-result column
-2026-09-14,15:31,IDEXX Catalyst One,GLU,4.25,mmol/L,3.89,7.95,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,CREA,114,umol/L,44,159,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,UREA,13.0,mmol/L,2.5,9.6,high,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,BUN/CREA,28,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,PHOS,1.08,mmol/L,0.81,2.2,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,CA,2.34,mmol/L,1.98,3.0,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,TP,62,g/L,52,82,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,ALB,26,g/L,22,39,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,GLOB,35,g/L,25,45,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,ALB/GLOB,0.7,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,ALT,112,U/L,10,125,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,ALKP,192,U/L,23,212,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,GGT,1,U/L,0,11,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,TBIL,<2,umol/L,0,15,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,CHOL,4.72,mmol/L,2.84,8.26,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,AMYL,776,U/L,500,1500,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
-2026-09-14,15:31,IDEXX Catalyst One,LIPA,1137,U/L,200,1800,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2024-05-27,11:24,IDEXX ProCyte Dx,RBC,5.34,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,HCT,34.0,%,37.3,61.7,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,HGB,12.2,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,MCV,63.7,fL,61.6,73.5,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,MCH,22.8,pg,21.2,25.9,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,MCHC,35.9,g/dL,32.0,37.9,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,RDW,16.3,%,13.6,21.7,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%RETIC,0.3,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,RETIC,18.2,K/uL,10.0,110.0,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,RETIC-HGB,24.9,pg,22.3,29.6,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,WBC,14.24,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%NEU,76.7,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%LYM,13.4,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%MONO,4.8,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%EOS,4.5,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,%BASO,0.6,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,NEU,10.91,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,LYM,1.91,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,MONO,0.69,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,EOS,0.64,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,BASO,0.09,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,PLT,437,K/uL,148,484,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,MPV,12.5,fL,8.7,13.2,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,PDW,11.3,fL,9.1,19.4,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:24,IDEXX ProCyte Dx,PCT,0.55,%,0.14,0.46,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,GLU,5.04,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,CREA,80,umol/L,44,159,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,UREA,5.7,mmol/L,2.5,9.6,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,BUN/CREA,18,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,PHOS,1.04,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,CA,2.45,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,TP,69,g/L,52,82,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,ALB,31,g/L,22,39,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,GLOB,38,g/L,25,45,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,ALT,101,U/L,10,125,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,ALKP,186,U/L,23,212,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,CHOL,4.78,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,AMYL,720,U/L,500,1500,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-05-27,11:33,IDEXX Catalyst One,LIPA,1058,U/L,200,1800,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,previous-result column
+2024-06-28,11:51,IDEXX ProCyte Dx,RBC,4.20,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,HCT,24.8,%,37.3,61.7,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,HGB,9.3,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,MCV,59.0,fL,61.6,73.5,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,MCH,22.1,pg,21.2,25.9,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,MCHC,37.5,g/dL,32.0,37.9,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,RDW,17.1,%,13.6,21.7,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%RETIC,0.3,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,RETIC,11.3,K/uL,10.0,110.0,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,RETIC-HGB,20.3,pg,22.3,29.6,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,WBC,26.80,x10^9/L,5.05,16.76,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%NEU,83.8,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%LYM,5.4,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%MONO,10.3,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%EOS,0.2,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,%BASO,0.3,%,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,NEU,22.46,x10^9/L,2.95,11.64,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,LYM,1.44,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,MONO,2.76,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,EOS,0.06,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,BASO,0.08,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,PLT,378,K/uL,148,484,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,MPV,13.0,fL,8.7,13.2,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,PDW,10.8,fL,9.1,19.4,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,11:51,IDEXX ProCyte Dx,PCT,0.49,%,0.14,0.46,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,GLU,4.20,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,CREA,87,umol/L,44,159,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,UREA,3.9,mmol/L,2.5,9.6,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,BUN/CREA,11,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,PHOS,1.51,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,CA,2.30,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,TP,67,g/L,52,82,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,ALB,27,g/L,22,39,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,GLOB,41,g/L,25,45,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,ALB/GLOB,0.7,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,ALT,51,U/L,10,125,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,ALKP,172,U/L,23,212,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,TBIL,6,umol/L,0,15,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,CHOL,5.67,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,AMYL,2329,U/L,500,1500,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,LIPA,5745,U/L,200,1800,high,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,Na,155,mmol/L,144,160,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,K,3.2,mmol/L,3.5,5.8,low,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,Na/K,49,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,Cl,109,mmol/L,109,122,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX Catalyst One,Osm Calc,302,mmol/kg,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Anaplasma spp.,Negative,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Ehrlichia spp.,Negative,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Heartworm,Negative,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:06,IDEXX SNAP 4Dx Plus,Lyme,Negative,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-28,12:24,IDEXX SNAP cPL,cPL,Abnormal,,,,,FurKids (in-house),KURO_20240628_114919_3815.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,RBC,2.24,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,HCT,13.2,%,37.3,61.7,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,HGB,5.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,MCV,58.9,fL,61.6,73.5,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,MCH,22.3,pg,21.2,25.9,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,MCHC,37.9,g/dL,32.0,37.9,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,RDW,17.5,%,13.6,21.7,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%RETIC,0.3,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,RETIC,7.6,K/uL,10.0,110.0,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,RETIC-HGB,20.6,pg,22.3,29.6,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,WBC,18.47,x10^9/L,5.05,16.76,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%NEU,80.0,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%LYM,8.5,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%MONO,10.8,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%EOS,0.4,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,%BASO,0.3,%,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,NEU,14.76,x10^9/L,2.95,11.64,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,LYM,1.57,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,MONO,2.00,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,EOS,0.08,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,BASO,0.06,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,PLT,43,K/uL,148,484,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,MPV,13.4,fL,8.7,13.2,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,PDW,14.3,fL,9.1,19.4,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:22,IDEXX ProCyte Dx,PCT,0.06,%,0.14,0.46,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,GLU,4.52,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,CREA,75,umol/L,44,159,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,UREA,2.8,mmol/L,2.5,9.6,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,BUN/CREA,9,,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,PHOS,1.19,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,CA,2.12,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,TP,50,g/L,52,82,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,ALB,18,g/L,22,39,low,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,GLOB,32,g/L,25,45,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,ALB/GLOB,0.6,,,,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,ALT,64,U/L,10,125,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,ALKP,163,U/L,23,212,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,TBIL,6,umol/L,0,15,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,CHOL,4.87,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,AMYL,2209,U/L,500,1500,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,11:40,IDEXX Catalyst One,LIPA,5493,U/L,200,1800,high,FurKids (in-house),KURO_20240630_112021_3830.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,RBC,2.99,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,HCT,17.4,%,37.3,61.7,low,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,HGB,6.5,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,MCV,58.2,fL,61.6,73.5,low,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,MCH,21.7,pg,21.2,25.9,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,MCHC,37.4,g/dL,32.0,37.9,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,RDW,17.5,%,13.6,21.7,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%RETIC,0.3,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,RETIC,9.3,K/uL,10.0,110.0,low,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,RETIC-HGB,23.7,pg,22.3,29.6,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,WBC,30.18,x10^9/L,5.05,16.76,high,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%NEU,84.8,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%LYM,6.7,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%MONO,7.9,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%EOS,0.3,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,%BASO,0.3,%,,,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,NEU,25.60,x10^9/L,2.95,11.64,high,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,LYM,2.01,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,MONO,2.37,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,EOS,0.10,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,BASO,0.10,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,PLT,237,K/uL,148,484,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,MPV,14.4,fL,8.7,13.2,high,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,PDW,14.7,fL,9.1,19.4,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-06-30,19:05,IDEXX ProCyte Dx,PCT,0.34,%,0.14,0.46,,FurKids (in-house),KURO_20240630_190252_3838.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,RBC,5.16,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,HCT,33.2,%,37.3,61.7,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,HGB,9.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,MCV,64.3,fL,61.6,73.5,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,MCH,17.4,pg,21.2,25.9,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,MCHC,27.1,g/dL,32.0,37.9,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,RDW,27.4,%,13.6,21.7,high,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,%RETIC,1.0,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,RETIC,50.1,K/uL,10.0,110.0,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,RETIC-HGB,16.3,pg,22.3,29.6,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,WBC,10.43,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,%NEU,89.7,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,%LYM,6.2,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,%MONO,3.8,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,%EOS,0.2,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,%BASO,0.1,%,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,NEU,9.35,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,BAND,Suspected,,,,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,LYM,0.65,x10^9/L,1.05,5.10,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,MONO,0.40,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,EOS,0.02,x10^9/L,0.06,1.23,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,BASO,0.01,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,PLT,7,K/uL,148,484,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:32,IDEXX ProCyte Dx,MPV,15.8,fL,8.7,13.2,high,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:32,IDEXX ProCyte Dx,PCT,0.01,%,0.14,0.46,low,FurKids (in-house),KURO_20240701_142958_3847.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,RBC,3.35,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,HCT,19.7,%,37.3,61.7,low,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,HGB,7.3,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,MCV,58.8,fL,61.6,73.5,low,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,MCH,21.8,pg,21.2,25.9,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,MCHC,37.1,g/dL,32.0,37.9,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,RDW,17.6,%,13.6,21.7,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%RETIC,0.5,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,RETIC,18.1,K/uL,10.0,110.0,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,RETIC-HGB,22.8,pg,22.3,29.6,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,WBC,30.11,x10^9/L,5.05,16.76,high,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%NEU,83.8,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%LYM,7.9,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%MONO,7.6,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%EOS,0.5,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,%BASO,0.2,%,,,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,NEU,25.26,x10^9/L,2.95,11.64,high,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,LYM,2.37,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,MONO,2.29,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,EOS,0.14,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,BASO,0.05,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,PLT,208,K/uL,148,484,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,analyzer flag: confirm with dot plot and/or blood film
+2024-07-01,14:39,IDEXX ProCyte Dx,MPV,15.6,fL,8.7,13.2,high,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2024-07-01,14:39,IDEXX ProCyte Dx,PCT,0.32,%,0.14,0.46,,FurKids (in-house),KURO_20240701_143412_3849.pdf,high,
+2025-01-06,10:58,IDEXX ProCyte Dx,RBC,5.42,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,HCT,31.4,%,37.3,61.7,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,HGB,11.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,MCV,57.9,fL,61.6,73.5,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,MCH,20.3,pg,21.2,25.9,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,MCHC,35.0,g/dL,32.0,37.9,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,RDW,18.7,%,13.6,21.7,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%RETIC,0.2,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,RETIC,10.8,K/uL,10.0,110.0,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,RETIC-HGB,24.2,pg,22.3,29.6,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,WBC,16.60,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%NEU,76.3,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%LYM,10.1,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%MONO,7.7,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%EOS,5.2,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,%BASO,0.7,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,NEU,12.65,x10^9/L,2.95,11.64,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,LYM,1.68,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,MONO,1.28,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,EOS,0.87,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,BASO,0.12,x10^9/L,0.00,0.10,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,PLT,701,K/uL,148,484,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,MPV,12.7,fL,8.7,13.2,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,PDW,11.8,fL,9.1,19.4,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,10:58,IDEXX ProCyte Dx,PCT,0.89,%,0.14,0.46,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,GLU,3.68,mmol/L,3.89,7.95,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,CREA,89,umol/L,44,159,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,UREA,8.9,mmol/L,2.5,9.6,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,BUN/CREA,25,,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,TP,71,g/L,52,82,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,GLOB,43,g/L,25,45,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,ALB/GLOB,0.6,,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,ALT,33,U/L,10,125,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-01-06,11:06,IDEXX Catalyst One,ALKP,193,U/L,23,212,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,previous-result column
+2025-02-10,11:36,IDEXX ProCyte Dx,RBC,6.07,x10^12/L,5.65,8.87,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,HCT,36.5,%,37.3,61.7,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,HGB,13.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,MCV,60.1,fL,61.6,73.5,low,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,MCH,21.4,pg,21.2,25.9,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,MCHC,35.6,g/dL,32.0,37.9,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,RDW,23.7,%,13.6,21.7,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%RETIC,0.4,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,RETIC,21.2,K/uL,10.0,110.0,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,RETIC-HGB,26.3,pg,22.3,29.6,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,WBC,13.99,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%NEU,68.2,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%LYM,16.7,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%MONO,7.9,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%EOS,6.7,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,%BASO,0.5,%,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,NEU,9.54,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,LYM,2.34,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,MONO,1.10,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,EOS,0.94,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,BASO,0.07,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,PLT,624,K/uL,148,484,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,MPV,11.9,fL,8.7,13.2,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,PDW,9.9,fL,9.1,19.4,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:36,IDEXX ProCyte Dx,PCT,0.74,%,0.14,0.46,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,GLU,4.26,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,CREA,116,umol/L,44,159,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,UREA,13.5,mmol/L,2.5,9.6,high,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,BUN/CREA,29,,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,TP,68,g/L,52,82,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,GLOB,40,g/L,25,45,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,ALB/GLOB,0.7,,,,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,ALT,74,U/L,10,125,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-02-10,11:45,IDEXX Catalyst One,ALKP,141,U/L,23,212,,FurKids (in-house),KURO_20250210_113328_5110.pdf,high,
+2025-05-05,12:43,IDEXX ProCyte Dx,RBC,5.03,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,HCT,34.9,%,37.3,61.7,low,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,HGB,12.5,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,MCV,69.4,fL,61.6,73.5,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,MCH,24.9,pg,21.2,25.9,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,MCHC,35.8,g/dL,32.0,37.9,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,RDW,14.9,%,13.6,21.7,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%RETIC,0.8,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,RETIC,42.3,K/uL,10.0,110.0,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,RETIC-HGB,27.7,pg,22.3,29.6,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,WBC,11.91,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%NEU,71.0,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%LYM,15.6,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%MONO,7.6,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%EOS,5.4,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,%BASO,0.4,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,NEU,8.46,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,LYM,1.86,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,MONO,0.90,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,EOS,0.64,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,BASO,0.05,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,PLT,603,K/uL,148,484,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,MPV,11.4,fL,8.7,13.2,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,PDW,10.1,fL,9.1,19.4,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:43,IDEXX ProCyte Dx,PCT,0.69,%,0.14,0.46,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:55,IDEXX Catalyst One,ALT,138,U/L,10,125,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-05-05,12:55,IDEXX Catalyst One,ALKP,213,U/L,23,212,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,previous-result column
+2025-06-16,14:25,IDEXX ProCyte Dx,RBC,5.47,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,HCT,38.5,%,37.3,61.7,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,HGB,13.6,g/dL,13.1,20.5,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,MCV,70.4,fL,61.6,73.5,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,MCH,24.9,pg,21.2,25.9,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,MCHC,35.3,g/dL,32.0,37.9,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,RDW,15.1,%,13.6,21.7,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%RETIC,0.8,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,RETIC,43.2,K/uL,10.0,110.0,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,RETIC-HGB,27.1,pg,22.3,29.6,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,WBC,11.98,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%NEU,67.3,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%LYM,18.1,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%MONO,5.9,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%EOS,8.1,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,%BASO,0.6,%,,,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,NEU,8.06,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,LYM,2.17,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,MONO,0.71,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,EOS,0.97,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,BASO,0.07,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,PLT,586,K/uL,148,484,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,MPV,11.9,fL,8.7,13.2,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,PDW,11.4,fL,9.1,19.4,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:25,IDEXX ProCyte Dx,PCT,0.70,%,0.14,0.46,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:30,IDEXX Catalyst One,ALT,135,U/L,10,125,high,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-06-16,14:30,IDEXX Catalyst One,ALKP,168,U/L,23,212,,FurKids (in-house),KURO_20250616_142227_6977.pdf,high,
+2025-11-10,15:57,IDEXX ProCyte Dx,RBC,5.05,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,HCT,35.0,%,37.3,61.7,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,HGB,12.5,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,MCV,69.3,fL,61.6,73.5,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,MCH,24.8,pg,21.2,25.9,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,MCHC,35.7,g/dL,32.0,37.9,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,RDW,16.9,%,13.6,21.7,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%RETIC,1.7,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,RETIC,84.8,K/uL,10.0,110.0,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,RETIC-HGB,27.1,pg,22.3,29.6,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,WBC,8.47,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%NEU,66.6,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%LYM,17.5,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%MONO,8.9,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%EOS,6.8,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,%BASO,0.2,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,NEU,5.64,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,LYM,1.48,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,MONO,0.75,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,EOS,0.58,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,BASO,0.02,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,PLT,473,K/uL,148,484,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,MPV,12.3,fL,8.7,13.2,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,PDW,11.6,fL,9.1,19.4,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,15:57,IDEXX ProCyte Dx,PCT,0.58,%,0.14,0.46,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,GLU,4.57,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,SDMA,12,ug/dL,0,14,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,CREA,81,umol/L,44,159,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,UREA,7.0,mmol/L,2.5,9.6,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,BUN/CREA,21,,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,PHOS,1.28,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,CA,2.52,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,TP,67,g/L,52,82,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,ALB,29,g/L,22,39,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,GLOB,38,g/L,25,45,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,ALT,134,U/L,10,125,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,ALKP,198,U/L,23,212,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,TBIL,5,umol/L,0,15,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,CHOL,6.58,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,AMYL,1071,U/L,500,1500,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-11-10,16:04,IDEXX Catalyst One,LIPA,4451,U/L,200,1800,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,previous-result column
+2025-12-29,15:04,IDEXX ProCyte Dx,RBC,5.12,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,HCT,35.2,%,37.3,61.7,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,HGB,12.5,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,MCV,68.8,fL,61.6,73.5,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,MCH,24.4,pg,21.2,25.9,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,MCHC,35.5,g/dL,32.0,37.9,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,RDW,14.6,%,13.6,21.7,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%RETIC,1.5,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,RETIC,77.8,K/uL,10.0,110.0,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,RETIC-HGB,25.2,pg,22.3,29.6,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,WBC,13.33,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%NEU,76.6,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%LYM,12.1,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%MONO,6.2,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%EOS,4.5,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,%BASO,0.6,%,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,NEU,10.21,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,LYM,1.61,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,MONO,0.83,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,EOS,0.60,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,BASO,0.08,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,PLT,595,K/uL,148,484,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,MPV,12.4,fL,8.7,13.2,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,PDW,11.0,fL,9.1,19.4,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:04,IDEXX ProCyte Dx,PCT,0.74,%,0.14,0.46,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,GLU,4.99,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,SDMA,8,ug/dL,0,14,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,CREA,95,umol/L,44,159,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,UREA,11.7,mmol/L,2.5,9.6,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,BUN/CREA,30,,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,PHOS,1.06,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,CA,2.41,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,TP,70,g/L,52,82,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,ALB,29,g/L,22,39,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,GLOB,41,g/L,25,45,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,ALB/GLOB,0.7,,,,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,ALT,104,U/L,10,125,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,ALKP,227,U/L,23,212,high,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,CHOL,4.70,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,AMYL,741,U/L,500,1500,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2025-12-29,15:11,IDEXX Catalyst One,LIPA,987,U/L,200,1800,,FurKids (in-house),KURO_20251229_150138_13653.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,RBC,5.72,x10^12/L,5.65,8.87,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,HCT,39.3,%,37.3,61.7,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,HGB,14.1,g/dL,13.1,20.5,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,MCV,68.7,fL,61.6,73.5,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,MCH,24.7,pg,21.2,25.9,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,MCHC,35.9,g/dL,32.0,37.9,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,RDW,15.5,%,13.6,21.7,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%RETIC,0.6,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,RETIC,35.5,K/uL,10.0,110.0,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,RETIC-HGB,26.3,pg,22.3,29.6,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,WBC,10.91,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%NEU,66.7,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%LYM,18.1,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%MONO,7.4,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%EOS,7.4,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,%BASO,0.4,%,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,NEU,7.27,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,LYM,1.98,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,MONO,0.81,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,EOS,0.81,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,BASO,0.04,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,PLT,548,K/uL,148,484,high,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,MPV,12.2,fL,8.7,13.2,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,PDW,11.0,fL,9.1,19.4,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:39,IDEXX ProCyte Dx,PCT,0.67,%,0.14,0.46,high,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,GLU,4.50,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,CREA,78,umol/L,44,159,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,UREA,11.2,mmol/L,2.5,9.6,high,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,BUN/CREA,35,,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,PHOS,1.43,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,CA,2.39,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,TP,66,g/L,52,82,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,ALB,29,g/L,22,39,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,GLOB,37,g/L,25,45,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,ALT,121,U/L,10,125,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,ALKP,174,U/L,23,212,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,TBIL,5,umol/L,0,15,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,CHOL,6.52,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,AMYL,714,U/L,500,1500,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-02-04,14:47,IDEXX Catalyst One,LIPA,1274,U/L,200,1800,,FurKids (in-house),KURO_20260204_143655_15102.pdf,high,
+2026-07-01,15:23,IDEXX ProCyte Dx,RBC,5.15,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,HCT,33.9,%,37.3,61.7,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,HGB,11.8,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,MCV,65.8,fL,61.6,73.5,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,MCH,22.9,pg,21.2,25.9,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,MCHC,34.8,g/dL,32.0,37.9,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,RDW,15.1,%,13.6,21.7,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%RETIC,1.2,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,RETIC,60.3,K/uL,10.0,110.0,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,RETIC-HGB,24.8,pg,22.3,29.6,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,WBC,11.17,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%NEU,70.8,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%LYM,12.8,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%MONO,8.8,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%EOS,7.4,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,%BASO,0.2,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,NEU,7.91,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,LYM,1.43,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,MONO,0.98,x10^9/L,0.16,1.12,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,EOS,0.83,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,BASO,0.02,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,PLT,474,K/uL,148,484,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,MPV,11.3,fL,8.7,13.2,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,PDW,9.2,fL,9.1,19.4,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:23,IDEXX ProCyte Dx,PCT,0.54,%,0.14,0.46,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,GLU,4.28,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,CREA,97,umol/L,44,159,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,UREA,11.5,mmol/L,2.5,9.6,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,BUN/CREA,29,,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,PHOS,1.08,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,CA,2.19,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,TP,64,g/L,52,82,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,GLOB,37,g/L,25,45,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,ALT,94,U/L,10,125,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,ALKP,217,U/L,23,212,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,CHOL,4.91,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,AMYL,809,U/L,500,1500,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-07-01,15:38,IDEXX Catalyst One,LIPA,1163,U/L,200,1800,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,previous-result column
+2026-08-10,14:15,IDEXX ProCyte Dx,RBC,4.96,x10^12/L,5.65,8.87,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,HCT,32.8,%,37.3,61.7,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,HGB,12.0,g/dL,13.1,20.5,low,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,MCV,66.1,fL,61.6,73.5,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,MCH,24.2,pg,21.2,25.9,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,MCHC,36.6,g/dL,32.0,37.9,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,RDW,15.4,%,13.6,21.7,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%RETIC,1.4,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,RETIC,70.4,K/uL,10.0,110.0,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,RETIC-HGB,27.3,pg,22.3,29.6,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,WBC,13.39,x10^9/L,5.05,16.76,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%NEU,74.6,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%LYM,9.7,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%MONO,9.4,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%EOS,6.0,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,%BASO,0.3,%,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,NEU,9.99,x10^9/L,2.95,11.64,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,LYM,1.30,x10^9/L,1.05,5.10,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,MONO,1.26,x10^9/L,0.16,1.12,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,EOS,0.80,x10^9/L,0.06,1.23,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,BASO,0.04,x10^9/L,0.00,0.10,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,PLT,434,K/uL,148,484,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,MPV,12.4,fL,8.7,13.2,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,PDW,9.1,fL,9.1,19.4,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:15,IDEXX ProCyte Dx,PCT,0.54,%,0.14,0.46,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,GLU,4.43,mmol/L,3.89,7.95,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,CREA,80,umol/L,44,159,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,UREA,17.2,mmol/L,2.5,9.6,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,BUN/CREA,53,,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,PHOS,1.10,mmol/L,0.81,2.20,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,CA,2.40,mmol/L,1.98,3.00,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,TP,64,g/L,52,82,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,ALB,28,g/L,22,39,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,GLOB,36,g/L,25,45,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,ALB/GLOB,0.8,,,,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,ALT,130,U/L,10,125,high,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,ALKP,211,U/L,23,212,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,GGT,0,U/L,0,11,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,TBIL,2,umol/L,0,15,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,CHOL,5.32,mmol/L,2.84,8.26,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,AMYL,749,U/L,500,1500,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
+2026-08-10,14:23,IDEXX Catalyst One,LIPA,1344,U/L,200,1800,,FurKids (in-house),KURO_20260810_141223_20161.pdf,high,
 2026-09-14,15:22,IDEXX ProCyte Dx,RBC,5.39,x10^12/L,5.65,8.87,low,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
 2026-09-14,15:22,IDEXX ProCyte Dx,HCT,34.9,%,37.3,61.7,low,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
 2026-09-14,15:22,IDEXX ProCyte Dx,HGB,12.5,g/dL,13.1,20.5,low,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
@@ -140,6 +570,23 @@ date,time,analyzer,analyte,value,unit,ref_low,ref_high,flag,lab,source,confidenc
 2026-09-14,15:22,IDEXX ProCyte Dx,MPV,12.7,fL,8.7,13.2,,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
 2026-09-14,15:22,IDEXX ProCyte Dx,PDW,9.8,fL,9.1,19.4,,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
 2026-09-14,15:22,IDEXX ProCyte Dx,PCT,0.55,%,0.14,0.46,high,FurKids (in-house),IMG-20260914-WA0008.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,GLU,4.25,mmol/L,3.89,7.95,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,CREA,114,umol/L,44,159,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,UREA,13.0,mmol/L,2.5,9.6,high,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,BUN/CREA,28,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,PHOS,1.08,mmol/L,0.81,2.2,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,CA,2.34,mmol/L,1.98,3.0,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,TP,62,g/L,52,82,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,ALB,26,g/L,22,39,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,GLOB,35,g/L,25,45,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,ALB/GLOB,0.7,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,ALT,112,U/L,10,125,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,ALKP,192,U/L,23,212,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,GGT,1,U/L,0,11,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,TBIL,<2,umol/L,0,15,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,CHOL,4.72,mmol/L,2.84,8.26,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,AMYL,776,U/L,500,1500,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
+2026-09-14,15:31,IDEXX Catalyst One,LIPA,1137,U/L,200,1800,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
 2026-09-14,15:35,IDEXX SNAP 4Dx Plus,Anaplasma spp.,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
 2026-09-14,15:35,IDEXX SNAP 4Dx Plus,Ehrlichia spp.,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,
 2026-09-14,15:35,IDEXX SNAP 4Dx Plus,Heartworm,Negative,,,,,FurKids (in-house),IMG-20260914-WA0000.jpg,high,

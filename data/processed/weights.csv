@@ -7,3 +7,9 @@ date,date_basis,weight_kg,source,note
 2026-08-09,chat,19.4,whatsapp pet taxi chat,
 2026-09-13,chat,19.7,whatsapp pet taxi chat,"""weight went up"""
 2025-04-28,medicine label,20,IMG-20250501-WA0065.jpg (Petcare),"""20kgs"" handwritten on the house-call label"
+2024-06-28,lab report,23.0,KURO_20240628_114919_3815.pdf,weight on IDEXX report header
+2025-02-10,lab report,20.9,KURO_20250210_113328_5110.pdf,weight on IDEXX report header
+2025-06-16,lab report,22.0,KURO_20250616_142227_6977.pdf,weight on IDEXX report header
+2025-12-29,lab report,21.3,KURO_20251229_150138_13653.pdf,weight on IDEXX report header
+2026-02-04,lab report,22.2,KURO_20260204_143655_15102.pdf,weight on IDEXX report header
+2026-08-10,lab report,19.4,KURO_20260810_141223_20161.pdf,weight on IDEXX report header
