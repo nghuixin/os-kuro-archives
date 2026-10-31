@@ -5,7 +5,8 @@ Values extracted from Kuro's records. The raw sources (WhatsApp chats, photos, i
 | File | Rows | What it holds | Source |
 |---|---|---|---|
 | `visits.csv` | one per visit | date, clinic, visit type, short summary | chats, invoices |
-| `invoice_items.csv` | one per invoice line | tests, medications, supplements, quantity, price (RM) | 4 Furkids invoices |
+| `invoice_items.csv` | one per invoice line | tests, medications, supplements, quantity, price (RM) | 4 Furkids invoices, 1 Petcare house-call invoice (amounts only) |
+| `prescriptions.csv` | one per dispensed item | medication, purpose, dose, frequency, duration, instructions, with a confidence rating | photographed medicine labels and prescriptions |
 | `lab_panels.csv` | one per analyte per test | IDEXX Catalyst chemistry (incl. ALT, ALKP, CREA, UREA), ProCyte CBC and SNAP 4Dx values with reference intervals and high/low flags | photographed clinic printouts |
 | `lab_results.csv` | one per finding | earlier numbers and qualitative readings mentioned in chat | chats |
 | `weights.csv` | one per weighing | weight in kg | chats |

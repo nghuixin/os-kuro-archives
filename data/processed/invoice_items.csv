@@ -40,3 +40,10 @@ date,invoice_id,item,category,qty,unit_price_rm,amount_rm
 2026-09-14,INV-35208,PREDNISOLONE 5MG PER TAB,medication,8,1.00,8.00
 2026-09-14,INV-35208,IRON TABLET PER TABLET,medication,15,1.50,22.50
 2026-09-14,INV-35208,AMINAVAST DOG 1000MG 60CAPS PER BOTTLE,supplement,1,320.00,320.00
+2025-04-29,Petcare-79410,B12 injection,medication,,,40.00
+2025-04-29,Petcare-79410,Antibiotic injection,medication,,,50.00
+2025-04-29,Petcare-79410,Antibiotic,medication,,,20.00
+2025-04-29,Petcare-79410,Anti-inflammatory (Galliprant),medication,,,65.00
+2025-04-29,Petcare-79410,Neuroforte (nerve supplement),supplement,,,20.00
+2025-04-29,Petcare-79410,Transport / house visit,house visit,,,90.00
+2025-04-29,Petcare-79410,Vet fees / consultation,consultation,,,50.00

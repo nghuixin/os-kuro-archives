@@ -20,6 +20,8 @@ Kuro was a male dog, 15 years old in December 2025, cared for by FurKids (regula
 
 Prednisolone 5 mg, Protexin Pro-Enzorb, Supra Mineral at every invoiced visit; darbepoetin and iron tablets from Apr 2026; Aminavast from Aug 2026; Baytril in Apr and Sep 2026; Advocate in Sep 2026.
 
+From medicine labels (`prescriptions.csv`): Maltofer iron and prednisolone 0.5 tablet from Mar 2025; during the Apr–May 2025 leg wound, Galliprant (anti-inflammatory, 10 days), an antibiotic (5 days), Neuroforte (nerve supplement), plus B12 and antibiotic injections; homeopathic Arnica and Hypericum for pain (May and Sep 2025) and Strophanthus for heart support (Nov 2025) from the acupuncture clinic; prednisolone 0.5 tablet every other day in Feb 2026.
+
 ## Lab panels, 2026 (FurKids in-house, IDEXX)
 
 From `data/processed/lab_panels.csv`. H/L = outside the printed reference interval.

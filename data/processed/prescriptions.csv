@@ -1,0 +1,17 @@
+date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confidence,note
+2025-03-10,FurKids,Maltofer iron tablet,,1 tablet,every other day,60 days,after meal,IMG-20250310-WA0003.jpg,high,
+2025-03-10,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,,,after meal,IMG-20250310-WA0003.jpg,medium,frequency partly hidden by another bag
+2025-03-10,FurKids,Protexin Pro-Enzorb,,,,,,IMG-20250310-WA0003.jpg,low,dispensed; dosing hidden
+2025-03-10,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20250310-WA0003.jpg,high,box only; no dosing label
+2025-04-28,Petcare (house call),Neuroforte,nerve supplement,1 tablet,1x daily,,,IMG-20250501-WA0065.jpg,medium,"start date handwritten, read as 28/4/25; times-daily digit overwritten; label also notes ""20kgs"""
+2025-04-29,Petcare (house call),Galliprant,anti-inflammatory,0.5 tablet,1x daily,10 days,after food,IMG-20250501-WA0062.jpg,high,drug name from invoice 79410; label says anti-inflammatory
+2025-05-01,Petcare,Antibiotic (name not on label),antibiotic,1 tablet,2x daily,5 days,after food,IMG-20250501-WA0067.jpg,high,also IMG-20250501-WA0070.jpg
+2025-05-16,Asia Paws,Arnica 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
+2025-05-16,Asia Paws,Hypericum 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
+2025-08-28,owner (over the counter),TropiClean Fresh Breath oral care,mouth spray,3-4 sprays,,,,IMG-20251015-WA0009.jpg,high,"per 5 ml: cetylpyridinium chloride 4.6 mg, green tea extract 0.6 mg, zinc gluconate 0.5 mg; dose from chat 2025-08-28"
+2025-09-11,Asia Paws,Arnica (homeopathic),"""for pain & trauma""",a few globuli,every 0.5-1 hour,,in his water,IMG-20250912-WA0022.jpg,medium,label partly visible; dosing from chat
+2025-11-04,Asia Paws,Strophanthus (homeopathic),"""heart support""",,,,,IMG-20251104-WA0029.jpg,medium,label partly visible
+2026-02-04,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20260203-WA0038.jpg,high,
+2026-02-04,FurKids,Protexin Pro-Enzorb,,1 capsule,1x daily,30 days,sprinkle in food,IMG-20260203-WA0038.jpg,high,
+2026-02-04,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20260203-WA0038.jpg,high,box only
+2026-03-16,FurKids,"Protexin, Samylin, Supra Mineral",,,,,,IMG-20260316-WA0010.jpg,low,dispensed; labels not readable
