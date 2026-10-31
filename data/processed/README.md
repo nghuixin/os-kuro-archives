@@ -12,6 +12,7 @@ Values extracted from Kuro's records. The raw sources (WhatsApp chats, photos, i
 | `imaging.csv` | one per study | ultrasound, x-ray, surgical photo, with measurements | chats, clinic images |
 | `health_events.csv` | one per mention | symptoms, diagnoses, medications, care notes and post-mortem findings, quoted | Pet Taxi chat, FurKids chats |
 | `feeding.csv` | one per food, instruction or diet change | what Kuro was fed: home-cooked ingredients, therapeutic foods, toppers, treats, feeding instructions and appetite changes, with amounts where given | photos, invoices, chats |
+| `providers.csv` | one per service provider | clinics, pet carers, transport and other services used while Kuro was alive, with type, service, first and last month, `status` (used, booked only, emergency contact only) and evidence. People's names are omitted. | chats, invoices, labels, care notes |
 | `diet.csv` | one per nutrient | home-cooked NRC-balanced senior recipe: macronutrients, amino acids, fatty acids, minerals, vitamins vs NRC allowance | diet analysis PDF, Mar 2024 |
 
 ## `labs.csv`
