@@ -1,0 +1,3 @@
+# Real records stay out of Git (public repo)
+data/raw/**
+!data/raw/README.md
