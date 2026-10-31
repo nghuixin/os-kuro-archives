@@ -84,5 +84,7 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2026-08-10,invoice,FurKids,consultation,Chem17 + CBC; 19.4 kg; darbepoetin,INV-33691; whatsapp pet taxi chat,2,results present,19.4,0,INV-33691,0
 2026-09-14,invoice,FurKids,consultation,Chem17 + CBC + SNAP 4Dx Plus; 19.7 kg; antibiotics; Advocate,INV-35208; whatsapp pet taxi chat,3,results present,19.7,0,INV-35208,0
 2026-10-02,chat,Asia Paws,acupuncture,"""progressive hind limb weakness""; hind limb and spine muscles ""crampy""; home massage advised",family chat,0,none,,0,,0
-2026-10-06,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat,0,none,,0,,0
+2026-10-06,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat,0,none,,2,AsiaPaws-2026-10-07,0
+2026-10-09,chat,Asia Paws,acupuncture,"""doing much better""; getting up on his own a bit better",family chat; whatsapp pet taxi chat,0,none,,0,,0
+2026-10-16,chat,Asia Paws,acupuncture,"last session: some pain in back legs, leaning right; red-light mat recommended",family chat; whatsapp pet taxi chat,0,none,,0,,0
 2026-10-19,invoice,FurKids,post mortem,POST MORTEM,INV-36648,0,none,,0,INV-36648,0

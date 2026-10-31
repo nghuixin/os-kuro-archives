@@ -225,4 +225,5 @@ date,invoice_id,item,category,qty,unit_price_rm,amount_rm
 2026-09-14,INV-35208,PREDNISOLONE 5MG PER TAB,medication / other,8,1.00,8.00
 2026-09-14,INV-35208,IRON TABLET PER TABLET,medication / other,15,1.50,22.50
 2026-09-14,INV-35208,AMINAVAST DOG 1000MG 60CAPS PER BOTTLE,supplement,1,320.00,320.00
+2026-10-07,AsiaPaws-2026-10-07,Si Miao San 15 g + Xiao Chai Hu Tang 15 g,supplement,,,138.00
 2026-10-19,INV-36648,POST MORTEM,procedure / care,1,300.00,300.00
