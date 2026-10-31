@@ -1,0 +1,46 @@
+# Diet critique: NRC Balanced White + Red Meat, Senior V2 (Mar 2024)
+
+A brief review of the home-cooked recipe in [`data/processed/diet.csv`](../data/processed/diet.csv), analysed on 15 Mar 2024 for Kuro at 21.5 kg, inactive senior. The recipe is 540 g and 895 kcal a day. Values are converted to per 1,000 kcal so they can be compared with published limits. This is a desk review, not a substitute for a board-certified veterinary nutritionist.
+
+## What it gets right
+
+- **Calories match the requirement:** 895 kcal against 899 kcal.
+- **Protein is generous:** about 78 g per 1,000 kcal (31% of calories), well above the AAFCO minimum of about 45 g. That suits a senior dog, and his later records note "sarcopenia (muscle atrophy)".
+- **Calcium-to-phosphorus ratio** is 1.22, inside the 1–1.4 target.
+- **Omega-3s (EPA + DHA)** are about 1.4 g per 1,000 kcal, a meaningful dose for joints. The EPA:DHA ratio (0.59) is below the analysis tool's own "balanced" range, but that is minor.
+
+## Concerns
+
+| # | Issue | Recipe | Reference |
+|---|---|---|---|
+| 1 | **Fat is high** | ~48 g / 1,000 kcal (43% of calories) | Common low-fat threshold < 30 g; 20–25 g after a pancreatitis episode; ~38 g often cited even with no history |
+| 2 | **Vitamin D is above the AAFCO maximum** | ~1,090 IU / 1,000 kcal; ~5,200 IU/kg dry matter; ~94% of the NRC safe upper limit by body weight | AAFCO max 750 IU / 1,000 kcal; 3,000–3,200 IU/kg DM; NRC SUL 2.6 µg/kg^0.75 (~26 µg/day for him) |
+| 3 | **Nutrients only just met** | Choline 100.4%, vitamin K 103% of the NRC allowance | Recipes usually aim well above 100% to cover cooking losses and ingredient variation |
+| 4 | **Iron doubled up** | ~5× the NRC allowance (33.8 mg) from food alone | He was also given Maltofer and iron tablets from 2024 for anemia |
+| 5 | **Phosphorus fine at the time, but above kidney-diet levels** | ~1.4 g / 1,000 kcal | Kidney diets use 0.4–1.1 g / 1,000 kcal |
+| 6 | **Sodium high** | ~3.7× the NRC allowance | Acceptable for a healthy dog; worth limiting with heart or kidney disease |
+
+### Notes on each
+
+1. **Fat.** Three months after this analysis (28 Jun 2024) Kuro had lipase of 5,745 U/L and an abnormal cPL, and the vet put him on a low-fat diet. The evidence that dietary fat causes pancreatitis is not conclusive, so this can't be called the cause. But the recipe would have needed reformulating after Jun 2024. The records only show a switch to commercial low-fat gastrointestinal food, so it's unclear whether that happened.
+2. **Vitamin D.** Those limits were set mainly to protect large-breed puppies rather than tested in adult dogs, but there is almost no margin left once supplements are added. Worth correcting.
+3. **Choline and vitamin K.** No buffer for losses during cooking.
+4. **Iron.** Probably not harmful during anemia, but the vet should have known the diet's iron content when prescribing more.
+5. **Phosphorus.** His creatinine and SDMA stayed normal throughout, so restriction wasn't indicated. His urea did rise in 2025–26, so it should be rechecked if the recipe were reused.
+
+## Overall
+
+A well-built maintenance recipe for a healthy senior. But it is **too high in fat** for a dog who developed pancreatitis three months later, **over the AAFCO vitamin D maximum**, and **only just adequate** on choline and vitamin K. The analysis covers the recipe as written, not what was actually cooked and eaten.
+
+## Sources
+
+- [IVIS – Vitamin D and canine health](https://www.ivis.org/library/veterinary-focus/nutrition-matters-veterinary-focus-vol-283-nov-2018/vitamin-d-canine-health)
+- [Royal Canin Academy – Vitamin D in canine health](https://academy.royalcanin.com/en/veterinary/vitamin-d-in-canine-health)
+- [PMC10445235 – vitamin D in dog foods](https://pmc.ncbi.nlm.nih.gov/articles/PMC10445235)
+- [Frontiers in Veterinary Science 2023 – vitamin D upper limit](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2023.1242851/full)
+- [PMC4976120 – AAFCO/NRC vitamin D ranges](https://pmc.ncbi.nlm.nih.gov/articles/PMC4976120)
+- [Vet Times – Fat-sensitive conditions in dogs](https://www.vettimes.com/clinical/small-animal/fat-sensitive-conditions-in-dogs?hub=true)
+- [PMC9151489 – dietary fat and pancreatitis review](https://pmc.ncbi.nlm.nih.gov/articles/PMC9151489/)
+- [Science Insights – low-fat thresholds for pancreatitis](https://scienceinsights.org/what-is-the-best-low-fat-dog-food-for-pancreatitis/)
+- [Today's Veterinary Practice – ACVN nutrition (renal diet phosphorus)](https://todaysveterinarypractice.com/wp-content/uploads/sites/4/2016/05/2016-0304_ACVN-Nutrition.pdf)
+- [IVIS – Royal Canin nutritional information (phosphorus restriction)](https://www.ivis.org/library/encyclopedia-of-canine-clinical-nutrition/royal-canin-nutritional-information-6)
