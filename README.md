@@ -36,6 +36,7 @@ It is also the reference dataset for the **Canine Health Atlas**, a planned tool
 | `home_care.csv` | 321 | Hot/cold pack sessions on his hips and hindquarters (May 2025 – Apr 2026) |
 | `stool_log.csv` | 63 | Stool photos scored for consistency, colour, blood and mucus (Jul 2024 – May 2025) |
 | `grooming.csv` | 54 | Home grooming sessions with the groomer's notes on his skin and ears (Jan 2024 – Oct 2026) |
+| `communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
 | `providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
 | `milestones.csv` | 21 | Birthdays, celebrations and life milestones |
 | `birthday_wishes.csv` | 11 | Messages for his 15th birthday |

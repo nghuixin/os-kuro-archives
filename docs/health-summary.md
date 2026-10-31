@@ -69,6 +69,13 @@ From the household helper's photo log (`home_care.csv`, `stool_log.csv`). Times 
 
 - **Heat therapy.** A hot/cold gel pack was applied to his hindquarters, rump and hips in **321 sessions from May 2025 to Apr 2026**: about twice a day (morning and evening) in Jun 2025, then **almost every evening, 7:30–10:30 pm**, through Apr 2026. It began days after the Apr 2025 house call that found "arthritis and some nerve pain". The chats only record warm packs being *recommended* (Oct 2024, Mar 2025, Jul 2025); the photos show it was done.
 - **Stools.** 63 stool photos, Jul 2024 – May 2025, judged mostly from thumbnails: fecal scores 1 (×1), 2 (×29, ideal), 3 (×22), 4 (×3), not assessable (×8); none watery, and no fresh blood or mucus seen. Several stools had very dark or black pieces (24 Sep 2024; 20–21 Nov 2024). They were formed, which makes digested blood less likely, and he was taking activated charcoal, which blackens stool; but the Nov 2024 dark stools came days after his worst anemia (HCT 18.9% on 17 Nov), so gut bleeding can't be excluded. Stool photos stop after May 2025, when the log switches to heat-pack sessions.
+- **Animal communicator (non-clinical).** From Jul 2024 to Sep 2026 an animal communicator gave six communication sessions and 43 remote reiki sessions (`communicator_notes.csv`). These are intuitive impressions, not examinations, but they track the clinical picture:
+  - **Abdominal pain** after the Jul 2024 transfusion ("up to 8/10"), with a tender belly again in May 2025.
+  - **Hips, spine and joints** in nearly every session: stiff walking (Jan 2025), hip discomfort "at times" but better (Aug 2025), and aches worse on cold, rainy nights (Oct 2025 – Mar 2026).
+  - **Throat and breathing:** a "stuck" or phlegmy throat (2024–25, when the owner also noticed coughing), and wheezy or "asthma"-like panting from Oct 2025, when the owner noticed more panting at night.
+  - **Other recurring areas:** dry eyes, gums and bad breath, itchy ears and skin, kidney and bladder.
+  - **Left rib cage and stomach** in Jul 2026; the post-mortem later found the splenic tumour on that side.
+  - **How he was described:** "as healthy as he can be for his age" (Aug 2025) and "I'm as healthy as I can be" (Sep 2026).
 - **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
 
 ## Medications
