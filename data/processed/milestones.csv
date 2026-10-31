@@ -13,7 +13,7 @@ date,date_basis,age,occasion,celebration,details,source
 2025-03-07,chat,14,birthday gift,home-cooked dog food,"A home-cooked dog-food gift arrived for his birthday",pet communicator chat
 2025-03-10,chat,15,15th birthday,vet visit on his birthday,"Blood test at FurKids on his birthday; the clinic wished him ""happy 15th birthday""",family chat; FurKids chat; pet-taxi chat
 2025-03-12,chat,15,birthday party invitation,"""Asynchronous Hybrid Belated Birthday Bash""","Invitation sent to family, pet sitter, pet taxi and pet communicator",all chats
-2025-03-24,chat,15,15th birthday party,party with cake and cupcakes,"Cake arrived 22 Mar; party with his carers and their dogs, birthday songs, cupcakes and snacks; written birthday wishes from friends and his healing/acupuncture contacts; ""Fifteen years old and still as lively as a puppy""",family chat; pet-sitter chat; pet-taxi chat
+2025-03-25,chat,15,15th birthday party,party with cake and cupcakes,"In-person party on Tue 25 Mar; cake arrived 22 Mar; 9 written wishes and 2 in-person guests with their dogs (see birthday_wishes.csv); party with his carers and their dogs, birthday songs, cupcakes and snacks; written birthday wishes from friends and his healing/acupuncture contacts; ""Fifteen years old and still as lively as a puppy""",family chat; pet-sitter chat; pet-taxi chat
 2025-07-03,calculated,15,prognosis passed,,"One year after the Jul 2024 prognosis of ""3 months, 6 months to a year""",calculated
 2026-03-10,chat,16,16th birthday,birthday wishes,"""Daily dose wish Kuro Happy birthday""",family chat
 2026-07-03,calculated,16,two years past prognosis,,"Two years after the Jul 2024 prognosis",calculated

@@ -15,6 +15,7 @@ Values extracted from Kuro's records. The raw sources (WhatsApp chats, photos, i
 | `stool_log.csv` | one per stool photo | Purina fecal score (1-7), colour, blood, mucus, foreign material, notes; `method` says whether it was judged from a contact-sheet thumbnail or the full-size photo | Care chat photos (Jul 2024 - May 2025) |
 | `home_care.csv` | one per hot-pack session (date + morning/evening) | time of first photo (Malaysia time), body site, number of photos | Care chat photos (May 2025 - Apr 2026) |
 | `milestones.csv` | one per milestone | birthdays and how they were celebrated, age milestones, the 2024 prognosis and the dates he outlived it, his passing and farewell; `age` in years | chats |
+| `birthday_wishes.csv` | one per form response | wishes and RSVPs for his 15th birthday (Mar 2025): timestamp, greeter (first two letters of each name only), in-person attendance, message | birthday form responses |
 | `providers.csv` | one per service provider | clinics, pet carers, transport and other services used while Kuro was alive, with type, service, first and last month, `status` (used, booked only, emergency contact only) and evidence. People's names are omitted. | chats, invoices, labels, care notes |
 | `diet.csv` | one per nutrient | home-cooked NRC-balanced senior recipe: macronutrients, amino acids, fatty acids, minerals, vitamins vs NRC allowance | diet analysis PDF, Mar 2024 |
 
