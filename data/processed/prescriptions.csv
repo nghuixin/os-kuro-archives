@@ -1,100 +1,100 @@
-date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confidence,note
-2023-01-11,earlier clinic (Yeoh or Bangsar Veterinary Clinic),Skin tablets (name unreadable),skin infection,2.5 tablets,"1x daily, then every other day","11-21 Jan, then 22-28 Jan alternate days",,IMG-20230118-WA0012.jpg,low,two bags; clinic tick box unclear
-2023-01-18,,Surolan topical suspension (Elanco),ear,5 drops each ear,2x daily,10 days,after ear cleaning,IMG-20230118-WA0014.jpg,medium,"handwritten on box; chat: ""two drops each ear"""
-2023-01-18,,Ear cleaner,ear cleaning,fill ear canal,,,massage base of ear,IMG-20230118-WA0013.jpg,low,brand not visible
-2023-01-18,,Gold Medal Pets Clean Eyes,eye cleansing,,,,,IMG-20230303-WA0014.jpg,high,
-2023-03-03,owner (supplement),Resvantage Canine (resveratrol 5 mg),longevity supplement,,,,,IMG-20230303-WA0015.jpg,medium,
-2023-03-03,owner (supplement),dermcare Aloveen,skin/coat,,,,,IMG-20230303-WA0015.jpg,medium,product type partly hidden
-2023-09-03,owner (supplement),RESET healthy-aging capsules,aging supplement,1 capsule,1x daily,,,IMG-20230904-WA0002.jpg,high,brand partly covered
-2023-09-03,owner (supplement),Bioline Eye Care balsam,eye care,,,,,IMG-20230904-WA0003.jpg,high,
-2023-09-03,owner (supplement),"VetClassics CAS Options (reishi, shiitake, maitake, turkey tail)",immune and antioxidant support,2 chews,1x daily,,,IMG-20230904-WA0005.jpg,high,
-2023-09-10,vet (clinic not printed),Maximus Ophtal (PETdiatric),eye supplement,1 tablet,1x daily,,,IMG-20230910-WA0013.jpg,high,added after vet visit
-2023-09-10,vet (clinic not printed),Cetirizine 10 mg,antihistamine,1 tablet,1x daily,6 days,after food,IMG-20230910-WA0014.jpg,high,added after vet visit
-2023-12-11,owner (supplement),Lanomax lanosterol eye drops,cataract eye drops,,,,,IMG-20231211-WA0009.jpg,high,
-2023-12-11,owner (supplement),MAOWASH oral-care water additive,dental,2-3 pumps,in drinking water,,,IMG-20231211-WA0008.jpg,medium,"dose from chat; label tags read triclosan, xylitol, preservative - unclear whether 'contains' or 'free of'"
-2023-12-25,vet-carried,MiconaHex+Triz shampoo,"antimicrobial, antifungal shampoo",,,,,IMG-20231226-WA0012.jpg,high,
-2024-02-23,owner (supplement),Maximus Ophtal (PETdiatric),eye supplement,,,,,IMG-20240223-WA0006.jpg,high,bought from Philos vet
-2024-07-05,FurKids,Prednisolone 5 mg,steroid,1 tablet,2x daily,7 days,,IMG-20240711-WA0003.jpg,high,label dated 5 Jul 2024
-2024-07-08,FurKids,Metrogyl 400 mg (metronidazole),,1 tablet,2x daily,,,IMG-20240708-WA0015.jpg,medium,blister pack only; dose from chat
-2024-07-18,owner care notes,Wound ointment (hind legs),wound care,,4x daily,,applied by helper,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Lanomax eye drops,cataract eye drops,2 drops each eye,,,,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Dr. Harvey's Multivitamin & Mineral Powder,vitamin-mineral supplement,4 scoops,2x daily,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Turmeric powder,supplement,2 scoops,,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Pet herbal powder,supplement,2 scoops,,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,product not named
-2024-07-18,owner care notes,Adored Beast Liver Tonic,liver support,0.5 ml,2x daily,,"after meal, with softened treats; refrigerate",Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Adored Beast Fido's Flora,probiotic,"0.25 tsp (20-26 Jul), then 0.5 tsp","1x daily, at night",,"after meal, with softened treats; refrigerate",Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,YuMove,joint supplement,2 tablets,"1x daily, at night",,,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-18,owner care notes,Activated charcoal powder,gut,1 capsule,morning,,added to drinking water,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-25,FurKids,Baytril 150 mg,antibiotic,0.75 tablet,1x daily,16 days,after meal; to be completed; pre-prepared capsules,IMG-20240726-WA0001.jpg,high,
-2024-07-25,owner (supplement),Liver tonic (name not visible),"liver, kidney, pancreas, gallbladder support",0.5 ml,2x daily,,with meals; refrigerate,IMG-20240725-WA0004.jpg,high,dose for 5-60 lb dogs
-2024-07-25,owner care notes,Maximus Hep,liver supplement,1 capsule,1x daily (day),course finished 25 Jul,,Notion: Kuro - Pet Sitting 2024,high,medication table 'July 25 (Finished)'
-2024-07-25,owner care notes,Clavamox,antibiotic,0.5 tablet,2x daily,course finished 25 Jul,,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-25,owner care notes,Prednisolone,steroid,1 tablet,1x daily (day),,,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-25,owner care notes,Lypex,pancreatic enzyme supplement,1 capsule,1x daily,"until finished, then Protexin",open and sprinkle on food or treat,Notion: Kuro - Pet Sitting 2024,high,clinic ran out of Lypex
-2024-07-25,owner care notes,Cerenia,anti-nausea,1 tablet,only if blood in stool or vomiting blood,,,Notion: Kuro - Pet Sitting 2024,high,as-needed
-2024-07-25,owner care notes,Yunnan Baiyao,anti-bleeding,1 tablet,only if blood in stool or vomiting blood,,,Notion: Kuro - Pet Sitting 2024,high,as-needed
-2024-07-25,owner care notes,Samylin,liver supplement,,1x daily (day),,keep in fridge,Notion: Kuro - Pet Sitting 2024,high,
-2024-07-26,owner care notes,Antibiotic (Baytril),antibiotic,0.75 tablet in a capsule,1x daily (day),,,Notion: Kuro - Pet Sitting 2024,high,"table 'Medication 26 July onwards'; with Maximus Hep, Protexin, prednisolone 1 tablet and B12 1 tablet"
-2024-07-29,Petcare (house call),B12 supplement,vitamin B12,1 tablet,1x daily,,,IMG-20240729-WA0010.jpg,medium,
-2024-07-29,Petcare (house call),Neuroforte,nerve supplement,1,1x daily,30 days,,IMG-20240729-WA0010.jpg,low,name partly readable on invoice
-2024-08-01,FurKids,Baytril,antibiotic,1 capsule (0.75 tablet),morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,FurKids,Prednisolone,steroid,1 tablet,morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,Petcare (house call),B12 supplement,vitamin B12,1 tablet,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,FurKids,Protexin,probiotic,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,FurKids,Maximus Hep,liver supplement,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,owner (supplement),Adored Beast Liver Tonic,liver support,0.5 ml,morning and evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,owner (supplement),Lanomax eye drops,cataract eye drops,2 drops each eye,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,owner (supplement),YuMove,joint supplement,2 tablets,evening,,crushed and mixed with egg and warm water,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-01,owner (supplement),Adored Beast Fido's Flora,probiotic,1/4 teaspoon,evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
-2024-08-14,FurKids,Maximus Hep (curcumin liver supplement),liver supplement,,,,,IMG-20240814-WA0002.jpg,medium,label partly removed; identified from chat and the later Maximus Hep photo; exp 03/2027
-2024-10-23,FurKids,Maltofer iron tablet,iron,1 tablet,1x daily,30 days,,IMG-20241117-WA0024.jpg,high,
-2024-10-23,FurKids,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,30 days,after food,IMG-20241117-WA0026.jpg,high,
-2024-11-17,Kota Damansara Veterinary Centre,Clavamox 375,antibiotic,1 tablet,2x daily,,after food,IMG-20241117-WA0022.jpg,high,"chat: antibiotic for ""1 weeks"""
-2024-11-17,Kota Damansara Veterinary Centre,Prednisolone 5 mg,steroid,1 tablet,2x daily,7 days,after food,IMG-20241117-WA0023.jpg,medium,"duration ""7day"" handwritten on the label; chat says prednisolone ""for almost 1 month"""
-2024-11-17,Kota Damansara Veterinary Centre,Yunnan Baiyao,anti-bleeding,1 capsule,1x daily,4 days,after food,IMG-20241117-WA0025.jpg,medium,"chat: ""anti-bleeding (4 days only)"""
-2025-02-10,FurKids,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,30 days,,IMG-20250209-WA0006.jpg,medium,duration amended by hand
-2025-02-10,FurKids,Maltofer iron tablet,iron,1 tablet,1x daily,30 days,after meal,IMG-20250209-WA0006.jpg,high,
-2025-02-10,FurKids,Prednisolone 5 mg,steroid,0.5 tablet,1x every 3 days,,after meal,IMG-20250209-WA0006.jpg,medium,label partly covered
-2025-03-09,owner (current medicines),"Maltofer Fol (iron(III) hydroxide polymaltose 100 mg, folic acid 0.35 mg)",iron,,,,,IMG-20250309-WA0031.jpg,high,"""These are the medicine that Kuro is taking"""
-2025-03-09,owner (current medicines),"Cell salts labelled ""...Phosphoricum No.3"" and ""...Phosphorica No.7""",,,,,,IMG-20250309-WA0031.jpg,low,labels partly visible
-2025-03-09,owner (current supplements),Myco-Biome Turkey Tail Mushrooms (Restore),supplement,,,,,IMG-20250309-WA0040.jpg,high,
-2025-03-09,owner (current supplements),Powder supplement in jar (label worn),supplement,1 scoop,every meal,,mixed into food,IMG-20250309-WA0040.jpg,low,"owner note on lid: ""1 every meal"""
-2025-03-09,owner (current supplements),Dropper-bottle supplement (label worn),supplement,,,,,IMG-20250309-WA0040.jpg,low,
-2025-03-09,owner (current supplements),Maximus Hep with CurQLife (PETdiatric),liver supplement,,,,,IMG-20250309-WA0040.jpg,high,60 capsules
-2025-03-10,FurKids,Maltofer iron tablet,,1 tablet,every other day,60 days,after meal,IMG-20250310-WA0003.jpg,high,
-2025-03-10,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,,,after meal,IMG-20250310-WA0003.jpg,medium,frequency partly hidden by another bag
-2025-03-10,FurKids,Protexin Pro-Enzorb,,,,,,IMG-20250310-WA0003.jpg,low,dispensed; dosing hidden
-2025-03-10,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20250310-WA0003.jpg,high,box only; no dosing label
-2025-04-22,FurKids,Arnica C30 (homeopathic),pain,,,,,IMG-20250422-WA0053.jpg,high,given free by the vet
-2025-04-28,Petcare (house call),Neuroforte,nerve supplement,1 tablet,1x daily,,,IMG-20250501-WA0065.jpg,medium,"start date handwritten, read as 28/4/25; times-daily digit overwritten; label also notes ""20kgs"""
-2025-04-29,Petcare (house call),Galliprant,anti-inflammatory,0.5 tablet,1x daily,10 days,after food,IMG-20250501-WA0062.jpg,high,drug name from invoice 79410; label says anti-inflammatory
-2025-05-01,Petcare,Antibiotic (name not on label),antibiotic,1 tablet,2x daily,5 days,after food,IMG-20250501-WA0067.jpg,high,also IMG-20250501-WA0070.jpg
-2025-05-01,FurKids,Chlorhexidine wash (pink solution),wound care,,,,step 1: wash the wound; step 2: rinse with clean water,IMG-20250501-WA0073.jpg,high,product from invoice INV-16763
-2025-05-01,FurKids,Murozin ointment (mupirocin 2%),wound care (antibacterial),thin layer,,,"step 3: pat dry, apply thin layer",IMG-20250501-WA0073.jpg,high,
-2025-05-16,Asia Paws,Arnica 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
-2025-05-16,Asia Paws,Hypericum 30C (homeopathic),complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
-2025-06-02,owner care notes,Samylin,liver supplement,1 tablet,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Prednisolone,steroid,1 tablet,every other day,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,,open capsule onto food,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Xiao Chai Hu Tang (Chinese herbal),herbal,1 white plastic spoon,2x daily,,with treats,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Adored Beast Liver Tonic,liver support,0.5 ml,2x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Gut Soothe,gut supplement,1 tbsp,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Vital Defense,supplement,1 tbsp,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Activated charcoal powder,gut,1 capsule,1x daily,,1 hour before food,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,YuMove,joint supplement,2 tablets,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
-2025-06-02,owner care notes,Easy Peasy II,supplement,,,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting; marked not active
-2025-06-15,owner (supplement),YuMOVE Senior (green-lipped mussel),joint supplement,,,,,IMG-20250615-WA0050.jpg,high,"medicines on hand in Jun 2025, with Maximus Hep, Supra Mineral, Samylin and homeopathic vials"
-2025-06-15,FurKids,"Samylin (VetPlus, 10-30 kg)",liver supplement,,,,,IMG-20250615-WA0053.jpg,high,
-2025-08-28,owner (over the counter),TropiClean Fresh Breath oral care,mouth spray,3-4 sprays,,,,IMG-20251015-WA0009.jpg,high,"per 5 ml: cetylpyridinium chloride 4.6 mg, green tea extract 0.6 mg, zinc gluconate 0.5 mg; dose from chat 2025-08-28"
-2025-09-11,Asia Paws,Arnica (homeopathic),"""for pain & trauma""",a few globuli,every 0.5-1 hour,,in his water,IMG-20250912-WA0022.jpg,medium,label partly visible; dosing from chat
-2025-11-04,Asia Paws,Strophanthus (homeopathic),"""heart support""",,,,,IMG-20251104-WA0029.jpg,medium,label partly visible
-2025-11-10,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20251110-WA0020.jpg,high,
-2025-11-10,FurKids,Omeprazole 20 mg,gastroprotectant,1 tablet,1x daily,10 days,before meal,IMG-20251110-WA0023.jpg,high,
-2025-11-10,FurKids,Protexin Pro-Enzorb,pancreatic support,1 capsule,1x daily,30 days,must sprinkle in food,IMG-20251110-WA0024.jpg,high,
-2025-11-10,FurKids,Gabapentin 300 mg,pain relief,1 capsule,1x daily,10 days,after meal,IMG-20251110-WA0025.jpg,high,
-2025-11-10,FurKids,Iron tablet,iron supplement,1 tablet,1x daily,14 days,after meal,IMG-20251110-WA0025.jpg,high,
-2025-11-10,FurKids,Samylin,liver supplement,,,,,IMG-20251110-WA0025.jpg,high,2 boxes
-2026-02-04,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20260203-WA0038.jpg,high,
-2026-02-04,FurKids,Protexin Pro-Enzorb,,1 capsule,1x daily,30 days,sprinkle in food,IMG-20260203-WA0038.jpg,high,
-2026-02-04,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20260203-WA0038.jpg,high,box only
-2026-03-16,FurKids,"Protexin, Samylin, Supra Mineral",,,,,,IMG-20260316-WA0010.jpg,low,dispensed; labels not readable
+date,clinic,medication,kind,purpose,dose,frequency,duration,instructions,source,confidence,note
+2023-01-11,earlier clinic (Yeoh or Bangsar Veterinary Clinic),Skin tablets (name unreadable),medication,skin infection,2.5 tablets,"1x daily, then every other day","11-21 Jan, then 22-28 Jan alternate days",,IMG-20230118-WA0012.jpg,low,two bags; clinic tick box unclear
+2023-01-18,,Surolan topical suspension (Elanco),medication,ear,5 drops each ear,2x daily,10 days,after ear cleaning,IMG-20230118-WA0014.jpg,medium,"handwritten on box; chat: ""two drops each ear"""
+2023-01-18,,Ear cleaner,care product,ear cleaning,fill ear canal,,,massage base of ear,IMG-20230118-WA0013.jpg,low,brand not visible
+2023-01-18,,Gold Medal Pets Clean Eyes,care product,eye cleansing,,,,,IMG-20230303-WA0014.jpg,high,
+2023-03-03,owner (supplement),Resvantage Canine (resveratrol 5 mg),supplement,longevity supplement,,,,,IMG-20230303-WA0015.jpg,medium,
+2023-03-03,owner (supplement),dermcare Aloveen,care product,skin/coat,,,,,IMG-20230303-WA0015.jpg,medium,product type partly hidden
+2023-09-03,owner (supplement),RESET healthy-aging capsules,supplement,aging supplement,1 capsule,1x daily,,,IMG-20230904-WA0002.jpg,high,brand partly covered
+2023-09-03,owner (supplement),Bioline Eye Care balsam,care product,eye care,,,,,IMG-20230904-WA0003.jpg,high,
+2023-09-03,owner (supplement),"VetClassics CAS Options (reishi, shiitake, maitake, turkey tail)",supplement,immune and antioxidant support,2 chews,1x daily,,,IMG-20230904-WA0005.jpg,high,
+2023-09-10,vet (clinic not printed),Maximus Ophtal (PETdiatric),supplement,eye supplement,1 tablet,1x daily,,,IMG-20230910-WA0013.jpg,high,added after vet visit
+2023-09-10,vet (clinic not printed),Cetirizine 10 mg,medication,antihistamine,1 tablet,1x daily,6 days,after food,IMG-20230910-WA0014.jpg,high,added after vet visit
+2023-12-11,owner (supplement),Lanomax lanosterol eye drops,medication,cataract eye drops,,,,,IMG-20231211-WA0009.jpg,high,
+2023-12-11,owner (supplement),MAOWASH oral-care water additive,care product,dental,2-3 pumps,in drinking water,,,IMG-20231211-WA0008.jpg,medium,"dose from chat; label tags read triclosan, xylitol, preservative - unclear whether 'contains' or 'free of'"
+2023-12-25,vet-carried,MiconaHex+Triz shampoo,medication,"antimicrobial, antifungal shampoo",,,,,IMG-20231226-WA0012.jpg,high,
+2024-02-23,owner (supplement),Maximus Ophtal (PETdiatric),supplement,eye supplement,,,,,IMG-20240223-WA0006.jpg,high,bought from Philos vet
+2024-07-05,FurKids,Prednisolone 5 mg,medication,steroid,1 tablet,2x daily,7 days,,IMG-20240711-WA0003.jpg,high,label dated 5 Jul 2024
+2024-07-08,FurKids,Metrogyl 400 mg (metronidazole),medication,,1 tablet,2x daily,,,IMG-20240708-WA0015.jpg,medium,blister pack only; dose from chat
+2024-07-18,owner care notes,Wound ointment (hind legs),medication,wound care,,4x daily,,applied by helper,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Lanomax eye drops,medication,cataract eye drops,2 drops each eye,,,,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Dr. Harvey's Multivitamin & Mineral Powder,supplement,vitamin-mineral supplement,4 scoops,2x daily,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Turmeric powder,supplement,supplement,2 scoops,,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Pet herbal powder,supplement,supplement,2 scoops,,,mixed with food,Notion: Kuro - Pet Sitting 2024,high,product not named
+2024-07-18,owner care notes,Adored Beast Liver Tonic,supplement,liver support,0.5 ml,2x daily,,"after meal, with softened treats; refrigerate",Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Adored Beast Fido's Flora,supplement,probiotic,"0.25 tsp (20-26 Jul), then 0.5 tsp","1x daily, at night",,"after meal, with softened treats; refrigerate",Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,YuMove,supplement,joint supplement,2 tablets,"1x daily, at night",,,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-18,owner care notes,Activated charcoal powder,supplement,gut,1 capsule,morning,,added to drinking water,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-25,FurKids,Baytril 150 mg,medication,antibiotic,0.75 tablet,1x daily,16 days,after meal; to be completed; pre-prepared capsules,IMG-20240726-WA0001.jpg,high,
+2024-07-25,owner (supplement),Liver tonic (name not visible),supplement,"liver, kidney, pancreas, gallbladder support",0.5 ml,2x daily,,with meals; refrigerate,IMG-20240725-WA0004.jpg,high,dose for 5-60 lb dogs
+2024-07-25,owner care notes,Maximus Hep,supplement,liver supplement,1 capsule,1x daily (day),course finished 25 Jul,,Notion: Kuro - Pet Sitting 2024,high,medication table 'July 25 (Finished)'
+2024-07-25,owner care notes,Clavamox,medication,antibiotic,0.5 tablet,2x daily,course finished 25 Jul,,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-25,owner care notes,Prednisolone,medication,steroid,1 tablet,1x daily (day),,,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-25,owner care notes,Lypex,supplement,pancreatic enzyme supplement,1 capsule,1x daily,"until finished, then Protexin",open and sprinkle on food or treat,Notion: Kuro - Pet Sitting 2024,high,clinic ran out of Lypex
+2024-07-25,owner care notes,Cerenia,medication,anti-nausea,1 tablet,only if blood in stool or vomiting blood,,,Notion: Kuro - Pet Sitting 2024,high,as-needed
+2024-07-25,owner care notes,Yunnan Baiyao,medication,anti-bleeding,1 tablet,only if blood in stool or vomiting blood,,,Notion: Kuro - Pet Sitting 2024,high,as-needed
+2024-07-25,owner care notes,Samylin,supplement,liver supplement,,1x daily (day),,keep in fridge,Notion: Kuro - Pet Sitting 2024,high,
+2024-07-26,owner care notes,Antibiotic (Baytril),medication,antibiotic,0.75 tablet in a capsule,1x daily (day),,,Notion: Kuro - Pet Sitting 2024,high,"table 'Medication 26 July onwards'; with Maximus Hep, Protexin, prednisolone 1 tablet and B12 1 tablet"
+2024-07-29,Petcare (house call),B12 supplement,supplement,vitamin B12,1 tablet,1x daily,,,IMG-20240729-WA0010.jpg,medium,
+2024-07-29,Petcare (house call),Neuroforte,supplement,nerve supplement,1,1x daily,30 days,,IMG-20240729-WA0010.jpg,low,name partly readable on invoice
+2024-08-01,FurKids,Baytril,medication,antibiotic,1 capsule (0.75 tablet),morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Prednisolone,medication,steroid,1 tablet,morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,Petcare (house call),B12 supplement,supplement,vitamin B12,1 tablet,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Protexin,supplement,probiotic,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Maximus Hep,supplement,liver supplement,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Adored Beast Liver Tonic,supplement,liver support,0.5 ml,morning and evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Lanomax eye drops,medication,cataract eye drops,2 drops each eye,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),YuMove,supplement,joint supplement,2 tablets,evening,,crushed and mixed with egg and warm water,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Adored Beast Fido's Flora,supplement,probiotic,1/4 teaspoon,evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-14,FurKids,Maximus Hep (curcumin liver supplement),supplement,liver supplement,,,,,IMG-20240814-WA0002.jpg,medium,label partly removed; identified from chat and the later Maximus Hep photo; exp 03/2027
+2024-10-23,FurKids,Maltofer iron tablet,medication,iron,1 tablet,1x daily,30 days,,IMG-20241117-WA0024.jpg,high,
+2024-10-23,FurKids,Protexin Pro-Enzorb,supplement,probiotic,1 capsule,1x daily,30 days,after food,IMG-20241117-WA0026.jpg,high,
+2024-11-17,Kota Damansara Veterinary Centre,Clavamox 375,medication,antibiotic,1 tablet,2x daily,,after food,IMG-20241117-WA0022.jpg,high,"chat: antibiotic for ""1 weeks"""
+2024-11-17,Kota Damansara Veterinary Centre,Prednisolone 5 mg,medication,steroid,1 tablet,2x daily,7 days,after food,IMG-20241117-WA0023.jpg,medium,"duration ""7day"" handwritten on the label; chat says prednisolone ""for almost 1 month"""
+2024-11-17,Kota Damansara Veterinary Centre,Yunnan Baiyao,medication,anti-bleeding,1 capsule,1x daily,4 days,after food,IMG-20241117-WA0025.jpg,medium,"chat: ""anti-bleeding (4 days only)"""
+2025-02-10,FurKids,Protexin Pro-Enzorb,supplement,probiotic,1 capsule,1x daily,30 days,,IMG-20250209-WA0006.jpg,medium,duration amended by hand
+2025-02-10,FurKids,Maltofer iron tablet,medication,iron,1 tablet,1x daily,30 days,after meal,IMG-20250209-WA0006.jpg,high,
+2025-02-10,FurKids,Prednisolone 5 mg,medication,steroid,0.5 tablet,1x every 3 days,,after meal,IMG-20250209-WA0006.jpg,medium,label partly covered
+2025-03-09,owner (current medicines),"Maltofer Fol (iron(III) hydroxide polymaltose 100 mg, folic acid 0.35 mg)",medication,iron,,,,,IMG-20250309-WA0031.jpg,high,"""These are the medicine that Kuro is taking"""
+2025-03-09,owner (current medicines),"Cell salts labelled ""...Phosphoricum No.3"" and ""...Phosphorica No.7""",supplement,,,,,,IMG-20250309-WA0031.jpg,low,labels partly visible
+2025-03-09,owner (current supplements),Myco-Biome Turkey Tail Mushrooms (Restore),supplement,supplement,,,,,IMG-20250309-WA0040.jpg,high,
+2025-03-09,owner (current supplements),Powder supplement in jar (label worn),supplement,supplement,1 scoop,every meal,,mixed into food,IMG-20250309-WA0040.jpg,low,"owner note on lid: ""1 every meal"""
+2025-03-09,owner (current supplements),Dropper-bottle supplement (label worn),supplement,supplement,,,,,IMG-20250309-WA0040.jpg,low,
+2025-03-09,owner (current supplements),Maximus Hep with CurQLife (PETdiatric),supplement,liver supplement,,,,,IMG-20250309-WA0040.jpg,high,60 capsules
+2025-03-10,FurKids,Maltofer iron tablet,medication,,1 tablet,every other day,60 days,after meal,IMG-20250310-WA0003.jpg,high,
+2025-03-10,FurKids,Prednisolone 5 mg,medication,anti-inflammatory,0.5 tablet,,,after meal,IMG-20250310-WA0003.jpg,medium,frequency partly hidden by another bag
+2025-03-10,FurKids,Protexin Pro-Enzorb,supplement,,,,,,IMG-20250310-WA0003.jpg,low,dispensed; dosing hidden
+2025-03-10,FurKids,Supra Mineral (PETdiatric),supplement,mineral supplement,,,,,IMG-20250310-WA0003.jpg,high,box only; no dosing label
+2025-04-22,FurKids,Arnica C30 (homeopathic),supplement,pain,,,,,IMG-20250422-WA0053.jpg,high,given free by the vet
+2025-04-28,Petcare (house call),Neuroforte,supplement,nerve supplement,1 tablet,1x daily,,,IMG-20250501-WA0065.jpg,medium,"start date handwritten, read as 28/4/25; times-daily digit overwritten; label also notes ""20kgs"""
+2025-04-29,Petcare (house call),Galliprant,medication,anti-inflammatory,0.5 tablet,1x daily,10 days,after food,IMG-20250501-WA0062.jpg,high,drug name from invoice 79410; label says anti-inflammatory
+2025-05-01,Petcare,Antibiotic (name not on label),medication,antibiotic,1 tablet,2x daily,5 days,after food,IMG-20250501-WA0067.jpg,high,also IMG-20250501-WA0070.jpg
+2025-05-01,FurKids,Chlorhexidine wash (pink solution),medication,wound care,,,,step 1: wash the wound; step 2: rinse with clean water,IMG-20250501-WA0073.jpg,high,product from invoice INV-16763
+2025-05-01,FurKids,Murozin ointment (mupirocin 2%),medication,wound care (antibacterial),thin layer,,,"step 3: pat dry, apply thin layer",IMG-20250501-WA0073.jpg,high,
+2025-05-16,Asia Paws,Arnica 30C (homeopathic),supplement,complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
+2025-05-16,Asia Paws,Hypericum 30C (homeopathic),supplement,complementary natural pain relief,2-3 globuli,2x daily minimum; more often if he seems weak,,"on top of food, into water, or in the mouth between lips and teeth",IMG-20250515-WA0025.jpg,high,
+2025-06-02,owner care notes,Samylin,supplement,liver supplement,1 tablet,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Prednisolone,medication,steroid,1 tablet,every other day,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Protexin Pro-Enzorb,supplement,probiotic,1 capsule,1x daily,,open capsule onto food,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Xiao Chai Hu Tang (Chinese herbal),supplement,herbal,1 white plastic spoon,2x daily,,with treats,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Adored Beast Liver Tonic,supplement,liver support,0.5 ml,2x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Gut Soothe,supplement,gut supplement,1 tbsp,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Vital Defense,supplement,supplement,1 tbsp,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Activated charcoal powder,supplement,gut,1 capsule,1x daily,,1 hour before food,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,YuMove,supplement,joint supplement,2 tablets,1x daily,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting
+2025-06-02,owner care notes,Easy Peasy II,supplement,supplement,,,,,Notion: Kuro - Pet Sitting 2025,medium,page undated; placed at the Jun 2025 pet sitting; marked not active
+2025-06-15,owner (supplement),YuMOVE Senior (green-lipped mussel),supplement,joint supplement,,,,,IMG-20250615-WA0050.jpg,high,"medicines on hand in Jun 2025, with Maximus Hep, Supra Mineral, Samylin and homeopathic vials"
+2025-06-15,FurKids,"Samylin (VetPlus, 10-30 kg)",supplement,liver supplement,,,,,IMG-20250615-WA0053.jpg,high,
+2025-08-28,owner (over the counter),TropiClean Fresh Breath oral care,care product,mouth spray,3-4 sprays,,,,IMG-20251015-WA0009.jpg,high,"per 5 ml: cetylpyridinium chloride 4.6 mg, green tea extract 0.6 mg, zinc gluconate 0.5 mg; dose from chat 2025-08-28"
+2025-09-11,Asia Paws,Arnica (homeopathic),supplement,"""for pain & trauma""",a few globuli,every 0.5-1 hour,,in his water,IMG-20250912-WA0022.jpg,medium,label partly visible; dosing from chat
+2025-11-04,Asia Paws,Strophanthus (homeopathic),supplement,"""heart support""",,,,,IMG-20251104-WA0029.jpg,medium,label partly visible
+2025-11-10,FurKids,Prednisolone 5 mg,medication,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20251110-WA0020.jpg,high,
+2025-11-10,FurKids,Omeprazole 20 mg,medication,gastroprotectant,1 tablet,1x daily,10 days,before meal,IMG-20251110-WA0023.jpg,high,
+2025-11-10,FurKids,Protexin Pro-Enzorb,supplement,pancreatic support,1 capsule,1x daily,30 days,must sprinkle in food,IMG-20251110-WA0024.jpg,high,
+2025-11-10,FurKids,Gabapentin 300 mg,medication,pain relief,1 capsule,1x daily,10 days,after meal,IMG-20251110-WA0025.jpg,high,
+2025-11-10,FurKids,Iron tablet,medication,iron supplement,1 tablet,1x daily,14 days,after meal,IMG-20251110-WA0025.jpg,high,
+2025-11-10,FurKids,Samylin,supplement,liver supplement,,,,,IMG-20251110-WA0025.jpg,high,2 boxes
+2026-02-04,FurKids,Prednisolone 5 mg,medication,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20260203-WA0038.jpg,high,
+2026-02-04,FurKids,Protexin Pro-Enzorb,supplement,,1 capsule,1x daily,30 days,sprinkle in food,IMG-20260203-WA0038.jpg,high,
+2026-02-04,FurKids,Supra Mineral (PETdiatric),supplement,mineral supplement,,,,,IMG-20260203-WA0038.jpg,high,box only
+2026-03-16,FurKids,"Protexin, Samylin, Supra Mineral",supplement,,,,,,IMG-20260316-WA0010.jpg,low,dispensed; labels not readable
