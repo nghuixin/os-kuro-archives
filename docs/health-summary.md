@@ -21,7 +21,7 @@ Kuro was a male, neutered golden mix, born on 10 March 2010. He died on 18 Octob
 
 ## Lab trends (IDEXX in-house analyzers)
 
-From `lab_panels.csv`; one value per visit (first run of the day). All FurKids except 2024-11-17 (Kota Damansara Veterinary Centre). H/L = outside the printed reference interval.
+From `labs.csv` (`record_type = panel`); one value per visit (first run of the day). All FurKids except 2024-11-17 (Kota Damansara Veterinary Centre). H/L = outside the printed reference interval.
 
 | Date | HCT % (37.3–61.7) | PLT K/µL (148–484) | UREA mmol/L (2.5–9.6) | CREA µmol/L (44–159) | SDMA µg/dL (0–14) | ALT U/L (10–125) | ALKP U/L (23–212) | LIPA U/L (200–1800) |
 |---|---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@ From `lab_panels.csv`; one value per visit (first run of the day). All FurKids e
 | 2026-08-10 | 32.8 L | 434 | 17.2 H | 80 | – | 130 H | 211 | 1,344 |
 | 2026-09-14 | 34.9 L | 435 | 13.0 H | 114 | – | 112 | 192 | 1,137 |
 
-The analyzer repeatedly commented "anemia without reticulocytosis – likely non-regenerative anemia" and, at several visits, "monocytosis – consider inflammation" (`lab_comments.csv`). In Dec 2025 it noted "SDMA and CREA within reference interval: impairment of GFR is unlikely". SNAP 4Dx Plus (Anaplasma, Ehrlichia, heartworm, Lyme) was negative in Jun 2024 and Sep 2026.
+The analyzer repeatedly commented "anemia without reticulocytosis – likely non-regenerative anemia" and, at several visits, "monocytosis – consider inflammation" (`labs.csv`, `record_type = analyzer comment`). In Dec 2025 it noted "SDMA and CREA within reference interval: impairment of GFR is unlikely". SNAP 4Dx Plus (Anaplasma, Ehrlichia, heartworm, Lyme) was negative in Jun 2024 and Sep 2026.
 
 ## Recurring themes
 

@@ -6,14 +6,22 @@ Values extracted from Kuro's records. The raw sources (WhatsApp chats, photos, i
 |---|---|---|---|
 | `visits.csv` | one per visit | date, clinic, visit type, short summary | chats, invoices |
 | `invoice_items.csv` | one per invoice line | tests, procedures, medications, supplements, quantity, price (RM) | 24 FurKids invoices (Jul 2024 – Oct 2026, each reconciled to its printed total), 1 Petcare house-call invoice (amounts only) |
-| `lab_comments.csv` | one per comment | interpretive comments printed by the IDEXX analyzers | IDEXX reports |
+| `labs.csv` | one per lab value, comment or reported finding | all lab data; `record_type` says which kind of row it is (see below) | IDEXX report PDFs, photographed printouts, chats |
 | `prescriptions.csv` | one per dispensed item | medication, purpose, dose, frequency, duration, instructions, with a confidence rating | photographed medicine labels and prescriptions |
-| `lab_panels.csv` | one per analyte per test | IDEXX Catalyst chemistry (incl. ALT, ALKP, CREA, UREA), ProCyte CBC and SNAP 4Dx values with reference intervals and high/low flags | photographed clinic printouts |
-| `lab_results.csv` | one per finding | earlier numbers and qualitative readings mentioned in chat | chats |
 | `weights.csv` | one per weighing | weight in kg | chats |
 | `imaging.csv` | one per study | ultrasound, x-ray, surgical photo, with measurements | chats, clinic images |
 | `health_events.csv` | one per mention | symptoms, diagnoses, medications, care notes and post-mortem findings, quoted | Pet Taxi chat, FurKids chats |
 | `diet.csv` | one per nutrient | home-cooked NRC-balanced senior recipe: macronutrients, amino acids, fatty acids, minerals, vitamins vs NRC allowance | diet analysis PDF, Mar 2024 |
+
+## `labs.csv`
+
+| `record_type` | Rows | Columns used |
+|---|---|---|
+| `panel` | one per analyte per analyzer run: IDEXX Catalyst chemistry and electrolytes, ProCyte CBC, SNAP 4Dx and cPL | `time`, `lab`, `analyzer`, `analyte`, `value`, `unit`, `ref_low`, `ref_high`, `flag`, `confidence` |
+| `analyzer comment` | one per interpretive comment the analyzer printed for a run (match on `date`, `time`, `analyzer`) | `comment` |
+| `reported` | numbers or readings mentioned in chat with no printout (e.g. "a bit anemic", blood type DEA 1+) | `value` or `qualitative` |
+
+Filter on `record_type = panel` for charting. `date_basis` is `lab report` for panels and comments, `chat` for reported rows.
 
 ## Conventions
 
