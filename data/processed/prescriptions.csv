@@ -20,12 +20,24 @@ date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confi
 2024-07-25,owner (supplement),Liver tonic (name not visible),"liver, kidney, pancreas, gallbladder support",0.5 ml,2x daily,,with meals; refrigerate,IMG-20240725-WA0004.jpg,high,dose for 5-60 lb dogs
 2024-07-29,Petcare (house call),B12 supplement,vitamin B12,1 tablet,1x daily,,,IMG-20240729-WA0010.jpg,medium,
 2024-07-29,Petcare (house call),Neuroforte,nerve supplement,1,1x daily,30 days,,IMG-20240729-WA0010.jpg,low,name partly readable on invoice
+2024-08-01,FurKids,Baytril,antibiotic,1 capsule (0.75 tablet),morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Prednisolone,steroid,1 tablet,morning,,hidden in food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,Petcare (house call),B12 supplement,vitamin B12,1 tablet,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Protexin,probiotic,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,FurKids,Maximus Hep,liver supplement,1 capsule,morning,,sprinkle on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Adored Beast Liver Tonic,liver support,0.5 ml,morning and evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Lanomax eye drops,cataract eye drops,2 drops each eye,morning,,,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),YuMove,joint supplement,2 tablets,evening,,crushed and mixed with egg and warm water,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
+2024-08-01,owner (supplement),Adored Beast Fido's Flora,probiotic,1/4 teaspoon,evening,,on food,IMG-20240801-WA0001.jpg,high,owner's daily medication schedule
 2024-08-14,FurKids,Maximus Hep (curcumin liver supplement),liver supplement,,,,,IMG-20240814-WA0002.jpg,medium,label partly removed; identified from chat and the later Maximus Hep photo; exp 03/2027
 2024-10-23,FurKids,Maltofer iron tablet,iron,1 tablet,1x daily,30 days,,IMG-20241117-WA0024.jpg,high,
 2024-10-23,FurKids,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,30 days,after food,IMG-20241117-WA0026.jpg,high,
 2024-11-17,Kota Damansara Veterinary Centre,Clavamox 375,antibiotic,1 tablet,2x daily,,after food,IMG-20241117-WA0022.jpg,high,"chat: antibiotic for ""1 weeks"""
 2024-11-17,Kota Damansara Veterinary Centre,Prednisolone 5 mg,steroid,1 tablet,2x daily,7 days,after food,IMG-20241117-WA0023.jpg,medium,"duration ""7day"" handwritten on the label; chat says prednisolone ""for almost 1 month"""
 2024-11-17,Kota Damansara Veterinary Centre,Yunnan Baiyao,anti-bleeding,1 capsule,1x daily,4 days,after food,IMG-20241117-WA0025.jpg,medium,"chat: ""anti-bleeding (4 days only)"""
+2025-02-10,FurKids,Protexin Pro-Enzorb,probiotic,1 capsule,1x daily,30 days,,IMG-20250209-WA0006.jpg,medium,duration amended by hand
+2025-02-10,FurKids,Maltofer iron tablet,iron,1 tablet,1x daily,30 days,after meal,IMG-20250209-WA0006.jpg,high,
+2025-02-10,FurKids,Prednisolone 5 mg,steroid,0.5 tablet,1x every 3 days,,after meal,IMG-20250209-WA0006.jpg,medium,label partly covered
 2025-03-09,owner (current medicines),"Maltofer Fol (iron(III) hydroxide polymaltose 100 mg, folic acid 0.35 mg)",iron,,,,,IMG-20250309-WA0031.jpg,high,"""These are the medicine that Kuro is taking"""
 2025-03-09,owner (current medicines),"Cell salts labelled ""...Phosphoricum No.3"" and ""...Phosphorica No.7""",,,,,,IMG-20250309-WA0031.jpg,low,labels partly visible
 2025-03-09,owner (current supplements),Myco-Biome Turkey Tail Mushrooms (Restore),supplement,,,,,IMG-20250309-WA0040.jpg,high,
@@ -49,6 +61,12 @@ date,clinic,medication,purpose,dose,frequency,duration,instructions,source,confi
 2025-08-28,owner (over the counter),TropiClean Fresh Breath oral care,mouth spray,3-4 sprays,,,,IMG-20251015-WA0009.jpg,high,"per 5 ml: cetylpyridinium chloride 4.6 mg, green tea extract 0.6 mg, zinc gluconate 0.5 mg; dose from chat 2025-08-28"
 2025-09-11,Asia Paws,Arnica (homeopathic),"""for pain & trauma""",a few globuli,every 0.5-1 hour,,in his water,IMG-20250912-WA0022.jpg,medium,label partly visible; dosing from chat
 2025-11-04,Asia Paws,Strophanthus (homeopathic),"""heart support""",,,,,IMG-20251104-WA0029.jpg,medium,label partly visible
+2025-11-10,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20251110-WA0020.jpg,high,
+2025-11-10,FurKids,Omeprazole 20 mg,gastroprotectant,1 tablet,1x daily,10 days,before meal,IMG-20251110-WA0023.jpg,high,
+2025-11-10,FurKids,Protexin Pro-Enzorb,pancreatic support,1 capsule,1x daily,30 days,must sprinkle in food,IMG-20251110-WA0024.jpg,high,
+2025-11-10,FurKids,Gabapentin 300 mg,pain relief,1 capsule,1x daily,10 days,after meal,IMG-20251110-WA0025.jpg,high,
+2025-11-10,FurKids,Iron tablet,iron supplement,1 tablet,1x daily,14 days,after meal,IMG-20251110-WA0025.jpg,high,
+2025-11-10,FurKids,Samylin,liver supplement,,,,,IMG-20251110-WA0025.jpg,high,2 boxes
 2026-02-04,FurKids,Prednisolone 5 mg,anti-inflammatory,0.5 tablet,every other day,30 days,after meal,IMG-20260203-WA0038.jpg,high,
 2026-02-04,FurKids,Protexin Pro-Enzorb,,1 capsule,1x daily,30 days,sprinkle in food,IMG-20260203-WA0038.jpg,high,
 2026-02-04,FurKids,Supra Mineral (PETdiatric),mineral supplement,,,,,IMG-20260203-WA0038.jpg,high,box only

@@ -1,6 +1,7 @@
 date,date_basis,clinic,visit_type,summary,source
 2023-01-07,chat,earlier clinic (Taman Megah),consultation,"skin infection: ear drops, skin tablets, medicated shampoo",whatsapp pet sitting chat
 2023-09-10,chat,unknown clinic,consultation,"""his blood tests are all ok""; allergy cause unknown",whatsapp pet sitting chat
+2024-02-23,invoice photo,Philos Veterinary Clinic,purchase,Maximus Ophtal eye supplement bought (no consultation),IMG-20240223-WA0008.jpg
 2024-05-27,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20240628_114919_3815.pdf
 2024-06-28,lab report,FurKids,consultation,"CBC, chemistry with electrolytes, cPL, 4Dx; HCT 24.8%; start of the 28 Jun - 1 Jul hospital stay billed on INV-8599",KURO_20240628_114919_3815.pdf
 2024-07-01,invoice,FurKids,hospitalization,"HOSPITALIZATION, ICU; CATALYST - CHEM17 + CBC(PACKAGE); CATALYST - LYTE 4; FLUIDS - IV SET UP + 1ST BAG; BLOOD TRANSFUSION (>20KG); RAPIDVET BLOOD TYPING - CANINE; FLUID BAG 1000ML (LR/NACL); ULTRASOUND - THOROUGH (>15MIN); RADIOGRAPH 2VIEWS; RADIOGRAPH - 3RD ONWARDS; TEST - SNAP cPL (PANCREATITIS); CBC (INCLUDE PBF); 12 medications/supplements",INV-8599

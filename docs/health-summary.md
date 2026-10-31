@@ -28,6 +28,8 @@ From `labs.csv` (`record_type = panel`); one value per visit (first run of the d
 | 2024-05-27 | 34.0 L | 437 | 5.7 | 80 | – | 101 | 186 | 1,058 |
 | 2024-06-28 | 24.8 L | 378 | 3.9 | 87 | – | 51 | 172 | 5,745 H |
 | 2024-06-30 | 13.2 L | 43 L | 2.8 | 75 | – | 64 | 163 | 5,493 H |
+| 2024-07-11 | 25.3 L | – (clumped) | 8.5 | 59 | – | 359 H | 478 H | 2,777 H |
+| 2024-07-25 | 24.9 L | 433 | 10.8 H | 65 | 9 | 206 H | 330 H | 1,274 |
 | 2024-11-17 | 18.9 L | 111 L | 5.5 | 90 | – | 68 | 193 | 852 |
 | 2025-01-06 | 31.4 L | 701 H | 8.9 | 89 | – | 33 | 193 | – |
 | 2025-02-10 | 36.5 L | 624 H | 13.5 H | 116 | – | 74 | 141 | – |
@@ -65,6 +67,6 @@ Ongoing from invoices: prednisolone 5 mg (19 invoices), Protexin Pro-Enzorb, Sup
 ## Gaps
 
 - No written reports for the Jun–Jul 2024 ultrasound and x-rays (images exist), the fine needle aspiration, or the post mortem (findings only in chat).
-- SDMA was billed five times (Jul 2024, Oct 2024, Nov 2025, Dec 2025, Apr 2026); only the Nov and Dec 2025 values are in the records, the rest described as normal.
+- SDMA was billed five times; values exist for Jul 2024 (9), Nov 2025 (12) and Dec 2025 (8), all normal. Oct 2024 and Apr 2026 are described as normal without a number.
 - Lab panels for visits without a saved report (e.g. Jul–Oct 2024, Dec 2024, Mar–Apr 2025, Jul–Oct 2025, Mar–May 2026) need to be requested from FurKids.
 - Some invoices named in the clinic's statement of account (e.g. INV-13432, INV-30272) are not in the export.

@@ -229,6 +229,93 @@ date,time,date_basis,record_type,lab,analyzer,analyte,value,unit,ref_low,ref_hig
 2024-07-01,14:39,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,Anemia without reticulocytosis - likely non-regenerative anemia; consider pre-regenerative anemia.,,KURO_20240701_143412_3849.pdf,
 2024-07-01,14:39,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,"Monocytosis - consider inflammation (if lymphopenia, consider glucocorticoid response).",,KURO_20240701_143412_3849.pdf,
 2024-07-01,14:39,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,PLT marked *: confirm with dot plot and/or blood film review.,,KURO_20240701_143412_3849.pdf,
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RBC,4.06,x10^12/L,5.65,8.87,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,HCT,25.3,%,37.3,61.7,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,HGB,9.0,g/dL,13.1,20.5,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCV,62.3,fL,61.6,73.5,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCH,22.2,pg,21.2,25.9,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCHC,35.6,g/dL,32.0,37.9,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RDW,20.5,%,13.6,21.7,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%RETIC,2.8,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RETIC,115.3,K/uL,10.0,110.0,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RETIC-HGB,23.8,pg,22.3,29.6,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,WBC,18.57,x10^9/L,5.05,16.76,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%NEU,80.8,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%LYM,9.3,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%MONO,8.1,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%EOS,0.7,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%BASO,1.1,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,NEU,15.01,x10^9/L,2.95,11.64,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,LYM,1.72,x10^9/L,1.05,5.1,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MONO,1.51,x10^9/L,0.16,1.12,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,EOS,0.13,x10^9/L,0.06,1.23,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,BASO,0.2,x10^9/L,0.0,0.1,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,PLT,3,K/uL,148,484,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film; likely platelet clumping; not a reliable count
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MPV,13.8,fL,8.7,13.2,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:17,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,PCT,0.0,%,0.14,0.46,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image); analyzer flag: confirm with dot plot and/or blood film
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GLU,5.48,mmol/L,3.89,7.95,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CREA,59,umol/L,44,159,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,UREA,8.5,mmol/L,2.5,9.6,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,BUN/CREA,36,,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,PHOS,0.97,mmol/L,0.81,2.2,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CA,2.26,mmol/L,1.98,3.0,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,TP,70,g/L,52,82,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALB,28,g/L,22,39,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GLOB,42,g/L,25,45,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALB/GLOB,0.7,,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALT,359,U/L,10,125,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALKP,478,U/L,23,212,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GGT,4,U/L,0,11,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,TBIL,4,umol/L,0,15,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CHOL,5.22,mmol/L,2.84,8.26,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,AMYL,776,U/L,500,1500,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-11,11:26,lab report,panel,FurKids (in-house),IDEXX Catalyst One,LIPA,2777,U/L,200,1800,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,previous-result column; photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RBC,4.18,x10^12/L,5.65,8.87,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,HCT,24.9,%,37.3,61.7,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,HGB,9.1,g/dL,13.1,20.5,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCV,59.6,fL,61.6,73.5,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCH,21.8,pg,21.2,25.9,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MCHC,36.5,g/dL,32.0,37.9,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RDW,17.3,%,13.6,21.7,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%RETIC,0.5,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RETIC,20.5,K/uL,10.0,110.0,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,RETIC-HGB,24.7,pg,22.3,29.6,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,WBC,26.87,x10^9/L,5.05,16.76,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%NEU,87.9,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%LYM,6.1,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%MONO,5.1,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%EOS,0.1,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,%BASO,0.8,%,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,NEU,23.6,x10^9/L,2.95,11.64,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,LYM,1.65,x10^9/L,1.05,5.1,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MONO,1.38,x10^9/L,0.16,1.12,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,EOS,0.02,x10^9/L,0.06,1.23,low,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,BASO,0.22,x10^9/L,0.0,0.1,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,PLT,433,K/uL,148,484,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,MPV,13.9,fL,8.7,13.2,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,PDW,14.3,fL,9.1,19.4,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,panel,FurKids (in-house),IDEXX ProCyte Dx,PCT,0.6,%,0.14,0.46,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:15,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,Anemia without reticulocytosis - likely non-regenerative anemia; consider pre-regenerative anemia.,,IMG-20240725-WA0010.jpg / WA0011.jpg,
+2024-07-25,17:15,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,"Monocytosis - consider inflammation (if lymphopenia, consider glucocorticoid response).",,IMG-20240725-WA0010.jpg / WA0011.jpg,
+2024-07-25,17:15,lab report,analyzer comment,FurKids (in-house),IDEXX ProCyte Dx,,,,,,,,PLT aggregates detected; confirm with dot plot and/or blood film review.,,IMG-20240725-WA0010.jpg / WA0011.jpg,
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GLU,4.9,mmol/L,3.89,7.95,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CREA,65,umol/L,44,159,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,UREA,10.8,mmol/L,2.5,9.6,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,BUN/CREA,41,,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,PHOS,1.73,mmol/L,0.81,2.2,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CA,2.36,mmol/L,1.98,3.0,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,TP,66,g/L,52,82,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALB,29,g/L,22,39,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GLOB,38,g/L,25,45,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALB/GLOB,0.8,,,,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALT,206,U/L,10,125,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,ALKP,330,U/L,23,212,high,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,GGT,0,U/L,0,11,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,TBIL,<2,umol/L,0,15,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,CHOL,3.22,mmol/L,2.84,8.26,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,AMYL,872,U/L,500,1500,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:22,lab report,panel,FurKids (in-house),IDEXX Catalyst One,LIPA,1274,U/L,200,1800,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
+2024-07-25,17:34,lab report,panel,FurKids (in-house),IDEXX Catalyst One,SDMA,9,ug/dL,0,14,,,,medium,IMG-20240725-WA0010.jpg / WA0011.jpg,photographed printout (small image)
 2024-08-13,,chat,reported,,,cPL,,,,,,normal,,,whatsapp furkids chat (vet),"""CPLi back to normal"""
 2024-10-22,,chat,reported,,,red blood cell count (as reported),30,%,,,,,,,whatsapp pet taxi chat (owner relaying vet),"reported on 2024-11-20 as ""last month"""
 2024-10-23,,chat,reported,,,red blood cell count (as reported),30,%,,,,low,,,whatsapp furkids chat (vet),"up from 26.6; ""mild anemia"""

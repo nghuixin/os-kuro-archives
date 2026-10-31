@@ -1,4 +1,5 @@
 date,invoice_id,item,category,qty,unit_price_rm,amount_rm
+2024-02-23,Philos-INV-34102,MAXIMUS OPHTAL,supplement,1,119.90,119.90
 2024-07-01,INV-8599,"CONSULTATION, WALK-IN",consultation,1,100.00,100.00
 2024-07-01,INV-8599,"HOSPITALIZATION, ICU",procedure / care,1,480.00,480.00
 2024-07-01,INV-8599,CATALYST - CHEM17 + CBC(PACKAGE),diagnostic,2,300.00,600.00
