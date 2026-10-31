@@ -45,7 +45,7 @@ date,category,summary,reported_by
 2024-10-24,diagnosis,"""lower back pain (lumbosacral acu points are tender)""; warm packs on hips advised",vet (relayed by owner)
 2024-10-24,diagnosis,"Weak urine holding; ""urinary infection/inflammation can be ruled out""; ""Kidney Qi Deficiency""",vet (relayed by owner)
 2024-11-16,symptom,"""eating but... very unhappy""; ""low blood count is making him a bit dizzy""",owner (sitter chat)
-2024-11-16,symptom,Possible vomit: yellow material on the pen floor (photo),Care chat photos
+2024-11-17,symptom,"Possible vomit: yellow-orange clump and yellowish stain on the pen floor; owner asked ""Is that vomit or poop"" (no answer). Same day as the outside-clinic visit, where an anti-vomit injection was given",Care chat photos
 2024-11-17,vet visit,"Outside clinic (KD Vet) while FurKids vets were away: ""He is now quite sick""; ultrasound and bloods (findings relayed 2024-11-20)",owner (FurKids chat)
 2024-11-20,test result,"Red blood cell count ""19% which last month was 30""; ""No fever""; other organs normal",vet (relayed by owner)
 2024-11-20,diagnosis,"Suspected ""immune-mediated issue due to the spleen mass""; ""weakness and lethargic""",vet (relayed by owner)
@@ -65,7 +65,6 @@ date,category,summary,reported_by
 2025-03-09,weight,"20.5 kg; earlier ""20.9 then 21.5""",pet taxi
 2025-03-09,vet visit,"FurKids: blood test; dental advice ""crunchy item""; meds and supplements",pet taxi
 2025-03-09,test result,"Liver parameters ""elevate slightly... acceptable""; ""condition is stable""",vet (FurKids chat)
-2025-03-10,symptom,Possible vomit or urine: clear frothy liquid on the floor (photo),Care chat photos
 2025-03-19,other,No known allergies,owner
 2025-03-25,symptom,"Vet: ""sore"", needs ""warm compress and a massage""; poop ""mix of brown and green""; possible gas, charcoal pill",pet sitter
 2025-04-15,symptom,"""breathing a bit labored"", ""gums sticky"", ""Stomach also more bloated"", panting, ""peeing a lot""; taken to vet",pet sitter
@@ -80,7 +79,7 @@ date,category,summary,reported_by
 2025-05-01,medication,"Pain-killer injection; wound care: wash with the pink solution, rinse with clean water, pat dry, apply a thin layer of cream",vet (FurKids chat)
 2025-05-04,medication,"""reduced appetite""; x-ray ""to ensure his tumour has not grown""; ""Dosage for pain management increased""",owner (sitter chat)
 2025-05-06,injury,"Wound ""still a bit red and has not fully healed""",family
-2025-05-06,symptom,Possible vomit: orange food particles on the floor next to him (photos),Care chat photos
+2025-05-06,symptom,"Owner asked ""Kuro vomit?""; photo shows orange food pieces and liquid around his food bowl, more consistent with spilled food; not confirmed",Care chat photos
 2025-05-15,medication,"Pain remedy: ""two to three in his water bowl""",pet taxi
 2025-05-15,symptom,"""struggling to get up to walk into the room""",pet taxi
 2025-05-16,care,"Hot/cold gel pack applied to hindquarters and hips by the helper, roughly twice daily in Jun 2025 and nightly from Jul 2025 to Apr 2026 (see home_care.csv)",Care chat photos
