@@ -28,6 +28,19 @@ A brief review of the home-cooked recipe in [`data/processed/diet.csv`](../data/
 4. **Iron.** Probably not harmful during anemia, but the vet should have known the diet's iron content when prescribing more.
 5. **Phosphorus.** His creatinine and SDMA stayed normal throughout, so restriction wasn't indicated. His urea did rise in 2025–26, so it should be rechecked if the recipe were reused.
 
+## What was actually fed
+
+Photos and chats in [`feeding.csv`](../data/processed/feeding.csv) show what reached the bowl after the analysis:
+
+- **Jul 2024 (after the pancreatitis episode):** "chicken breast, 0.25 cup of sweet potatoes, 0.25 cup of pumpkin, 2x day", plus Royal Canin and Vet Pro low-fat gastrointestinal food from FurKids, a boiled egg in the evening, and a pork food topper (70% muscle meat with bones and vegetables).
+- **Oct 2024:** a handwritten list, "Kuro Daily Foods Ingredients": beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries.
+- **Treats:** beef, lamb, fish and salmon-and-egg treats and chews, 2023–2025.
+
+Two points follow:
+
+1. **Neither ingredient list includes a calcium source, an oil, or a vitamin-mineral mix.** An NRC-balanced recipe built from meat and vegetables depends on these, because meat alone is very low in calcium and several vitamins. If the daily food was only what the lists show, it was not the balanced recipe that was analysed, and calcium in particular would have fallen short. The lists may simply leave the supplements out, so this needs checking against how the food was actually prepared.
+2. **The Jul 2024 version suits the vet's low-fat order.** Chicken breast with pumpkin and sweet potato is a lean base, unlike the 43%-fat analysed recipe. But it gives no meat quantity, so its calories and protein can't be checked against his weight loss later on.
+
 ## Overall
 
 A well-built maintenance recipe for a healthy senior. But it is **too high in fat** for a dog who developed pancreatitis three months later, **over the AAFCO vitamin D maximum**, and **only just adequate** on choline and vitamin K. The analysis covers the recipe as written, not what was actually cooked and eaten.

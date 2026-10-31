@@ -1,0 +1,27 @@
+date,date_basis,type,item,amount,frequency,composition,source,confidence,note
+2023-01-18,photo,treat,Fish bakwa,,,,IMG-20230118-WA0014.jpg,medium,"dog treat, in the same photo as his medicines"
+2023-11-20,photo,treat,Curated Cuts grass-fed beef treats,,,single ingredient beef,IMG-20231120-WA0009.jpg,medium,from OCR of the pack
+2023-12-27,chat,home-cooked,Chicken liver,,,,whatsapp pet sitting chat,high,owner asked for liver to be cooked for him
+2024-03-15,diet analysis,diet plan,"NRC Balanced: White + Red Meat, Senior V2",540 g,per day,"see diet.csv: 895 kcal, fat 43% of calories",NutritionalFacts_WM+RMV2.pdf,high,recipe as analysed; ingredients and supplements not listed in the PDF
+2024-03-28,photo,treat,"Birthday cake order, pumpkin flavour",,once,,IMG-20240328-WA0034.jpg,medium,14th birthday
+2024-06-28,chat,therapeutic food,Gastrointestinal low-fat pouch; low-fat kibble trial,,,,whatsapp furkids chat,high,"vet: ""Kuro needs to be on low fat diet"""
+2024-07-01,invoice,therapeutic food,"Royal Canin Gastrointestinal Low Fat (dry, 1.5 kg)",1 bag,,,INV-8599,high,
+2024-07-01,invoice,therapeutic food,Royal Canin Gastrointestinal Low Fat (canned),,,,INV-8599; INV-8671,high,also bought 2024-07-05
+2024-07-01,invoice,therapeutic food,Vet Pro Gastrointestinal Wet Food pouch 150 g,,,,INV-8599,high,
+2024-07-08,chat,home-cooked,Chicken only,,,,whatsapp pet sitting chat,high,"eating little, ""only chicken""; canned food with water suggested"
+2024-07-20,photo,feeding instruction,"Chicken breast, sweet potato, pumpkin",0.25 cup sweet potato + 0.25 cup pumpkin + chicken breast (amount not stated),2x daily,,IMG-20240720-WA0008.jpg,high,"owner's care notes for the sitter; no calcium source, oil or vitamin-mineral mix listed"
+2024-07-20,photo,food topper,Honu Paws Pork healthy treat / food topper / mixer,,,"70% muscle meat, bones, pumpkin, sweet potato, carrot, cabbage, bok choy, offal (organs), wheatgrass, kelp, zinc, manganese, taurine",IMG-20240720-WA0006.jpg,high,made in Malaysia; with Adored Beast Liver Tonic and Fido's Flora
+2024-07-25,photo,treat,Single-ingredient roast lamb treats,,,single ingredient lamb,IMG-20240725-WA0007.jpg,medium,from OCR of the pack
+2024-08-01,photo,feeding instruction,Breakfast (chicken/pumpkin) with pills hidden; evening boiled egg with warm water,1/4 of breakfast set aside for pills; 1 egg,2x daily,,IMG-20240801-WA0001.jpg,high,owner's medication schedule
+2024-08-14,chat,therapeutic food,Low-fat diet continued,,,,whatsapp furkids chat,high,"vet: diet to remain low fat; ""CPLi back to normal"""
+2024-10-17,photo,ingredient list,"Beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries",,daily,,IMG-20241017-WA0001.jpg,high,"handwritten ""Kuro Daily Foods Ingredients""; no calcium source, oil or vitamin-mineral mix listed"
+2025-01-14,photo,treat,Bally's dried lamb back bone (Korean handmade treat),300 g pack,,lamb spine,IMG-20250114-WA0011.jpg,medium,Korean label; analysis panel too small to read
+2025-05-04,photo,treat,"Meaty jerky, air-dried beef",,,more than 70% meat,IMG-20250504-WA0043.jpg,medium,from OCR of the pack
+2025-06-24,photo,treat,"Melisa Rawly stick creamy pet puree, salmon and egg",,,"salmon, egg",IMG-20250624-WA0050.jpg,medium,from OCR of the pack
+2025-08-13,photo,chew,Natural rawhide alternative / cod fish skins,,,fish skin,IMG-20250813-WA0019.jpg,medium,from OCR of the pack
+2025-08-19,chat,appetite,Stopped eating pumpkin and sweet potato,,,,whatsapp pet taxi chat,high,"vet: ""might be bored"""
+2025-11-10,chat,therapeutic food,Strict low-fat diet,,,,whatsapp furkids chat,high,"for one month, during pancreatitis flare; gastro low-fat kibble considered"
+2025-11-10,photo,treat,Air-dried fish jerky,,,fish,IMG-20251110-WA0004.jpg,medium,from OCR of the pack
+2026-05-19,chat,feeding instruction,"Smaller, more frequent meals with probiotics",200 g per meal,3x daily,,whatsapp pet taxi chat,high,after weight loss to 19.9 kg
+2026-07-01,chat,feeding instruction,Increase daily meal amount by 10-15%,,,,whatsapp furkids chat,high,target weight 19.5-20 kg
+2026-08-10,chat,feeding instruction,Water about 1 litre a day,1 L,daily,,whatsapp furkids chat,high,urea above 17
