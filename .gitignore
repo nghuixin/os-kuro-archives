@@ -1,6 +1,5 @@
 # Real records stay out of Git (public repo)
 data/raw/**
-!data/raw/README.md
 
 # Derived outputs and model weights (list private filenames)
 data/derived/
