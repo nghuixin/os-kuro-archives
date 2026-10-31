@@ -72,8 +72,9 @@ From `feeding.csv` and `diet.csv`; the recipe is reviewed in [`diet-critique.md`
 |---|---|
 | Mar 2024 | NRC-balanced home-cooked senior recipe, white and red meat: 540 g, 895 kcal a day; 31% of calories from protein, 43% from fat |
 | Jun–Jul 2024 | Vet: "Kuro needs to be on low fat diet". Royal Canin Gastrointestinal Low Fat (dry and canned) and Vet Pro gastrointestinal pouches; eating little, "only chicken" (8 Jul) |
-| Jul–Aug 2024 | Owner's notes: chicken breast, 0.25 cup sweet potato and 0.25 cup pumpkin, twice a day; pills hidden in part of breakfast; boiled egg in the evening; Honu Paws pork topper (muscle meat, bones, vegetables) |
+| Jul–Aug 2024 | Owner's care notes: chicken breast, 0.25 cup sweet potato and 0.25 cup pumpkin, twice a day, with Dr. Harvey's Multivitamin & Mineral Powder (4 scoops twice a day), turmeric and a herbal powder mixed in; pills hidden in part of breakfast; boiled egg in the evening; Honu Paws pork topper (muscle meat, bones, vegetables); charcoal capsule in morning water |
 | Oct 2024 | Handwritten daily ingredients: beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries |
+| 2025 | Care notes: carrot, cabbage, broccoli, beef liver, beef lung, chicken breast, occasional frozen berries; supplements included liver tonic, Gut Soothe, Vital Defense, YuMove and Xiao Chai Hu Tang (a Chinese herbal formula) |
 | Aug 2025 | Stopped eating pumpkin and sweet potato |
 | Nov 2025 | Strict low-fat diet for one month during the pancreatitis flare |
 | May 2026 | After dropping to 19.9 kg: smaller, more frequent meals, 200 g three times a day, with probiotics |
@@ -81,12 +82,14 @@ From `feeding.csv` and `diet.csv`; the recipe is reviewed in [`diet-critique.md`
 
 Treats over 2023–2025 were mostly single-ingredient meat and fish: beef, lamb, fish skins and jerky, salmon-and-egg puree.
 
-The diet review raises two points about feeding: the analysed recipe was high in fat for a dog who developed pancreatitis three months later, and neither handwritten ingredient list includes a calcium source, oil or vitamin-mineral mix, which a balanced home-cooked diet needs.
+The diet review raises two points about feeding: the analysed recipe was high in fat for a dog who developed pancreatitis three months later, and although a multivitamin-mineral powder was added in 2024, no ingredient list shows a calcium source or oil, which a balanced home-cooked diet needs.
+
+During the Jul 2024 pet sitting, Cerenia and Yunnan Baiyao were kept on hand "if bleeding in stool or vomiting blood", and carers were told to take great care on stairs "to avoid slipping/falling that he'd hit his abdomen to prevent further injury to his spleen".
 
 ## Gaps
 
 - No written reports for the Jun–Jul 2024 ultrasound and x-rays (images exist), the fine needle aspiration, or the post mortem (findings only in chat).
 - SDMA was billed five times; values exist for Jul 2024 (9), Nov 2025 (12) and Dec 2025 (8), all normal. Oct 2024 and Apr 2026 are described as normal without a number.
 - Blood tests were billed but no results are in the records for 8 FurKids visits: 2024-07-05, 2024-08-14, 2024-10-22, 2024-12-12, 2025-07-15, 2025-10-13, 2026-03-16, 2026-04-20 (`visits.csv`, `lab_status`). These need to be requested from FurKids.
-- How the home-cooked food was actually prepared (quantities, and whether a calcium source, oil and vitamin-mineral mix were added) is not recorded.
+- How the home-cooked food was actually prepared is only partly recorded: a vitamin-mineral powder was added in 2024, but meat quantities, any calcium source and any oil are not.
 - Some invoices named in the clinic's statement of account (e.g. INV-13432, INV-30272) are not in the export.

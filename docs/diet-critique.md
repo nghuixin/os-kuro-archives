@@ -33,12 +33,14 @@ A brief review of the home-cooked recipe in [`data/processed/diet.csv`](../data/
 Photos and chats in [`feeding.csv`](../data/processed/feeding.csv) show what reached the bowl after the analysis:
 
 - **Jul 2024 (after the pancreatitis episode):** "chicken breast, 0.25 cup of sweet potatoes, 0.25 cup of pumpkin, 2x day", plus Royal Canin and Vet Pro low-fat gastrointestinal food from FurKids, a boiled egg in the evening, and a pork food topper (70% muscle meat with bones and vegetables).
+- **Jul 2024 care notes:** the same chicken, sweet potato and pumpkin meals, plus Dr. Harvey's Multivitamin & Mineral Powder (4 scoops, twice a day), turmeric and a herbal powder mixed in.
 - **Oct 2024:** a handwritten list, "Kuro Daily Foods Ingredients": beef or chicken breast, sweet potatoes, pumpkin, broccoli, blueberries.
+- **2025 care notes:** carrot, cabbage, broccoli, beef liver, beef lung, chicken breast, occasional frozen berries.
 - **Treats:** beef, lamb, fish and salmon-and-egg treats and chews, 2023–2025.
 
 Two points follow:
 
-1. **Neither ingredient list includes a calcium source, an oil, or a vitamin-mineral mix.** An NRC-balanced recipe built from meat and vegetables depends on these, because meat alone is very low in calcium and several vitamins. If the daily food was only what the lists show, it was not the balanced recipe that was analysed, and calcium in particular would have fallen short. The lists may simply leave the supplements out, so this needs checking against how the food was actually prepared.
+1. **A vitamin-mineral supplement was added, but calcium and oil are still unaccounted for.** The ingredient lists alone include no calcium source, oil or vitamin-mineral mix, which an NRC-balanced meat-and-vegetable recipe depends on. The owner's Jul 2024 care notes show that **Dr. Harvey's Multivitamin & Mineral Powder, 4 scoops twice a day**, was mixed into his food, with turmeric and a herbal powder. That covers the vitamin-mineral gap for 2024, but whether it supplied enough calcium depends on its formulation, which the records don't give. By 2025 it no longer appears on the supplement list. The 2025 ingredient list adds **beef liver and beef lung**, which add vitamin A, B vitamins, iron and copper, but still no calcium source or oil.
 2. **The Jul 2024 version suits the vet's low-fat order.** Chicken breast with pumpkin and sweet potato is a lean base, unlike the 43%-fat analysed recipe. But it gives no meat quantity, so its calories and protein can't be checked against his weight loss later on.
 
 ## Overall
