@@ -1,6 +1,12 @@
 date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,prescriptions,invoice_ids,imaging
+2021-01-04,chat,unknown clinic,consultation,"weighed 31 kg; ""Kuro overweight""",family chat,0,none,31,0,,0
+2021-11-13,chat,unknown clinic,consultation,"check-up ""All normal"", ""Ideal weight is 26""; vaccinated",family chat,0,none,,0,,0
+2022-05-28,chat,unknown clinic,consultation,"leg lump: ""due to old age"" or ""infection due to injuries""; antibiotics",family chat,0,none,,0,,0
+2022-06-04,chat,Yeoh Veterinary Clinic & Surgery,procedure,"same-day ""surgery due to excess fat in the leg""",family chat,0,none,,0,,0
+2022-06-20,chat (approximate),Gasing veterinary hospital,consultation,"blood test; result chased for weeks, never shared in the chat",family chat,0,none,,0,,0
 2023-01-07,chat,earlier clinic (Taman Megah),consultation,"skin infection: ear drops, skin tablets, medicated shampoo",whatsapp pet sitting chat,0,none,,0,,0
-2023-09-10,chat,unknown clinic,consultation,"""his blood tests are all ok""; allergy cause unknown",whatsapp pet sitting chat,0,none,,0,,0
+2023-09-10,chat,FurKids,consultation,"""his blood tests are all ok""; allergy cause unknown",whatsapp pet sitting chat; family chat (first FurKids consultation),0,none,,0,,0
+2023-12-10,chat,FurKids,consultation,booked consultation,family chat,0,none,,0,,0
 2024-02-23,invoice photo,Philos Veterinary Clinic,purchase,Maximus Ophtal eye supplement bought (no consultation),IMG-20240223-WA0008.jpg,0,none,,0,Philos-INV-34102,0
 2024-05-27,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20240628_114919_3815.pdf,2,results present,,0,,0
 2024-06-28,lab report,FurKids,consultation,"CBC, chemistry with electrolytes, cPL, 4Dx; HCT 24.8%; start of the 28 Jun - 1 Jul hospital stay billed on INV-8599",KURO_20240628_114919_3815.pdf,4,results present,23.0,0,,0
@@ -72,9 +78,11 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2026-04-20,invoice,FurKids,consultation,Chem17 + CBC + SDMA; 20.6 kg; antibiotics; darbepoetin,INV-29152; whatsapp pet taxi chat,0,"billed, results missing",20.6,0,INV-29152,0
 2026-05-18,chat,FurKids,consultation,blood test; 19.9 kg; jab for anemia,whatsapp pet taxi chat; furkids chat,0,none,19.9,0,,0
 2026-06-04,chat,Asia Paws,acupuncture,"""Pain generally as due to aging""; heart ""okay just slow""; meds to keep in the fridge",whatsapp pet taxi chat,0,none,,0,,0
+2026-06-10,chat,Asia Paws,acupuncture,"""unable to stand due to significant hind limb weakness"", ""found lying in urine""",family chat,0,none,,0,,0
 2026-07-01,chat,FurKids,consultation,"19.5 kg; urine burn and weight loss concerns; liver and kidney ""abit high""",whatsapp pet taxi chat; furkids chat,2,results present,19.5,0,,0
 2026-07-07,chat,Asia Paws,acupuncture,"growths on hind legs and armpit; sarcopenia; heart, lungs, lymph nodes normal",whatsapp pet taxi chat,0,none,,0,,0
 2026-08-10,invoice,FurKids,consultation,Chem17 + CBC; 19.4 kg; darbepoetin,INV-33691; whatsapp pet taxi chat,2,results present,19.4,0,INV-33691,0
 2026-09-14,invoice,FurKids,consultation,Chem17 + CBC + SNAP 4Dx Plus; 19.7 kg; antibiotics; Advocate,INV-35208; whatsapp pet taxi chat,3,results present,19.7,0,INV-35208,0
+2026-10-02,chat,Asia Paws,acupuncture,"""progressive hind limb weakness""; hind limb and spine muscles ""crampy""; home massage advised",family chat,0,none,,0,,0
 2026-10-06,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat,0,none,,0,,0
 2026-10-19,invoice,FurKids,post mortem,POST MORTEM,INV-36648,0,none,,0,INV-36648,0

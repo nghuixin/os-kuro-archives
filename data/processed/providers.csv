@@ -1,18 +1,23 @@
-provider,type,service,from,to,status,evidence
-Yeoh Veterinary Clinic & Surgery (Taman Megah),vet clinic,"earlier regular vet: skin infection, ear and eye treatment",2023-01,2023-12,used,"pet-sitter intake form; medicine bag (also prints Bangsar Veterinary Clinic & Surgery)"
-Unknown clinic,vet clinic,"check-up with blood tests, antihistamine and eye supplement",2023-09,2023-09,used,pet-sitter chat
-Philos Veterinary Clinic,vet clinic,eye supplement purchase (no consultation),2024-02,2024-02,used,invoice INV-34102
-Furkids Wellness Veterinary Centre,vet clinic,"regular vet: monthly check-ups, in-house blood tests, ICU stay and transfusion, imaging, prescriptions",2024-01,2026-10,used,"24 invoices; IDEXX lab reports; two chat groups"
-AskVet,online vet,teleconsultation about the spleen bleed,2024-07,2024-07,used,pet-sitter chat
-Animed,vet clinic,appointment,2024-07,2024-07,booked only,pet-sitter chat
-Animal Medical Centre (AMC),24-hour vet hospital,emergency contact,2024-07,2024-08,emergency contact only,Notion care notes
-Petcare Veterinary Clinic (Petcare Enterprise Sdn Bhd),mobile and clinic vet,"house calls (B12, nerve supplement, antibiotics, anti-inflammatory); wound visit",2024-07,2025-05,used,"2 invoices; medicine labels"
-Asia Paws,veterinary acupuncture and holistic medicine,"acupuncture, homeopathic and herbal remedies",2024-07,2026-10,used,"booking screenshots; prescriptions; pet-taxi invoices"
-Kota Damansara Veterinary Centre,24-hour vet clinic,"outside visit: blood tests, ultrasound, prescriptions",2024-11,2024-11,used,"lab printouts; medicine bags"
-Barkedclub,pet care,"pet sitting, dog walking and pet taxi to vet and acupuncture appointments",2023-01,2025-11,used,"pet-sitting chat; 13 invoices"
-Jwoofbutler,pet transport,"pet taxi to vet and acupuncture, waiting with him",2024-09,2026-10,used,"pet-taxi chat; 37 payment receipts; business name confirmed by owner"
-Honu Paws,pet food,"fresh pork food topper and treats (70% muscle meat, bones, vegetables)",2024-07,2024-07,used,"photo of product with a thank-you note from the business"
-Gooddoggrooming,grooming,"grooming every 10-14 days, with medicated and oatmeal shampoo",2024-07,2024-07,used,"Notion care notes; business name confirmed by owner"
-Animal communicator (name not recorded),animal communication,consulted about gum pain,2025-03,2025-03,used,pet-taxi chat
-Embark Veterinary,DNA testing,"breed, health-variant and trait DNA test",,,used,Embark results export (test date not recorded)
-Diet-analysis tool (not named),nutrition,NRC recipe balancing and nutrient analysis,2024-03,2024-03,used,NutritionalFacts_WM+RMV2.pdf
+"provider","type","service","from","to","status","evidence"
+"Earlier groomers (business names not recorded)","grooming","grooming (Ara Damansara, then basic grooming every 5-6 weeks)","2021-11","2023-01","used","family chat"
+"Gasing veterinary hospital","vet hospital","blood test","2022-06","2022-06","used","family chat"
+"Fetch Me Later","boarding","boarding suggested while family travelled (RM90 a night)","2022-06","2022-06","suggested","family chat"
+"PetChef","pet food","cooked dog-food subscription (250 g packets); also sold at FurKids","2022-07","2024-04","used","family chat"
+"Yeoh Veterinary Clinic & Surgery (Taman Megah)","vet clinic","earlier regular vet: skin infection, ear and eye treatment; Jun 2022 leg surgery for excess fat","2022-05","2023-12","used","pet-sitter intake form; medicine bag (also prints Bangsar Veterinary Clinic & Surgery)"
+"Barkedclub","pet care","pet sitting, dog walking and pet taxi to vet and acupuncture appointments","2023-01","2025-11","used","pet-sitting chat; 13 invoices"
+"Furkids Wellness Veterinary Centre","vet clinic","regular vet: monthly check-ups, in-house blood tests, ICU stay and transfusion, imaging, prescriptions; first consultation 10 Sep 2023","2023-09","2026-10","used","24 invoices; IDEXX lab reports; two chat groups"
+"Philos Veterinary Clinic","vet clinic","eye supplement purchase (no consultation)","2024-02","2024-02","used","invoice INV-34102"
+"Diet-analysis tool (not named)","nutrition","NRC recipe balancing and nutrient analysis","2024-03","2024-03","used","NutritionalFacts_WM+RMV2.pdf"
+"Khan & Kara Enterprise","pet food","custom-made meals","2024-04","2024-04","used","family chat"
+"AskVet","online vet","teleconsultation about the spleen bleed","2024-07","2024-07","used","pet-sitter chat"
+"Animed","vet clinic","appointment","2024-07","2024-07","booked only","pet-sitter chat"
+"Animal Medical Centre (AMC)","24-hour vet hospital","emergency contact","2024-07","2024-08","emergency contact only","Notion care notes"
+"Petcare Veterinary Clinic (Petcare Enterprise Sdn Bhd)","mobile and clinic vet","house calls (B12, nerve supplement, antibiotics, anti-inflammatory); wound visit","2024-07","2025-05","used","2 invoices; medicine labels; called 'Mobile Vet' in the family chat"
+"Asia Paws","veterinary acupuncture and holistic medicine","acupuncture, homeopathic and herbal remedies","2024-07","2026-10","used","booking screenshots; prescriptions; pet-taxi invoices"
+"Honu Paws","pet food","fresh pork food topper and treats (70% muscle meat, bones, vegetables)","2024-07","2024-07","used","photo of product with a thank-you note from the business"
+"Gooddoggrooming","grooming","grooming every 10-14 days, with medicated and oatmeal shampoo","2024-07","2024-07","used","Notion care notes; business name confirmed by owner"
+"Jwoofbutler","pet transport","pet taxi to vet and acupuncture, waiting with him","2024-09","2026-10","used","pet-taxi chat; 37 payment receipts; business name confirmed by owner"
+"Kota Damansara Veterinary Centre","24-hour vet clinic","outside visit: blood tests, ultrasound, prescriptions","2024-11","2024-11","used","lab printouts; medicine bags"
+"Reiki practitioner (name not recorded)","complementary therapy","Reiki","2025-01","2025-12","used","family chat"
+"Animal communicator (name not recorded)","animal communication","animal communication sessions; consulted about pain and gum discomfort","2024-07","2026-10","used","pet-taxi chat; family chat; pet communicator chat"
+"Embark Veterinary","DNA testing","breed, health-variant and trait DNA test","","","used","Embark results export (test date not recorded); family chat mentions a DNA swab sent Jul 2022 with results Sep 2022 (may be a different test)"
