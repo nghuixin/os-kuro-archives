@@ -15,6 +15,7 @@ It is also the reference dataset for the **Canine Health Atlas**, a planned tool
 |---|---|
 | [`docs/health-summary.md`](docs/health-summary.md) | Timeline 2021–2026, lab trend table, recurring themes, home care and stools, diet and feeding, medications, gaps |
 | [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
+| [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
 | [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
 | [`data/processed/`](data/processed/) | The extracted data (table below) |
 | [`data/raw/embark/`](data/raw/embark/) | Embark DNA results and raw genotypes, with an [analysis plan](data/raw/embark/analysis-plan.md) |
@@ -37,6 +38,7 @@ It is also the reference dataset for the **Canine Health Atlas**, a planned tool
 | `stool_log.csv` | 63 | Stool photos scored for consistency, colour, blood and mucus (Jul 2024 – May 2025) |
 | `grooming.csv` | 54 | Home grooming sessions with the groomer's notes on his skin and ears (Jan 2024 – Oct 2026) |
 | `communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
+| `dna_comparison.csv` | 35 | Wisdom Panel vs Embark, one row per compared item, scored 1 (agree) or 0 (disagree) |
 | `providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
 | `milestones.csv` | 21 | Birthdays, celebrations and life milestones |
 | `birthday_wishes.csv` | 11 | Messages for his 15th birthday |

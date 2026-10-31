@@ -1,0 +1,36 @@
+item,area,characteristic,wisdom_panel,embark,agree,note
+1,ancestry,Top breed,Golden Retriever,Golden Retriever,1,
+2,ancestry,Golden Retriever %,60,52.1,0,7.9 points apart (threshold 5)
+3,ancestry,Japanese Spitz %,7,33.8,0,26.8 points apart; Wisdom also calls American Eskimo Dog 2% and Pomeranian 1%
+4,ancestry,Miniature Pinscher %,8,8.4,1,
+5,ancestry,German Shepherd Dog %,4,5.7,1,
+6,ancestry,Same breeds detected,14 breeds,4 breeds,0,4 shared of 14 (Jaccard 0.29)
+7,ancestry,Parents: one Golden side and one Spitz/Min Pin side,yes,yes,1,
+8,ancestry,Great-grandparents,"6 Golden, 1 Spitz mix, 1 Min Pin mix","4 Golden, 2 Spitz, 1 Min Pin mix, 1 GSD mix",0,6 of 8 match by breed count
+9,health,Overall: no at-risk or carrier variants,0 at risk / 0 carrier of 210,none of 273,1,
+10,health,Genes tested by both,all clear,all clear,1,128 of 128 shared genes agree; 87 genes Embark-only and 25 Wisdom-only; matched by gene not variant
+11,trait,Dominant black (CBD103),KB 1 copy,KBky,1,
+12,trait,Mask (MC1R),Em 1 copy + e1 1 copy,Eme or Ee,1,
+13,trait,Agouti (ASIP),ay 1 copy + a 1 copy,aya,1,
+14,trait,Brown (TYRP1),bc 0 + bs 0,BB,1,
+15,trait,White spotting (MITF),sp 0,SS,1,
+16,trait,Merle (PMEL),M 0,mm,1,
+17,trait,Harlequin (PSMB7),H 0,hh,1,
+18,trait,Saddle tan (RALY),2 copies (wild type),NN,1,"Same genotype; interpretation differs (""saddle possible"" vs ""no impact"")"
+19,trait,Long coat (FGF5),lh1 2 copies,LhLh,1,
+20,trait,Curly coat (KRT71),C 0,CC,1,
+21,trait,Furnishings (RSPO2),F 0,II,1,
+22,trait,Shedding (MC5R),sd 1 copy,CT,1,"Same genotype; interpretation differs (""occasional shedder"" vs ""heavy/seasonal"")"
+23,trait,Albinism (SLC45A2),0,NN,1,
+24,trait,Hairlessness (FOXI3),0,NN,1,
+25,trait,Hairlessness (SGK3),0,NN,1,
+26,trait,Muzzle length (BMP3),0,CC,1,
+27,trait,Tail length (T),0,CC,1,
+28,trait,Hind dewclaws (LMBR1),DC-2 1 copy,CT,1,
+29,trait,Short legs CDPA (FGF4 chr18),0,NN,1,
+30,trait,Back muscling (ACSL4),0,CC,1,
+31,trait,Altitude adaptation (EPAS1),0,GG,1,
+32,trait,Appetite / obesity (POMC),clear,NN,1,
+33,trait,Blue eyes (ALX4),0,NN,1,
+34,other,Genetic diversity,heterozygosity 48% (typical 33-46%),"0% inbreeding, high MHC diversity",1,Different measures
+35,other,Predicted weight vs actual 21-23 kg,42-68 lb,51 lb,1,
