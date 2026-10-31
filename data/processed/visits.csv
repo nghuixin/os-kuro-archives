@@ -1,0 +1,28 @@
+date,date_basis,clinic,visit_type,summary,source
+2024-10-15,chat,Asia Paws,acupuncture,"gums checked: ""looks good and hydrated""",whatsapp pet taxi chat
+2024-10-22,chat,FurKids,consultation,"blood test; jab and meds; then acupuncture",whatsapp pet taxi chat
+2024-10-24,chat,Asia Paws,acupuncture,"lower back pain; urinary infection ruled out; written report relayed",whatsapp pet taxi chat
+2024-11-26,chat,Asia Paws,acupuncture,"""left body side has signs of pain""",whatsapp pet taxi chat
+2025-02-07,chat,Asia Paws,acupuncture,"""left kneee is abit bad""",whatsapp pet taxi chat
+2025-02-27,chat,Asia Paws,acupuncture,"""left side more pain""; supplement given",whatsapp pet taxi chat
+2025-03-09,chat,FurKids,consultation,"blood test; 20.5 kg; dental advice",whatsapp pet taxi chat
+2025-04-28,chat,house-call vet (Petcare),house call,"called for limping and trouble getting up; ""he was in pain""",whatsapp pet taxi chat; IMG-20250428-WA0083.jpg
+2025-05-01,chat,Petcare Veterinary Clinic,consultation,"""abrasion wound due to pain in the hind leg""; wound cleaned; cone; painkiller",whatsapp pet taxi chat; IMG-20250501-WA0062.jpg
+2025-05-06,chat,Asia Paws,acupuncture,"""heart is good""; ""a little pain on the right""",whatsapp pet taxi chat
+2025-05-15,chat,Asia Paws,acupuncture,"pain remedy given",whatsapp pet taxi chat
+2025-07-03,chat,Asia Paws,acupuncture,"gassy stomach; charcoal given",whatsapp pet taxi chat
+2025-07-15,chat,Asia Paws,acupuncture,"heart ""beating strong""; owner reports high ALT",whatsapp pet taxi chat
+2025-08-12,chat,Asia Paws,acupuncture,"""heart rate is abit slow""; T4 test suggested",whatsapp pet taxi chat
+2025-09-09,chat,FurKids,consultation,,whatsapp pet taxi chat
+2025-09-11,chat,Asia Paws,acupuncture,"right hip pain; pills given",whatsapp pet taxi chat
+2025-10-13,invoice,FurKids,consultation,"Chem17 + CBC",INV-22117
+2025-12-28,chat,FurKids,consultation,"x-rays (2025-12-29 on image); bump near eye ""small cyst that can be popped""",whatsapp pet taxi chat; furkids chat
+2026-02-03,chat,FurKids,consultation,"bloodwork ""overall reading good""; steroids, pancreas supplement, multivitamin",whatsapp pet taxi chat
+2026-03-16,chat,FurKids,consultation,"blood test; right cheek ""Touch of it is fluid""; ""abit anemic""",whatsapp pet taxi chat
+2026-04-20,invoice,FurKids,consultation,"Chem17 + CBC + SDMA; 20.6 kg; antibiotics; darbepoetin",INV-29152; whatsapp pet taxi chat
+2026-05-18,chat,FurKids,consultation,"blood test; 19.9 kg; jab for anemia",whatsapp pet taxi chat; furkids chat
+2026-07-01,chat,FurKids,consultation,"19.5 kg; urine burn and weight loss concerns; liver and kidney ""abit high""",whatsapp pet taxi chat; furkids chat
+2026-07-07,chat,Asia Paws,acupuncture,"growths on hind legs and armpit; sarcopenia; heart, lungs, lymph nodes normal",whatsapp pet taxi chat
+2026-08-10,invoice,FurKids,consultation,"Chem17 + CBC; 19.4 kg; darbepoetin",INV-33691; whatsapp pet taxi chat
+2026-09-14,invoice,FurKids,consultation,"Chem17 + CBC + SNAP 4Dx Plus; 19.7 kg; antibiotics; Advocate",INV-35208; whatsapp pet taxi chat
+2026-10-06,chat,Asia Paws,acupuncture,"Chinese medicine for hind leg weakness",whatsapp pet taxi chat

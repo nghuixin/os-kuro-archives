@@ -1,6 +1,6 @@
 # Raw data
 
-Kuro's original records, untouched. Everything in this folder except this README is gitignored.
+Kuro's original records, untouched. Everything in this folder is gitignored except this README and `embark/` (Kuro's DNA results are public).
 
 ```
 data/raw/

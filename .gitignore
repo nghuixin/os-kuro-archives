@@ -1,3 +1,30 @@
 # Real records stay out of Git (public repo)
 data/raw/**
 !data/raw/README.md
+
+# Derived outputs and model weights (list private filenames)
+data/derived/
+data/labels/
+*.pt
+*.onnx
+
+# Embark DNA results are public
+!data/raw/embark/
+!data/raw/embark/**
+
+# Images, anywhere in the repo
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.heic
+*.heif
+*.bmp
+*.tif
+*.tiff
+
+# WhatsApp exports, wherever they land
+_chat.txt
+WhatsApp Chat*
+*-WA[0-9][0-9][0-9][0-9].*

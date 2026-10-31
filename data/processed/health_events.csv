@@ -1,0 +1,79 @@
+date,category,summary,reported_by
+2024-10-01,vet visit,"Acupuncture: ""doc say overall strong boy""",pet taxi
+2024-10-16,test,"Kidney test SDMA requested for FurKids blood test",owner
+2024-10-17,symptom,"""struggle to get up cause the floor slippery""; vet checked, ""no issue""",pet taxi
+2024-10-22,symptom,"""not able to hold his pee""; ""pee twice in the clinic""",pet taxi
+2024-10-24,diagnosis,"""lower back pain (lumbosacral acu points are tender)""; warm packs on hips advised",vet (relayed by owner)
+2024-10-24,diagnosis,"Weak urine holding; ""urinary infection/inflammation can be ruled out""; ""Kidney Qi Deficiency""",vet (relayed by owner)
+2024-11-20,test result,"Red blood cell count ""19% which last month was 30""; ""No fever""; other organs normal",vet (relayed by owner)
+2024-11-20,diagnosis,"Suspected ""immune-mediated issue due to the spleen mass""; ""weakness and lethargic""",vet (relayed by owner)
+2024-11-20,medication,"Prednisolone ""for almost 1 month""; antibiotic 1 week; anti-bleeding 4 days; one anti-vomit injection",vet (relayed by owner)
+2024-11-20,imaging,"Ultrasound: ""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""",vet (relayed by owner)
+2024-11-20,care,"Diaper needed for acupuncture sessions",pet taxi
+2024-11-26,diagnosis,"Acupuncture: ""left body side has signs of pain""; vet calls him a ""medical miracle""",pet taxi
+2025-01-23,dental,"Teeth brushing; plaque on back teeth hard to remove",pet taxi
+2025-02-07,symptom,"""hind left leg shiver abit""; vet: ""left kneee is abit bad""",pet taxi
+2025-02-27,symptom,"""left side more pain""; ""did snap at us when pain""; supplement given",pet taxi
+2025-03-05,dental,"Gums: ""No bleeding but he said it hurts sometimes""",owner
+2025-03-09,weight,"20.5 kg; earlier ""20.9 then 21.5""",pet taxi
+2025-03-09,vet visit,"FurKids: blood test; dental advice ""crunchy item""; meds and supplements",pet taxi
+2025-03-19,other,"No known allergies",owner
+2025-04-29,injury,"Leg wound ""looks terrible""; ""right side is inflamed and painful""",pet taxi
+2025-05-01,symptom,"House-call vet called 2025-04-27 for limping and trouble getting up",owner
+2025-05-01,diagnosis,"""abrasion wound due to pain in the hind leg""; wound cleaned; fur shaved",pet taxi
+2025-05-01,medication,"Wound cream; painkiller; cone; ""all the meds stop only nerve supplements continue""",owner
+2025-05-06,injury,"Wound ""still a bit red and has not fully healed""",family
+2025-05-15,medication,"Pain remedy: ""two to three in his water bowl""",pet taxi
+2025-05-15,symptom,"""struggling to get up to walk into the room""",pet taxi
+2025-06-26,dental,"Foam on molars; ""back teeth might have discomfort""",pet taxi
+2025-07-03,symptom,"""discomfort in the stomach""; ""gassy in the stomach""",pet taxi
+2025-07-03,medication,"Charcoal pill ""half a tablet""; powder ""one small scoop""",pet taxi
+2025-07-10,symptom,"""leg hind left side abit pain""",pet taxi
+2025-07-15,test result,"""latest blood work came back and ALT is a bit high""",owner
+2025-07-17,symptom,"""right and left hind leg abit painful""",pet taxi
+2025-07-24,symptom,"""left side of his body hurts abit more""; hot pack on hip",pet taxi
+2025-08-05,diagnosis,"""the sore due to aging""",pet taxi
+2025-08-07,symptom,"""knee might be in pain""; more on left hind leg",pet taxi
+2025-08-12,test,"T4 (thyroid) test suggested because ""heart rate is abit slow""",pet taxi
+2025-08-19,symptom,"""lower back abit sore""; ""hip part pain""",pet taxi
+2025-08-19,appetite,"""stopped eating pumpkins and sweet potatoes""",owner
+2025-08-28,medication,"Mouth spray ""Three to four sprays""; magnesium oil spray in ears",owner
+2025-09-09,symptom,"""poop is quite black today""; stool shape changed",pet taxi
+2025-09-11,symptom,"""right side hip pain""; ""walk abit weird""",pet taxi
+2025-09-11,medication,"Pills ""every 1/2 or 1hr in his water""",pet taxi
+2025-10-30,medication,"""one needle near his neck to relieve some pain""",pet taxi
+2025-12-19,symptom,"""small bump on his left eye upwards""",pet taxi
+2025-12-21,symptom,"Stool ""abit soft when ending""; panting more on a hot day",pet taxi
+2025-12-29,diagnosis,"Bump: ""small cyst that can be popped""",owner
+2026-01-06,symptom,"""not hydrated well""",pet taxi
+2026-01-22,symptom,"""abit of pain for hind leg n hip""; pain relief given",pet taxi
+2026-02-03,test result,"""overall reading good""; ""reading a little high but not too concerning""",pet taxi
+2026-02-03,medication,"Pancreas supplement, multivitamin, steroids",pet taxi
+2026-02-19,symptom,"""inflamme on the right side and pain abit om the left side hind legs""",pet taxi
+2026-03-15,symptom,"Right cheek possibly swollen near nose",owner
+2026-03-16,test result,"Cheek ""Touch of it is fluid""; ""abit anemic""",pet taxi
+2026-03-16,medication,"Liver supplement",pet taxi
+2026-04-19,medication,"Usual meds: prednisolone, calcium/phosphorus",family
+2026-04-19,symptom,"""hind legs not much strength""; ""couldn't get up"" after pooping",pet taxi
+2026-04-19,test result,"""Suspect got infection so anitbiotcs""; ""Kidney okay, liver abit high""",pet taxi
+2026-04-19,medication,"Joint supplement, eye drops, prednisolone, infection meds; ""one jab for red blood cell count""",pet taxi
+2026-05-17,test result,"""Liver okay""; kidney ""due to dehydration abit off""; ""Anemic abit so jab""",pet taxi
+2026-05-19,diet,"Smaller frequent meals: ""Every meal is 200g plus probiotics 3 meals a a day""",family
+2026-05-21,symptom,"""heart rate is slightly slower today""",pet taxi
+2026-06-04,diagnosis,"""Pain generally as due to aging""; ""Hearts is okay just slow""",pet taxi
+2026-06-09,symptom,"""peed on himself cause he couldn't get up with his back feet""",pet taxi
+2026-06-30,symptom,"Lower body fur ""smells like pee"", ""very matted""",pet taxi
+2026-07-01,diagnosis,"""concerns of bacteria infection possible""; ""Worried urine burn and also weight loss""",pet taxi
+2026-07-01,test result,"""liver and kidney count abit high but manageable""",pet taxi
+2026-07-07,diagnosis,"Left hind leg growth ""lentil size""; armpit/chest growth ""cherry size (elastic - may be a lipoma)""; ""non-inflammatory""",vet (relayed by owner)
+2026-07-07,diagnosis,"Heart, lungs, lymph nodes normal; ""clear of any clinical tumor metastasis signs""; ""sarcopenia (muscle atrophy)""",vet (relayed by owner)
+2026-07-07,care,"Toilet help ""4 fixed / absolutely regular times daily""",vet (relayed by owner)
+2026-07-21,symptom,"""peed a lot more than usual""",pet taxi
+2026-07-30,symptom,"Large stool ""abit black""; pooped lying down",pet taxi
+2026-08-09,vet visit,"""Lungs and heart are good""; blood test; jab",pet taxi
+2026-09-08,injury,"Wound, ""looks like he nibble it""; ""abit of inflammation""",pet taxi
+2026-09-10,injury,"Wound ""looks bigger today""",pet taxi
+2026-09-14,medication,"""Inflammation so giving antibiotics And one jab""; Advocate for parasites",pet taxi
+2026-10-01,symptom,"""Hind legs weak""; heart and lungs good",pet taxi
+2026-10-06,medication,"Chinese medicine for ""hind legs not much strength""",pet taxi
+2026-10-15,symptom,"""Right side back area painful""; leaning right",pet taxi
