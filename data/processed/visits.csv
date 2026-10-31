@@ -8,7 +8,7 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2024-07-05,invoice,FurKids,consultation,"BOARDING, DOG > 20KG; CBC (INCLUDE PBF); FINE NEEDLE ASPIRATION (FNA); FLUIDS - SC (>20KG); 9 medications/supplements",INV-8671,0,"billed, results missing",,1,INV-8671,1
 2024-07-11,invoice,FurKids,consultation,RADIOGRAPH - 3RD ONWARDS; CATALYST - CHEM17 + CBC(PACKAGE); 8 medications/supplements | 2 medications/supplements,INV-8842; INV-8843,2,results present,,0,INV-8842; INV-8843,2
 2024-07-19,chat,Asia Paws,acupuncture,"first recorded acupuncture: from his pulse ""he should feel a lot of pain""",whatsapp pet sitting chat,0,none,,0,,0
-2024-07-22,chat,house-call vet,house call,"arthritis (""crepitus""); heart and respiratory rate normal",whatsapp pet sitting chat,0,none,,0,,0
+2024-07-22,chat,house-call vet (Petcare),house call,"arthritis (""crepitus""); heart and respiratory rate normal",whatsapp pet sitting chat; Petcare invoice 77823 (2024-07-23),0,none,,1,Petcare-77823,0
 2024-07-25,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); CATALYST - SDMA; 5 medications/supplements,INV-9031,3,results present,21.3,1,INV-9031,0
 2024-07-29,invoice photo,house-call vet (Petcare),house call,B12 and Neuroforte; RM200 total,IMG-20240729-WA0010.jpg,0,none,,2,Petcare-2024-07-29,0
 2024-08-07,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#90,0,none,,0,,0
@@ -47,13 +47,13 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2025-04-27,chat,house-call vet (Petcare),house call,"""Arthritis and some nerve pain""; injection",whatsapp pet sitting chat,0,none,20,1,,0
 2025-04-28,chat,house-call vet (Petcare),house call,"called for limping and trouble getting up; ""he was in pain""",whatsapp pet taxi chat; IMG-20250428-WA0083.jpg,0,none,20,1,Petcare-79410,0
 2025-05-01,chat,Petcare Veterinary Clinic,consultation,"""abrasion wound due to pain in the hind leg""; wound cleaned; cone; painkiller",whatsapp pet taxi chat; IMG-20250501-WA0062.jpg,0,none,,1,,0
-2025-05-02,invoice,FurKids,consultation,WOUND CLEANING - SIMPLE; 6 medications/supplements,INV-16763,0,none,,2,INV-16763,0
-2025-05-05,invoice,FurKids,consultation,RADIOGRAPH 2VIEWS; CATALYST - CHEM17 + CBC(PACKAGE); 3 medications/supplements,INV-16890,2,results present,20.6,0,INV-16890,1
+2025-05-02,invoice,FurKids,consultation,WOUND CLEANING - SIMPLE; 6 medications/supplements,INV-16763,0,none,,4,INV-16763,0
+2025-05-05,invoice,FurKids,consultation,RADIOGRAPH 2VIEWS; CATALYST - CHEM17 + CBC(PACKAGE); 3 medications/supplements,INV-16890,2,results present,20.6,1,INV-16890,1
 2025-05-06,chat,Asia Paws,acupuncture,"""heart is good""; ""a little pain on the right""",whatsapp pet taxi chat,0,none,,0,,0
 2025-05-15,chat,Asia Paws,acupuncture,pain remedy given,whatsapp pet taxi chat,0,none,,2,,0
 2025-06-04,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#284,0,none,,0,,0
 2025-06-06,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#284,0,none,,0,,0
-2025-06-16,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); 5 medications/supplements,INV-18168,2,results present,22.0,1,INV-18168,0
+2025-06-16,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); 5 medications/supplements,INV-18168,2,results present,22.0,4,INV-18168,0
 2025-07-03,chat,Asia Paws,acupuncture,gassy stomach; charcoal given,whatsapp pet taxi chat,0,none,,0,,0
 2025-07-15,chat,Asia Paws,acupuncture,"heart ""beating strong""; owner reports high ALT",whatsapp pet taxi chat,0,none,,0,,0
 2025-07-15,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; 3 medications/supplements,INV-19129,0,"billed, results missing",,0,INV-19129,0
@@ -64,7 +64,7 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2025-09-11,chat,Asia Paws,acupuncture,right hip pain; pills given,whatsapp pet taxi chat,0,none,,1,,0
 2025-10-13,invoice,FurKids,consultation,Chem17 + CBC,INV-22117,0,"billed, results missing",,0,INV-22117,0
 2025-11-04,medicine label,Asia Paws,consultation,added from cross-check: 1 prescription(s),prescriptions.csv,0,none,,1,,0
-2025-11-10,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; CATALYST - PANCREATIC LIPASE (PL); CATALYST - SDMA; 7 medications/supplements,INV-23175,2,results present,,6,INV-23175,0
+2025-11-10,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; CATALYST - PANCREATIC LIPASE (PL); CATALYST - SDMA; 7 medications/supplements,INV-23175,2,results present,,7,INV-23175,0
 2025-12-28,chat,FurKids,consultation,"x-rays (2025-12-29 on image); bump near eye ""small cyst that can be popped""",whatsapp pet taxi chat; furkids chat,2,results present,21.3,0,INV-24948,2
 2025-12-30,chat,FurKids,consultation,"left hind limp, possible mild sprain; paw pad red",whatsapp furkids chat,0,none,21.3,0,,0
 2026-02-03,chat,FurKids,consultation,"bloodwork ""overall reading good""; steroids, pancreas supplement, multivitamin",whatsapp pet taxi chat,2,results present,22.2,3,INV-26419,0

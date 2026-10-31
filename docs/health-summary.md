@@ -60,6 +60,14 @@ The analyzer repeatedly commented "anemia without reticulocytosis – likely non
 | Weight | 2024-03 → 2026-09 | 21.5 kg (Mar 2024) → 23.0 (Jun 2024 report header) → 20.9–21.7 (Oct 2024 – Feb 2025) → 21.3–22.2 (Jun 2025 – Feb 2026) → 19.4–19.7 (Aug–Sep 2026). Meals increased in May and Jul 2026 to stop the loss. |
 | Wounds and lumps | 2024-07 → 2026-09 | Hind-leg wounds from kennel stay (Jul–Aug 2024); leg abrasion (Apr–May 2025); bump near the eye, "small cyst" (Dec 2025); cheek fluid (Mar 2026); leg and armpit growths, "may be a lipoma" (Jul 2026); nibbled wound (Sep 2026). |
 
+## Home care and stools
+
+From the household helper's photo log (`home_care.csv`, `stool_log.csv`). Times are Malaysia time.
+
+- **Heat therapy.** A hot/cold gel pack was applied to his hindquarters, rump and hips in **321 sessions from May 2025 to Apr 2026**: about twice a day (morning and evening) in Jun 2025, then **almost every evening, 7:30–10:30 pm**, through Apr 2026. It began days after the Apr 2025 house call that found "arthritis and some nerve pain". The chats only record warm packs being *recommended* (Oct 2024, Mar 2025, Jul 2025); the photos show it was done.
+- **Stools.** 63 stool photos, Jul 2024 – May 2025, judged mostly from thumbnails: fecal scores 1 (×1), 2 (×29, ideal), 3 (×22), 4 (×3), not assessable (×8); none watery, and no fresh blood or mucus seen. Several stools had very dark or black pieces (24 Sep 2024; 20–21 Nov 2024). They were formed, which makes digested blood less likely, and he was taking activated charcoal, which blackens stool; but the Nov 2024 dark stools came days after his worst anemia (HCT 18.9% on 17 Nov), so gut bleeding can't be excluded. Stool photos stop after May 2025, when the log switches to heat-pack sessions.
+- **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), possible vomit (Nov 2024, Mar and May 2025), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
+
 ## Medications
 
 Ongoing from invoices: prednisolone 5 mg (19 invoices), Protexin Pro-Enzorb, Supra Mineral, iron (Maltofer, then iron tablets), darbepoetin (from Oct 2024; on invoices from Apr 2026), Maximus Hep and Samylin for the liver, Aminavast from Aug 2026. Short courses: Baytril, Clavamox, Metrogyl, gabapentin, Cerenia/maropitant. Full list with doses in `invoice_items.csv` and `prescriptions.csv`.

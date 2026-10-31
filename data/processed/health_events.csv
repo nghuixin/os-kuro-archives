@@ -33,6 +33,7 @@ date,category,summary,reported_by
 2024-07-25,symptom,"Drinking his own urine around 4-5am; ""Doctor said he should drink more water""",owner (sitter chat)
 2024-07-25,medication,"Cerenia and Yunnan Baiyao kept on hand, to give only if blood in stool or vomiting blood",owner (Notion care notes)
 2024-08-01,injury,"Wounds are ""bedsore wounds / scratches from being in the kennel""; ""biopsy so at least we know it's not a tumor""",owner (sitter chat)
+2024-08-06,skin,Pink hairless lesion on a hind leg/hindquarter (photos),Care chat photos
 2024-08-13,test result,"HCT ""still low however it is improving... no on going bleeding""; kidney and liver improved; ""CPLi back to normal... recovered from pancreatitis""",vet (FurKids chat)
 2024-08-13,medication,"Prednisolone tapered to half tablet for 20 days, then every other day; iron 6 days; pancreas supplement 20 more days; Supra Mineral and Maximus Hep continued; low-fat diet",vet (FurKids chat)
 2024-10-01,vet visit,"Acupuncture: ""doc say overall strong boy""",pet taxi
@@ -44,12 +45,15 @@ date,category,summary,reported_by
 2024-10-24,diagnosis,"""lower back pain (lumbosacral acu points are tender)""; warm packs on hips advised",vet (relayed by owner)
 2024-10-24,diagnosis,"Weak urine holding; ""urinary infection/inflammation can be ruled out""; ""Kidney Qi Deficiency""",vet (relayed by owner)
 2024-11-16,symptom,"""eating but... very unhappy""; ""low blood count is making him a bit dizzy""",owner (sitter chat)
+2024-11-16,symptom,Possible vomit: yellow material on the pen floor (photo),Care chat photos
 2024-11-17,vet visit,"Outside clinic (KD Vet) while FurKids vets were away: ""He is now quite sick""; ultrasound and bloods (findings relayed 2024-11-20)",owner (FurKids chat)
 2024-11-20,test result,"Red blood cell count ""19% which last month was 30""; ""No fever""; other organs normal",vet (relayed by owner)
 2024-11-20,diagnosis,"Suspected ""immune-mediated issue due to the spleen mass""; ""weakness and lethargic""",vet (relayed by owner)
 2024-11-20,medication,"Prednisolone ""for almost 1 month""; antibiotic 1 week; anti-bleeding 4 days; one anti-vomit injection",vet (relayed by owner)
 2024-11-20,imaging,"Ultrasound: ""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""",vet (relayed by owner)
 2024-11-20,care,Diaper needed for acupuncture sessions,pet taxi
+2024-11-20,diet,"Vet (via helper): give chicken and ""yellow powder"" only, no pumpkin",helper (Care chat)
+2024-11-20,stool,"Very dark stools 20-21 Nov 2024, days after HCT 18.9% on 17 Nov; GI blood possible, charcoal also possible",Care chat photos
 2024-11-26,diagnosis,"Acupuncture: ""left body side has signs of pain""; vet calls him a ""medical miracle""",pet taxi
 2024-12-10,symptom,"""changes in his sight... Maybe not seeing as well""; more sensitive to acupuncture needles",pet sitter
 2025-01-23,dental,Teeth brushing; plaque on back teeth hard to remove,pet taxi
@@ -61,20 +65,25 @@ date,category,summary,reported_by
 2025-03-09,weight,"20.5 kg; earlier ""20.9 then 21.5""",pet taxi
 2025-03-09,vet visit,"FurKids: blood test; dental advice ""crunchy item""; meds and supplements",pet taxi
 2025-03-09,test result,"Liver parameters ""elevate slightly... acceptable""; ""condition is stable""",vet (FurKids chat)
+2025-03-10,symptom,Possible vomit or urine: clear frothy liquid on the floor (photo),Care chat photos
 2025-03-19,other,No known allergies,owner
 2025-03-25,symptom,"Vet: ""sore"", needs ""warm compress and a massage""; poop ""mix of brown and green""; possible gas, charcoal pill",pet sitter
 2025-04-15,symptom,"""breathing a bit labored"", ""gums sticky"", ""Stomach also more bloated"", panting, ""peeing a lot""; taken to vet",pet sitter
 2025-04-16,test result,"""red blood cells is improving""; ""Platelet rising as expected due to his cancer""; ""liver requires further support""; subcutaneous fluids",pet sitter
 2025-04-27,diagnosis,"House-call vet: ""Arthritis and some nerve pain""; ""He got a shot""",owner (sitter chat)
+2025-04-28,symptom,"Helper: ""His leg was stiff as if he was sick, it was hard to walk"" (right back leg)",helper (Care chat)
 2025-04-29,injury,"Leg wound ""looks terrible""; ""right side is inflamed and painful""",pet taxi
+2025-04-30,skin,Skin lesion on hindquarter (photo); e-collar from 1 May 2025,Care chat photos
 2025-05-01,symptom,House-call vet called 2025-04-27 for limping and trouble getting up,owner
 2025-05-01,diagnosis,"""abrasion wound due to pain in the hind leg""; wound cleaned; fur shaved",pet taxi
 2025-05-01,medication,"Wound cream; painkiller; cone; ""all the meds stop only nerve supplements continue""",owner
 2025-05-01,medication,"Pain-killer injection; wound care: wash with the pink solution, rinse with clean water, pat dry, apply a thin layer of cream",vet (FurKids chat)
 2025-05-04,medication,"""reduced appetite""; x-ray ""to ensure his tumour has not grown""; ""Dosage for pain management increased""",owner (sitter chat)
 2025-05-06,injury,"Wound ""still a bit red and has not fully healed""",family
+2025-05-06,symptom,Possible vomit: orange food particles on the floor next to him (photos),Care chat photos
 2025-05-15,medication,"Pain remedy: ""two to three in his water bowl""",pet taxi
 2025-05-15,symptom,"""struggling to get up to walk into the room""",pet taxi
+2025-05-16,care,"Hot/cold gel pack applied to hindquarters and hips by the helper, roughly twice daily in Jun 2025 and nightly from Jul 2025 to Apr 2026 (see home_care.csv)",Care chat photos
 2025-06-26,dental,"Foam on molars; ""back teeth might have discomfort""",pet taxi
 2025-07-03,symptom,"""discomfort in the stomach""; ""gassy in the stomach""",pet taxi
 2025-07-03,medication,"Charcoal pill ""half a tablet""; powder ""one small scoop""",pet taxi
@@ -107,7 +116,9 @@ date,category,summary,reported_by
 2026-02-03,test result,"""No anemia, liver and kidney parameters are all within normal range""",vet (FurKids chat)
 2026-02-04,medication,"Prednisolone 5 mg: take 0.5 tablet every other day for 30 days, after meal (FurKids label)",clinic label
 2026-02-04,medication,"Protexin Pro-Enzorb: 1 capsule once a day for 30 days, sprinkled in food (FurKids label)",clinic label
+2026-02-15,care,Wearing a diaper or belly wrap (photos),Care chat photos
 2026-02-19,symptom,"""inflamme on the right side and pain abit om the left side hind legs""",pet taxi
+2026-03-07,symptom,Stained bedding under him (photos); absorbent pads bought 8 Mar,Care chat photos
 2026-03-15,symptom,Right cheek possibly swollen near nose,owner
 2026-03-16,test result,"Cheek ""Touch of it is fluid""; ""abit anemic""",pet taxi
 2026-03-16,medication,Liver supplement,pet taxi

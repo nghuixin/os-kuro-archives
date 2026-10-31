@@ -1,0 +1,64 @@
+date,time_myt,file,fecal_score,colour,blood,mucus,foreign_material,notes,method
+2024-07-13,08:01,IMG-20240713-WA0000.jpg,2,brown,none,none,none visible,segmented pieces on grass,contact-sheet thumbnail
+2024-07-13,08:01,IMG-20240713-WA0004.jpg,2,brown,none,none,none visible,same stool as previous photo,contact-sheet thumbnail
+2024-07-13,08:03,IMG-20240713-WA0002.jpg,2,brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-07-13,08:03,IMG-20240713-WA0003.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-14,18:48,IMG-20240714-WA0039.jpg,2,brown,none,none,none visible,small pieces,contact-sheet thumbnail
+2024-07-14,18:50,IMG-20240714-WA0042.jpg,2,brown,none,none,none visible,same stool as previous photo,contact-sheet thumbnail
+2024-07-15,08:30,IMG-20240715-WA0001.jpg,2,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-17,08:46,IMG-20240717-WA0000.jpg,3,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-17,08:46,IMG-20240717-WA0001.jpg,3,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-20,09:26,IMG-20240720-WA0001.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-20,09:26,IMG-20240720-WA0002.jpg,3,brown,none,none,none visible,same stool as previous photo,contact-sheet thumbnail
+2024-07-21,10:24,IMG-20240721-WA0004.jpg,2,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-21,10:24,IMG-20240721-WA0005.jpg,2,dark brown,none,none,none visible,same stool as previous photo,contact-sheet thumbnail
+2024-07-22,09:42,IMG-20240722-WA0000.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-22,16:36,IMG-20240722-WA0010.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-23,16:24,IMG-20240723-WA0015.jpg,4,brown,none,can't tell,none visible,"soft, loosely formed",contact-sheet thumbnail
+2024-07-24,10:09,IMG-20240724-WA0001.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-25,12:01,IMG-20240725-WA0003.jpg,2,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-26,16:13,IMG-20240726-WA0007.jpg,2,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-27,14:08,IMG-20240727-WA0001.jpg,2,brown,none,none,none visible,collected in dustpan,contact-sheet thumbnail
+2024-07-28,16:33,IMG-20240728-WA0007.jpg,can't tell,brown,can't tell,can't tell,can't tell,"small, photographed from distance",contact-sheet thumbnail
+2024-07-29,08:40,IMG-20240729-WA0000.jpg,2,dark brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-07-29,16:54,IMG-20240729-WA0006.jpg,2,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-29,19:00,IMG-20240729-WA0003.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-30,16:02,IMG-20240730-WA0006.jpg,2,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-07-31,12:09,IMG-20240731-WA0001.jpg,2,brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-07-31,18:45,IMG-20240731-WA0012.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-01,08:58,IMG-20240801-WA0000.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-01,19:06,IMG-20240801-WA0016.jpg,3,brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-08-02,10:39,IMG-20240802-WA0005.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-03,09:06,IMG-20240803-WA0003.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-04,08:30,IMG-20240804-WA0003.jpg,can't tell,brown,can't tell,can't tell,can't tell,photographed from distance,contact-sheet thumbnail
+2024-08-04,17:47,IMG-20240804-WA0017.jpg,3,brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-05,09:01,IMG-20240805-WA0005.jpg,can't tell,reddish brown,can't tell,can't tell,can't tell,"small, photographed from distance",contact-sheet thumbnail
+2024-08-07,08:24,IMG-20240807-WA0000.jpg,2,brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-08-08,16:55,IMG-20240808-WA0012.jpg,can't tell,dark brown,can't tell,can't tell,can't tell,"small, photographed from distance",contact-sheet thumbnail
+2024-08-09,08:39,IMG-20240809-WA0000.jpg,3,orange-brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-10,09:12,IMG-20240810-WA0001.jpg,1,dark brown,none,none,none visible,"small dry pellets, scattered",contact-sheet thumbnail
+2024-08-10,19:02,IMG-20240810-WA0066.jpg,can't tell,brown,can't tell,can't tell,can't tell,small scattered pieces,contact-sheet thumbnail
+2024-08-11,17:40,IMG-20240811-WA0006.jpg,2,dark brown,none,none,can't tell,"collected in dustpan, crumbly",contact-sheet thumbnail
+2024-08-12,08:47,IMG-20240812-WA0002.jpg,2,dark brown,none,none,none visible,small scattered pieces,contact-sheet thumbnail
+2024-08-13,15:46,IMG-20240813-WA0010.jpg,2,dark brown,none,none,none visible,collected in dustpan,contact-sheet thumbnail
+2024-08-14,08:36,IMG-20240814-WA0000.jpg,2,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-15,14:58,IMG-20240815-WA0006.jpg,3,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-08-16,09:18,IMG-20240816-WA0000.jpg,2,dark brown,none,none,none visible,small volume,contact-sheet thumbnail
+2024-08-17,08:49,IMG-20240817-WA0002.jpg,3,dark brown,none,none,none visible,blurry photo,contact-sheet thumbnail
+2024-08-19,08:31,IMG-20240819-WA0000.jpg,2,dark brown,none,none,none visible,collected in dustpan,contact-sheet thumbnail
+2024-08-20,09:12,IMG-20240820-WA0000.jpg,can't tell,dark brown,can't tell,can't tell,can't tell,photographed from distance,contact-sheet thumbnail
+2024-09-20,17:58,IMG-20240920-WA0000.jpg,2,dark brown,none,none,none visible,"collected in tray, multiple segments",contact-sheet thumbnail
+2024-09-24,08:40,IMG-20240923-WA0008.jpg,2,"mixed: black, brown, orange-tan, green",can't tell,none,none visible,"checked at full size: large volume of formed pieces; glossy black pieces among brown ones; formed, so melena less likely - charcoal or diet possible",full-size photo
+2024-09-30,08:38,IMG-20240929-WA0007.jpg,2,brown,none,none,none visible,collected in tray,contact-sheet thumbnail
+2024-10-23,08:10,IMG-20241022-WA0007.jpg,2,brown,none,none,none visible,collected in dustpan,contact-sheet thumbnail
+2024-11-19,10:39,IMG-20241118-WA0005.jpg,3,dark brown,none,none,none visible,,contact-sheet thumbnail
+2024-11-20,06:47,IMG-20241119-WA0009.jpg,can't tell,dark brown/black,can't tell,can't tell,can't tell,"blurry night photo, stool appears very dark",contact-sheet thumbnail
+2024-11-20,17:48,IMG-20241120-WA0001.jpg,2,dark brown,none,none,none visible,collected in tray,contact-sheet thumbnail
+2024-11-21,14:54,IMG-20241120-WA0022.jpg,3,dark brown/black,can't tell,none,none visible,"collected in tray, several pieces very dark",contact-sheet thumbnail
+2024-11-23,08:32,IMG-20241122-WA0009.jpg,3,orange-brown,none,can't tell,none visible,"collected in tray, moist",contact-sheet thumbnail
+2024-11-25,08:53,IMG-20241124-WA0016.jpg,4,orange-brown,none,can't tell,none visible,"soft, collected in tray",contact-sheet thumbnail
+2025-03-26,18:16,IMG-20250326-WA0005.jpg,2,dark brown,none,none,none visible,"collected in tray, small volume",contact-sheet thumbnail
+2025-04-28,19:02,IMG-20250428-WA0005.jpg,3,dark brown,none,none,none visible,on grass,contact-sheet thumbnail
+2025-04-30,08:05,IMG-20250429-WA0034.jpg,2,dark brown,none,none,none visible,"small scattered pieces, small volume",contact-sheet thumbnail
+2025-05-06,08:14,IMG-20250505-WA0061.jpg,4,dark brown,can't tell,can't tell,none visible,"soft pile, blurry photo",contact-sheet thumbnail
+2025-05-08,07:12,IMG-20250507-WA0016.jpg,2,dark brown,none,can't tell,can't tell,checked at full size: small single formed segmented stool on soil; not tarry,full-size photo

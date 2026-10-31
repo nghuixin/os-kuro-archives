@@ -56,6 +56,9 @@ date,invoice_id,item,category,qty,unit_price_rm,amount_rm
 2024-07-11,INV-8842,PROTEXIN PRO-ENZORB FOR DOG & CAT PER CAP,supplement,5,5.50,27.50
 2024-07-11,INV-8843,COUNTER SALE,medication / other,1,0.00,0.00
 2024-07-11,INV-8843,HYPO-ALLERGENIC UNBLEACHED BAMBOO WIPES - Pet Truly,medication / other,1,30.00,30.00
+2024-07-23,Petcare-77823,Glycoflex (joint supplement),supplement,,,70.00
+2024-07-23,Petcare-77823,Transport / house visit,consultation,,,100.00
+2024-07-23,Petcare-77823,Fees / consultation,consultation,,,50.00
 2024-07-25,INV-9031,"CONSULTATION, FOLLOW UP",consultation,1,40.00,40.00
 2024-07-25,INV-9031,CATALYST - CHEM17 + CBC(PACKAGE),diagnostic,1,300.00,300.00
 2024-07-25,INV-9031,CATALYST - SDMA,diagnostic,1,110.00,110.00
