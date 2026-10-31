@@ -66,7 +66,7 @@ From the household helper's photo log (`home_care.csv`, `stool_log.csv`). Times 
 
 - **Heat therapy.** A hot/cold gel pack was applied to his hindquarters, rump and hips in **321 sessions from May 2025 to Apr 2026**: about twice a day (morning and evening) in Jun 2025, then **almost every evening, 7:30–10:30 pm**, through Apr 2026. It began days after the Apr 2025 house call that found "arthritis and some nerve pain". The chats only record warm packs being *recommended* (Oct 2024, Mar 2025, Jul 2025); the photos show it was done.
 - **Stools.** 63 stool photos, Jul 2024 – May 2025, judged mostly from thumbnails: fecal scores 1 (×1), 2 (×29, ideal), 3 (×22), 4 (×3), not assessable (×8); none watery, and no fresh blood or mucus seen. Several stools had very dark or black pieces (24 Sep 2024; 20–21 Nov 2024). They were formed, which makes digested blood less likely, and he was taking activated charcoal, which blackens stool; but the Nov 2024 dark stools came days after his worst anemia (HCT 18.9% on 17 Nov), so gut bleeding can't be excluded. Stool photos stop after May 2025, when the log switches to heat-pack sessions.
-- **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), possible vomit (Nov 2024, Mar and May 2025), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
+- **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), possible vomit on 17 Nov 2024 (the day of the outside-clinic visit, where an anti-vomit injection was given), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
 
 ## Medications
 
