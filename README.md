@@ -52,7 +52,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | `feeding.csv` | 33 | What he ate: home-cooked meals, therapeutic diets, toppers, treats, feeding instructions |
 | `diet.csv` | 53 | Nutrient analysis of his Mar 2024 home-cooked recipe |
 | `home_care.csv` | 321 | Hot/cold pack sessions on his hips and hindquarters (May 2025 – Apr 2026) |
-| `stool_log.csv` | 63 | Stool photos scored for consistency, colour, blood and mucus (Jul 2024 – May 2025) |
+| `stool_log.csv` | 63 | Stool photos scored on the Purina Fecal Scoring Chart by two independent raters, with shape, colour, blood and mucus (Jul 2024 – May 2025) |
 | `grooming.csv` | 54 | Home grooming sessions with the groomer's notes on his skin and ears (Jan 2024 – Oct 2026) |
 | `communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
 | `socialisation.csv` | 3 | Trips Kuro went on: Dusun eco resort (Jul 2024), Penang (Dec 2024 and Sep 2025) |
