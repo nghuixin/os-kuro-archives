@@ -61,7 +61,7 @@ A Blueprint-style log of everything Kuro's care consisted of, in six-month block
 ### 2024 H1 · age 14 · "the optimisation attempt"
 
 - **Weight:** 21.5 kg (Mar), 23.0 kg (Jun).
-- **Diet:** a nutritionist's senior-diet proposal (Jan); an NRC-balanced recipe analysed (Mar: 895 kcal/day, 43% of calories from fat); a **tailored raw diet** from about 25 Mar (salmon head, meaty bones, spleen and liver, vegetables, oils, kelp, zinc). Then low-fat gastrointestinal food after pancreatitis (Jun).
+- **Diet:** a nutritionist's senior-diet proposal (Jan); an NRC-balanced recipe analysed by Khan & Kara Enterprise (The RAW Proof) (Mar: 895 kcal/day, 43% of calories from fat); a **tailored raw diet** from the same business from about 25 Mar (salmon head, meaty bones, spleen and liver, vegetables, oils, kelp, zinc). Then low-fat gastrointestinal food after pancreatitis (Jun).
 - **Supplements:** Maximus Ophtal, Supra Mineral daily, Cosequin, chlorophyll, dental liquid.
 - **Hygiene:** teeth cleaned by the groomer (Jan); grooming every 2–3 weeks.
 - **Mobility aids:** dog shoes for slippery floors (Jun).

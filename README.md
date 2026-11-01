@@ -32,7 +32,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`docs/lessons-for-owners.md`](docs/lessons-for-owners.md) | For owners: care-transition timeline and five case-based questions |
 | [`docs/kuro-protocol.md`](docs/kuro-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026 |
 | [`docs/instruments/`](docs/instruments/) | Validated scales for monitoring a senior dog (quality of life, pain, cognition, body and muscle condition, frailty), with evidence, where to get each form, and a [recording template](data/reference/senior_monitoring_template.csv); plus the [Dog Aging Project's](docs/instruments/dog-aging-project.md) End of Life Survey and cognition survey, with Kuro's end-of-life answers from his records |
-| [`docs/health-summary.md`](docs/health-summary.md) | Timeline 2021–2026, lab trend table, recurring themes, home care and stools, diet and feeding, medications, gaps |
+| [`docs/health-summary.md`](docs/health-summary.md) | His story 2021–2026 as a narrative, the post-mortem findings with the vet's answers to follow-up questions, then the lab trend table, recurring themes (incl. trouble standing up), daily care and stools, medications, diet and gaps |
 | [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
 | [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
 | [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
@@ -62,7 +62,7 @@ The processed tables, with their subfolder under `data/processed/`:
 | `clinical/health_events.csv` | 462 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
 | `clinical/weights.csv` | 24 | Weights from 2020 to 2026 |
 | `clinical/imaging.csv` | 13 | X-rays, ultrasounds, biopsy and post-mortem photo |
-| `clinical/providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
+| `clinical/providers.csv` | 21 | Clinics, carers, transport and other services used for his care |
 | `daily_care/feeding.csv` | 33 | What he ate: home-cooked meals, therapeutic diets, toppers, treats, feeding instructions |
 | `daily_care/diet.csv` | 53 | Nutrient analysis of his Mar 2024 home-cooked recipe |
 | `daily_care/home_care.csv` | 321 | Hot/cold pack sessions on his hips and hindquarters (May 2025 – Apr 2026) |
