@@ -33,3 +33,6 @@ docs/instruments/forms/
 
 # Communicator concordance results stay local
 data/processed/communicator_concordance.csv
+
+# Owner's own End of Life Survey answers stay local
+data/dap_retrospective/eols_kuro_owner.csv
