@@ -33,6 +33,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`docs/instruments/`](docs/instruments/README.md) | Validated scales for monitoring a senior dog (quality of life, pain, cognition, body and muscle condition, frailty), with evidence, where to get each form, and a [recording template](data/templates/senior_monitoring_template.csv) |
 | [`docs/health-summary.md`](docs/health-summary.md) | Timeline 2021–2026, lab trend table, recurring themes, home care and stools, diet and feeding, medications, gaps |
 | [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
+| [`docs/communicator-concordance.md`](docs/communicator-concordance.md) | How well the animal communicator's health impressions match his records, scored with a two-coder qualitative rubric |
 | [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
 | [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
 | [`data/processed/`](data/processed/) | The extracted data (table below) |
@@ -56,6 +57,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | `stool_log.csv` | 63 | Stool photos scored on the Purina Fecal Scoring Chart by two independent raters, with shape, colour, blood and mucus (Jul 2024 – May 2025) |
 | `grooming.csv` | 54 | Home grooming sessions with the groomer's notes on his skin and ears (Jan 2024 – Oct 2026) |
 | `communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
+| `communicator_concordance.csv` | 56 | Each communicator impression scored for match with his records (0–3), specificity and whether she had been told |
 | `socialisation.csv` | 3 | Trips Kuro went on: Dusun eco resort (Jul 2024), Penang (Dec 2024 and Sep 2025) |
 | `dna_comparison.csv` | 35 | Wisdom Panel vs Embark, one row per compared item, scored 1 (agree) or 0 (disagree) |
 | `providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
