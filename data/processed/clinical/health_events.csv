@@ -1,464 +1,462 @@
-date,category,summary,reported_by
-2020-11-10,weight,Owner comments 'Kuro fat' on photo; repeated 'Fat dog' remarks Dec 2020.,owner (family chat)
-2021-01-04,vet visit,Father at vet clinic with Kuro (long wait). Vet said 'Kuro overweight 他需要減肥'.,father (family chat)
-2021-01-04,weight,Weight '31kg last year was 25kg' per vet visit.,mother (family chat)
-2021-01-05,diet,Owner: 'Don't let him eat treats anymore. Fattening'. Mother: 'Kuro don't like banana'; treats withheld two days (8 Jan).,owner (family chat)
-2021-02-08,behaviour,Kuro afraid to cross an 'invisible border' in garden ('mental block'); owner says he is 'Afraid of new things'.,mother (family chat)
-2021-03-31,behaviour,Kuro dug many holes in backyard and overturned small plants.,mother (family chat)
-2021-05-31,other,2017 photo shows 'No white fur'; father: 'He is Aging already'. White fur on rump noted 22 Jul 2021.,father (family chat)
-2021-06-04,grooming,Owner: 'No grooming like homeless'; repeated 26 Aug 2021 'Bring him grooming lah'.,owner (family chat)
-2021-06-29,care,"Mother giving Kuro eye drops at home (squats, holds head); eye-drop videos/reminders again 23-25 Aug 2021.",mother (family chat)
-2021-07-11,supplement,"Kuro licked bowl clean of spirulina; spirulina fed (mother confirms he likes it, Oct 2022).",father (family chat)
-2021-07-16,supplement,Mother: 'Glucosamine still there' (context: Kuro's supplies).,mother (family chat)
-2021-07-29,behaviour,"Kuro slept from morning till afternoon; 'sleep eat sleep' (father, Dec 2021).",mother (family chat)
-2021-09-13,diet,"Owner orders weight loss: 'intermittent fasting 5 days', 'No morning treats'; mother: dog food with egg yolk, 'No more tit bit'.",owner (family chat)
-2021-09-15,skin,'Kuro itchy paw' (owner); mother says they will treat him.,owner (family chat)
-2021-09-22,diet,Owner: 'Give kuro less dog food. More egg or meat. Then he will lose weight'.,owner (family chat)
-2021-09-24,skin,Owner asks family to 'Give kuro skin treatment' (photos of product).,owner (family chat)
-2021-10-05,weight,Mother: 'Kuro is obese liau'.,mother (family chat)
-2021-11-02,symptom,"Owner: 'his eyes blur blur now', asks for eye drop; father: 'Dropped already'; Kuro food running out.",owner (family chat)
-2021-11-06,prevention,Owner asks if Kuro brought to vet: 'Need vaccine'. 9 Nov asks family to check Kuro for kidney issues.,owner (family chat)
-2021-11-13,vet visit,"Vet check: 'All normal', 'Ideal weight is 26'. Kuro 'popular in the clinic'.",mother (family chat)
-2021-11-13,prevention,Vaccination at 13 Nov visit; father: 'Need to rest one day after vaccination then can groom n bath'.,father (family chat)
-2021-11-13,grooming,"Father asked groomer for 'botak' shave; owner objects 'not healthy for kuro, short hair can'. the groomer; haircut 14 Nov.",owner (family chat)
-2021-11-13,care,"'Kuro boarding in pet shop one night, grooming tomorrow'.",mother (family chat)
-2021-11-13,supplement,Owner shares photos of 'Kuro supplements' and fish treats.,owner (family chat)
-2021-11-22,diet,"Treats bought from Furrenz (Shopee); 31 Dec: opened treats to finish within 30 days, store cool/dry or freezer.",owner (family chat)
-2021-12-26,other,'Kuro entire chin also white liao'; owner: 'Kuro look so old'.,owner (family chat)
-2021-12-30,behaviour,'Kuro search for any left over food'; owner: 'So greedy'. Mother: 'messy fur'.,father (family chat)
-2022-01-15,care,Owner reminds: 'Eye drops kuro. Did u put'.,owner (family chat)
-2022-01-18,grooming,"the groomer: Kuro 'very active has white hair only', not old. Owner asks about 'Dog food for senior dog'.",mother (family chat)
-2022-01-26,care,Owner: 'make sure kuro water bowl no mold' (saw mold before); father: helper cleans daily.,owner (family chat)
-2022-01-28,care,Kuro 'living outdoor'; owner orders elevated breathable mesh dog bed ('anti skin disease'); groomer warns he chews beds.,mother (family chat)
-2022-02-16,care,Owner asks for eyedrop and tooth brushing: '我怕他掉牙' (afraid he loses teeth); 'he no brush teeth'.,owner (family chat)
-2022-03-10,other,12th birthday; Kuro ate a cake in one bite (topping scraped off).,mother (family chat)
-2022-03-28,other,Breed identified as 'Aussie golden mix' (Australian Shepherd x golden retriever; mother was golden 'Gladys').,owner (family chat)
-2022-04-02,diet,"Owner orders 'special dog food'; mix 'Half half' with current food, not abrupt switch. Delivered 5 Apr ('still soft soft').",owner (family chat)
-2022-04-07,symptom,Possible constipation discussed: 'Hard poo' (father) though 'he poop twice a day'; owner asks about stool 'After raw meat'.,father (family chat)
-2022-04-10,supplement,Owner buys supplement from Malaysian online store; treats are 'kangaroo meat from Australia'.,owner (family chat)
-2022-04-18,care,'brush teeth daily'; give 'kangaroo teeth cleaner' bone; Kuro chewed ~2 hours (19 Apr).,mother (family chat)
-2022-04-28,other,"Animal communicator (Laura) session: Kuro said 'my hips and knees are getting much sorer', 'hard sometimes to get up'; likes lower back massage.",owner (family chat)
-2022-05-03,skin,'He looks like no more itchy now. Maybe food allergies'; mother: 'feed him wrong dog food'.,owner (family chat)
-2022-05-09,behaviour,Kuro retreats to his cage when raining; owner asks to buy larger dog cage.,owner (family chat)
-2022-05-28,vet visit,Vet visit for leg lump: '1) lump due to old age 2) infection due to injuries'. 'take antibiotics n see how the lump develop'.,mother (family chat)
-2022-05-28,medication,Antibiotics prescribed for leg lump; observe five days.,mother (family chat)
-2022-05-28,symptom,Kuro whining on leash; owner: 'Don't pull the leash too hard. Old dog throat is fragile'. Owner shares bone cancer article.,owner (family chat)
-2022-05-28,other,"Owner suggests Asian Veterinary Diagnostics (avd.asia) incl. 'genetic testing', and Gasing vet hospital.",owner (family chat)
-2022-05-31,symptom,Owner: 'I think kuro legs stiff leh. Can u massage pls'.,owner (family chat)
-2022-06-01,vet visit,"Appointment booked 'Saturday 12 noon, Kuro appointment with the vet at the Yeoh clinic'.",father (family chat)
-2022-06-04,behaviour,'He always scared' crossing the pond 'because he slipped before'.,owner (family chat)
-2022-06-04,vet visit,the vet at the Yeoh clinic: 'Kuro will stay there for surgery due to excess fat in the leg'; 'Old age problems'. Home 3:30 pm same day.,father (family chat)
-2022-06-04,care,Post-surgery leg bandaged; owner asks if rewrapped with new bandage.,owner (family chat)
-2022-06-06,behaviour,"Kuro 'upset with us' after surgery ('angry old man'); owner worried 'something else wrong', suggests Gasing vet.",mother (family chat)
-2022-06-07,skin,Owner: 'Kuro leh look red. Pls make sure no rain on leg. U can put bandage on'.,owner (family chat)
-2022-06-07,diet,"Raw diet includes '兔肉牛肺' (rabbit meat, beef lung); 'he 不挑吃'. 15 Jun: 'Kuro meat left only 7 bags'.",owner (family chat)
-2022-06-18,test result,Owner wants Kuro at Gasing vet to 'Do blood test'; Gasing vet hospital is walk-in only (20 Jun).,owner (family chat)
-2022-06-21,care,"While family travels, helper 'coming daily to feed him but no raw meat meals'; owner suggests boarding (Fetch Me Later), the groomer.",mother (family chat)
-2022-06-21,cost,Boarding quoted 'Price is 90 per night'; pre-visit required.,owner (family chat)
-2022-06-22,weight,"Boarding form: 'Aussie + Golden mix', age 12, 'Weight: 28kg', neutered 'Yes'; temperament docile, barks at dogs.",owner (family chat)
-2022-06-22,care,Leg wound 'A lot much better'.,mother (family chat)
-2022-06-26,symptom,'Kuro vomit in car. Maybe car sick'.,owner (family chat)
-2022-07-13,test result,"Owner asks family to call 'gasing vet ask for kuro results', '2 weeks liao' (blood test ~late Jun 2022); still asking 16 Jul. No result in chat.",owner (family chat)
-2022-07-13,supplement,Owner bought 'treat and probiotics for kuro' in Singapore.,owner (family chat)
-2022-07-14,other,Communicator questions reveal past events: Kuro once 'missing for three weeks' (escaped from vet clinic to jungle); 'bump on Kuro's leg'.,owner (family chat)
-2022-07-14,medication,Kuro 'only want dad to feed him medications'; communicator notes say 'medicine sort of gave me a belly ache' (20 Jul).,owner (family chat)
-2022-07-18,grooming,"Grooming with the groomer (Ara Damansara, PJ); overnight possible.",mother (family chat)
-2022-07-19,diet,Regular dog food delivery subscription; 20 Jul 'feed kuro the PetChef meals' before expiry.,owner (family chat)
-2022-07-20,diet,Mother gave Kuro salmon skin.,mother (family chat)
-2022-07-22,supplement,'add fish oil for kuro'; 'probiotic powder from Singapore'; 'dont buy anymore treats... not good for kidnye'.,owner (family chat)
-2022-07-23,care,Cooling gel mat recommended and approved; 'add the drops into kuro food' (from supplement table).,mother (family chat)
-2022-07-27,care,'use the mouth cleanser to spray into kuro mouth. No need to brush'. Reminded again 13 Aug.,owner (family chat)
-2022-07-28,test result,Kuro DNA swab samples received by lab 28 Jul 2022; to be sent on 2 Aug; certificate to follow.,owner (family chat)
-2022-07-30,skin,'Kuro a lot of dandruff. Pls bring him grooming soon'.,owner (family chat)
-2022-08-03,diet,'Don't feed kuro treats liao. Just give him supplements'; 'I scared he leg cannot moved'.,owner (family chat)
-2022-08-13,diet,"PetChef subscription meal 'only 250gram per packet', may change to 300 g; feed supplement too. Cooked food batches Aug-Nov 2022.",owner (family chat)
-2022-08-15,skin,'Itchy. Pls bring grooming la'.,owner (family chat)
-2022-09-11,diet,'No treat for Kuro since the salmon fish skin and mussel finished'; eats 'frozen dog cooked foods'.,mother (family chat)
-2022-09-12,test result,Genetic test result: 'kuro high risk of deafness' 'and hip problem'; owner: 'I think results not accurate'.,owner (family chat)
-2022-09-15,symptom,'Kuro eyes not so swollen now'; owner: 'Eyes bulging means hypo thyroidism'.,owner (family chat)
-2022-09-30,care,"'Pls clean Kuro ears'; 5 Oct ear cleaning, 'He stressed'.",owner (family chat)
-2022-10-05,other,'Kuro last time like to jump and bite. Now old liao. No jump'.,owner (family chat)
-2022-10-19,grooming,'Kuro toe nails very long'; grooming booked Saturday 22 Oct 11am.,owner (family chat)
-2022-10-22,symptom,Car sickness: 'drooling a lot'; poops after every car ride.,owner (family chat)
-2022-10-23,weight,"'Dad always said Kuro very thin', 'can feel his bone when wash him'; owner: 'Maybe can feed him two meals a day'.",mother (family chat)
-2022-10-24,diet,Owner suggests 'some healthy treat... Not too many'; baked pig skin treat and new plate.,owner (family chat)
-2022-10-25,skin,"'kuro maybe easy itchy after grooming. Less fur to protect'; 30 Oct 'many bugs attack him', spray vinegar.",owner (family chat)
-2022-10-31,prevention,Father: 'We got shampoo for lice n ticks for Kuro'. 2 Nov: 'No itchy now'.,father (family chat)
-2022-11-27,supplement,'Pls rmbr feed Kuro the black color supplement pls. Important'.,owner (family chat)
-2022-11-29,symptom,Head shaking; mother: 'shake head means ear itchy?'; owner: 'usually'.,mother (family chat)
-2022-12-13,skin,'He very itchy. Kuro'.,owner (family chat)
-2022-12-22,grooming,"Shopping list: 'Dandruff shampoo (Kuro)', canned dog food for travel, floor brush for Kuro house.",owner (family chat)
-2023-01-07,vet visit,"Vet visit (earlier clinic, Taman Megah): ""medicated ear drops"" and ""tablets for the skin issue""; intake form: ""current skin infection"", ""Food allergies: none""",owner (sitter chat)
-2023-01-09,grooming,New groomer groomer: 'basic or comfort grooming'; 'Basic grooming is just shower and ear cleaning and nail trim' every 5-6 weeks; first 1 Feb.,owner (family chat)
-2023-01-15,grooming,Owner: make sure shampoo washed off properly ('scared he eat the shampoo'); father: 'Wash a few times'.,owner (family chat)
-2023-01-19,medication,"Skin tablets from 20 Jan ""n alternate day""; ear solution ""two drops each ear""; ""Lots of wax today""",owner (sitter chat)
-2023-01-24,skin,Communicator said 'yellow flowers make Kuro itchy'.,owner (family chat)
-2023-02-01,supplement,'Did u feed Kuro supplements. The green capsule one'; dad feeds supplements every early morning.,owner (family chat)
-2023-02-04,medication,Father: 'Kuro medicines finished'.,father (family chat)
-2023-02-05,symptom,Diarrhea resolved ('Normal already'); father attributes to 'more water added in the food'. Kuro not wanting to go out.,mother (family chat)
-2023-03-01,medication,"""no medication feeding anymore but adding just eye drops"", ""2-3 drops per eye""; ear cleaning continues",owner (sitter chat)
-2023-03-11,symptom,"Scab seen; owner: medicated shampoo for ""skin infection"" since the January vet visit",owner (sitter chat)
-2023-03-13,skin,'Kuro need shower... Once a week. Medicated shampoo'; 'maybe allergic to dust at the back'.,owner (family chat)
-2023-03-16,care,"New helper: owner insists dad feeds Kuro, helper must not give other food. 'Pls rmbr clean ears and eyes'.",owner (family chat)
-2023-03-19,behaviour,Owner notes 'tail no wagging'.,owner (family chat)
-2023-04-01,symptom,'Kuro look constipated. Can u buy him broccoli. Make sure he have water'. Again 12 Jul 2023.,owner (family chat)
-2023-04-06,grooming,Bath interval: '5 days ok la. 3 days not enough time for natural oil to come out'.,owner (family chat)
-2023-04-17,supplement,Glucosamine in stock; 21 Jun 'Kuro eat daily'.,mother (family chat)
-2023-04-18,diet,"Fresh food ran short; bought 'dried dog food', owner: 'Pls add hot water'.",mother (family chat)
-2023-05-01,supplement,Owner bought '2 bottles supplement for Kuro'.,owner (family chat)
-2023-05-23,symptom,'Kuro right eye look white leh'.,owner (family chat)
-2023-05-28,test result,Owner: 'Kuro a bit low red blood count'; 'Need to find supplement for anemia'; suggests regular vet check-up.,owner (family chat)
-2023-05-28,prevention,Mother going to vet clinic 'To buy heart guard eye drops' (heartworm preventive and eye drops); ask vet re anemia supplement.,mother (family chat)
-2023-06-03,other,Owner later asks communicator 'What happened on 3rd June? Why did he leave the house?' (Kuro left house).,owner (family chat)
-2023-06-06,behaviour,Kuro growled at mother 'When raining and he don't want to be tied to bench'.,owner (family chat)
-2023-06-08,symptom,Owner: 'His eyes got catharac'; asks about eye drops.,owner (family chat)
-2023-06-14,skin,'How come Kuro chest so red'.,owner (family chat)
-2023-07-09,vet visit,Owner asks to bring Kuro to vet after Thailand trip: '6 months liao' since last visit.,owner (family chat)
-2023-07-18,care,'Must bring Kuro on more walks. Later joint weak cannot walk'; no jumping (21 Jun).,owner (family chat)
-2023-08-09,care,'give Kuro filtered water'; eyedrop - mother: 'Dad always do'.,owner (family chat)
-2023-09-07,vet visit,"First Furkids Wellness Centre (Kota Damansara) consultation booked Sun 10 Sep 2023 4pm; chosen as near home, offers pet acupuncture.",owner (family chat)
-2023-09-10,test result,"Vet: allergy cause ""not sure yet.. his blood tests are all ok""; continue medicated shampoo; two items added",owner (sitter chat)
-2023-09-11,symptom,'his teeth very bad leh'; needs 'teeth scaling'; 6 Oct mother: 'need to arrange Kuro for scaling'.,owner (family chat)
-2023-09-15,other,Kuro's sibling died Sep 2022 of tumour; owner: 'lucky u got check Kuro leg and lucky just excess fat'.,owner (family chat)
-2023-09-26,diet,Mother: 'egg for kuro'.,mother (family chat)
-2023-09-30,grooming,New shampoo from US (purple/white) for helper to use with conditioner; old 'tadaa shampoo' to be donated.,owner (family chat)
-2023-09-30,other,Mother: 'Kuro health and outlook has improved so much since diet changed plus supplements'.,mother (family chat)
-2023-10-01,diet,'Kuro sleep alot... exercise not enough'; 'Can feed more eggshells and liver and kidney'. Eggshells fed (26 Oct).,owner (family chat)
-2023-10-02,symptom,Owner: 'going blind liao' (context Kuro); 'kuro very enjoy neck massage'.,owner (family chat)
-2023-10-09,care,Cinnamon mouth freshener ('毛起来') pumped into Kuro's water for breath; teeth brushing reminder 22 Oct.,owner (family chat)
-2023-11-04,vet visit,Owner recalls 'the vet says he got a lot muscle for his age'.,owner (family chat)
-2023-11-05,care,"""no meds! just the supplements""; ""regular ear cleaning + eye drops""",owner (sitter chat)
-2023-12-02,vet visit,Furkids Wellness Centre consultation booked Sun 10 Dec 2023 10am.,owner (family chat)
-2023-12-11,medication,"New eye drop; a product ""2-3 pumps into his water""",owner (sitter chat)
-2023-12-13,behaviour,"Kuro 'looks unhappy', 'uneasy' - 'Normally he is not like one'.",mother (family chat)
-2023-12-20,diet,'remind the helper again to feed Kuro pet chef. Not the other foods'.,owner (family chat)
-2023-12-25,symptom,"""His skin got pretty bad scabbing""; itching returned ""when we reduced the dose"" of shampoo",owner (sitter chat)
-2024-01-15,dental,Teeth cleaned by the grooming service in Jan 2024; some plaque by Jun 2024,groomer (grooming chat)
-2024-01-17,grooming,"Owner asks helper to ""Brush Kuro harder""",owner (family chat)
-2024-01-17,diet,"Food to be reduced ""from 3 to 2 scoop""",owner (family chat)
-2024-01-18,diet,"Nutritionist's proposed senior diet addresses ""weight lost"", ""high SDMA"" (controlled protein), ""low Retic"" (more iron, B12, B9), liver/gallbladder; adds ""Silymarin""",owner (family chat)
-2024-01-18,diagnosis,"Owner: ""Cannot feed Kuro salty things anymore"" because ""His kidney not so good""",owner (family chat)
-2024-01-18,medication,"Give ""last tablet of medicine, white color one"" (course ending)",owner (family chat)
-2024-01-21,weight,"Mother reports Kuro ""lose weight""",mother (family chat)
-2024-01-24,care,"Kuro wearing a bandage and ""cone collar""; ""He don't like bandage""; mother notes ""emotional distress"" (reason not stated)",owner (family chat)
-2024-02-05,medication,"Dental liquid, Cosequin, chlorophyll pill, eye drop given",pet sitter
-2024-02-23,diet,"Reminder: ""Pls don't feed him anything salty""",owner (family chat)
-2024-03-12,supplement,"Owner: ""A lot of supplements haven't finished""; mother buying dog food at pet store",owner (family chat)
-2024-03-15,cost,Kuro birthday cake RM 380.30,owner (family chat)
-2024-04-04,behaviour,"""Wooden floor bad for Kuro legs""; ""Too slippery very hard to get up"", pressure on joints; suggests mat or dog shoes",owner (family chat)
-2024-04-04,weight,"Owner: bring Kuro for walks, ""need to lose weight""; father/owner later call him ""Fat dog"" (9 Apr)",owner (family chat)
-2024-04-10,symptom,"""he poop everywhere when i bring him out""; ""run And poop same time""",owner (family chat)
-2024-04-11,diet,"Helper to add hot water to Kuro food ""in glass bowl Not plastic""",owner (family chat)
-2024-04-12,diet,"Food ran out; mother: taking ""1.8 kg food every day"" (owner corrects ""1.08""), ""Before was 500gm per day""",mother (family chat)
-2024-04-13,diet,"FurKids vet ""also got sell pet chef"" food; owner called, in stock",owner (family chat)
-2024-04-14,skin,"""Tail losing hair""; groomer asked about the new raw diet and possible chicken or egg sensitivity",groomer (grooming chat)
-2024-04-15,diet,"""Kuro eat rice n eggs for two days"" while food not yet bought",father (family chat)
-2024-04-17,diet,Custom dog meal delivery 19 Apr from Khan & Kara Enterprise (nutritionist); delivery charge RM 20,mother (family chat)
-2024-04-29,symptom,"""His eyes a lot of gunk lately... Actually just one side""",pet sitter
-2024-05-03,symptom,"Groomer noticed ""some fur loss at the tail""",owner (sitter chat)
-2024-05-12,other,"Owner posts ""Angry after surgery"" (also 15 May, ""His eyes""); unclear whether Kuro had a procedure or this is a joke/meme",owner (family chat)
-2024-05-13,prevention,"""Pls remember feed Kuro the worm medication""; ""need to feed with heart guard"" - previously forgotten",owner (family chat)
-2024-05-15,skin,"""Same hair lost"" at the tail; groomer: ""They need to check the skin""",groomer (grooming chat)
-2024-05-16,other,"Animal communicator session: Kuro said ""sometimes his chest feel tight""; once ""slipped"" and felt ""pulling sensation in my side""; asked about physiotherapy",owner (family chat)
-2024-05-19,care,"Owner asks father to ""stretch his wrist Front paws""",owner (family chat)
-2024-05-22,grooming,Helper bathed Kuro; told him not to dig soil,mother (family chat)
-2024-05-28,test result,"""everything good! a bit anemic, same as last time""; owner later: ""slightly anemic since Jan this year""",owner (sitter chat)
-2024-05-28,cost,"FurKids invoice for 27 May visit incl. Supra mineral; earlier payment was for ""physio""",owner (family chat)
-2024-05-30,supplement,"Supra mineral: ""1 tab once a day""",owner (family chat)
-2024-06-10,behaviour,"""Kuro walk very funny Like a bear""; ""Old liao""",owner (family chat)
-2024-06-12,grooming,"Helper bathing too often; ""don't bathe Kuro for 2 weeks Until next grooming session"" (no bath until 25 Jun)",owner (family chat)
-2024-06-12,skin,"""Kuro got so much dandruff""",owner (family chat)
-2024-06-12,skin,Found still wet after the helper bathed him; re-bathed; dandruff; advised to keep him dry between grooms,groomer (grooming chat)
-2024-06-15,care,Dog shoes ordered (arrive by 24 Jun) for slippery floor; paw measured,mother (family chat)
-2024-06-18,symptom,"""His shampoo ran out... flaky skin is back again""",owner (sitter chat)
-2024-06-20,other,"Animal communicator says Kuro ""cannot hear well sometimes""",owner (family chat)
-2024-06-26,symptom,"Owner: ""He looks sick""; suspects heat stroke/dehydration; after eating ""itchy and go rolling on the ground""; mother: ""肚子胀气"" (bloated)",owner (family chat)
-2024-06-26,symptom,"""He vomited yesterday after eating his normal food""; ate egg and white rice without vomiting (reported 27 Jun)",mother (family chat)
-2024-06-27,symptom,"""not really eating and seems a little unwell""; ""stomach may be a bit bloated""",owner (sitter chat)
-2024-06-27,symptom,"""Kuro limping""; ""no energy""; ""ate very little""; ""Stomach is bloated""",owner (family chat)
-2024-06-27,diet,"Regular food (Korean brand ""Bought from furkids"") possibly ""left out too long""; family considered dry food; vet staff told ""no appetite""",owner (family chat)
-2024-06-28,diet,"""Kuro needs to be on low fat diet""; gastrointestinal low fat food started",vet (FurKids chat)
-2024-06-29,diagnosis,"""looking at the blood test, we will categorise it as critical""; blood donor needed ASAP",vet (FurKids chat)
-2024-06-29,diagnosis,"""suspect there might be a mass cancer in the abdomen""; x-ray and ultrasound agreed; pancreatitis under treatment",vet (FurKids chat)
-2024-06-29,diagnosis,"Owner: ""Kuro has pancreatitis and also infection. Maybe from his diet change... the diet changed in March and April""",owner (grooming chat)
-2024-06-30,procedure,Blood transfusion from a German Shepherd donor (blood type DEA 1+),vet (FurKids chat)
-2024-06-30,diagnosis,"""the bleeding has stabilized""; red cell count 13% -> 17% -> 20%; rescan before planned surgery: tumour ""spread to kidney and some parts of intestine"", ""inoperable mass""; plan: stabilise pancreatitis, then ""palliative care""",vet (FurKids chat)
-2024-06-30,diagnosis,"""Spleen haemorrhage""; surgery planned ""to remove the spleen and do biopsy""",owner (sitter chat)
-2024-06-30,diet,"Helper only added hot water to food, did not steam it; owner had seen ""abdomen swollen awhile ago""",owner (family chat)
-2024-06-30,other,"Blood donor search: one candidate dog rejected - ""aggressive"", ""no vaccine"", ""heart worm before"", ""Not suitable donor""",owner (family chat)
-2024-07-01,diagnosis,"Pre-op scan: ""mass is inoperable"", ""also in his intestines and kidney""; ""palliative care""; antibiotics and anti-bleed medication",owner (sitter chat)
-2024-07-01,other,Transfusion donor dog was a client of Kuro's groomer; owner already followed it on Instagram,owner (family chat)
-2024-07-02,diagnosis,"Owner reports a ""spleen rupture"" days earlier; vet: semi-solid stool from ""cranially displaced intestine due to the location of the mass""",vet (FurKids chat)
-2024-07-03,care,"""He's doing stable""; IV drip on hold, subcutaneous fluids; no vomiting; discharged about 5 Jul",vet (FurKids chat)
-2024-07-03,vet visit,"FurKids temporarily closing; emergencies to ""KD vet"" (collaborating clinic). Father: ""Kuro is stable""",father (family chat)
-2024-07-03,diagnosis,"Father relays vet prognosis: ""Can live maybe 3 months, 6 months to a year""",father (family chat)
-2024-07-07,care,Grooming moved indoors (bathroom) after the hospital stay; vet OK'd grooming but warned to avoid falls hitting his belly; dental cleaning postponed because he was weak,owner (grooming chat)
-2024-07-08,symptom,"""hasn't pooped since coming back from the vet""; eating little, ""only chicken""",owner (sitter chat)
-2024-07-08,medication,"Care plan: ""Eye health - lanomax""; ""Oral health - rub gums with tumeric""; ""Bedsore wounds""",owner (family chat)
-2024-07-10,symptom,"Owner's list: ""Heart guard"", ""Ultrasound video"", ""Acupuncture"", ""Pale gums, labored breathing""",owner (family chat)
-2024-07-10,care,"Buying indoor water fountain and pee pads (""pee pad almost no more"")",owner (family chat)
-2024-07-10,cost,"Alternative pet sitter (1-5 Aug): RM 60/hr weekday, RM 70/hr weekend; meet and greet RM 30",owner (family chat)
-2024-07-11,care,"""cannot pet boarding""; ""Isolate from other dogs""; family dogs ok only if vaccinated and on heartworm prevention",owner (family chat)
-2024-07-11,vet visit,"At vet, aggressive poodle barked and growled at Kuro",owner (family chat)
-2024-07-14,care,FurKids temporarily closed 14-21 Jul 2024; outside 24-hour vets and a house-call vet listed for emergencies,owner (Notion care notes)
-2024-07-15,skin,"Groomer says ""Kuro skin improve a lot""",owner (family chat)
-2024-07-17,medication,"Charcoal pill; Lypex ""sprinkled on the food""",owner (sitter chat)
-2024-07-18,care,Walks up to 30 min; indoor stairs only and great care on stairs to avoid a fall hitting the spleen or abdomen; pee pads; fan and air-con indoors; groomed every 10-14 days with medicated and oatmeal shampoo,owner (Notion care notes)
-2024-07-18,vet visit,House-call vet planned for 23 and 29 Jul 2024 during the pet sitting,owner (Notion care notes)
-2024-07-19,injury,"Hind-leg wound with cone, ""not bleeding"" but ""pretty raw""; ointment raised to ""4x a day""",owner (sitter chat)
-2024-07-19,vet visit,"First recorded acupuncture: from his pulse ""he should feel a lot of pain""",pet sitter
-2024-07-22,diagnosis,"House-call vet: heart and respiratory rate ""within normal range""; ""crepitus... indicating athritis""",owner (sitter chat)
-2024-07-23,behaviour,"Question for animal communicator: ""Why do you drink your pee""",owner (family chat)
-2024-07-25,symptom,"Drinking his own urine around 4-5am; ""Doctor said he should drink more water""",owner (sitter chat)
-2024-07-25,medication,"Cerenia and Yunnan Baiyao kept on hand, to give only if blood in stool or vomiting blood",owner (Notion care notes)
-2024-08-01,injury,"Wounds are ""bedsore wounds / scratches from being in the kennel""; ""biopsy so at least we know it's not a tumor""",owner (sitter chat)
-2024-08-05,behaviour,"""Kuro drinking pee"" (also 10 Aug, 14 Aug ""at night"", 3 Nov ""again"")",owner (family chat)
-2024-08-06,skin,Pink hairless lesion on a hind leg/hindquarter (photos),Care chat photos
-2024-08-07,cost,"Pet sitter bills RM 220 + RM 200 = RM 420 for ""4 times go acupuncture"" plus ""Pet taxi""",owner (family chat)
-2024-08-07,care,Medication and care instructions kept on a Notion pet-sitting page,owner (family chat)
-2024-08-07,behaviour,"""long time no hear kuro bark""; mother: ""barking loud, strong and hardy"" for food",owner (family chat)
-2024-08-09,diet,"Deer antler chew offered; Kuro ""dunno how to eat antler"" (14 Aug); ""Maybe Kuro teeth too weak"" (28 Sep)",owner (family chat)
-2024-08-10,care,"Kuro ""wearing diapers"" (seen on camera)",owner (family chat)
-2024-08-10,other,"Review for pet sitter (jwoofbutler): Kuro ""requires daily medications and supplements""; sitter fed meds gently",owner (family chat)
-2024-08-11,care,"""Pls expand Kuro pen size Then he won't drink his pee""",owner (family chat)
-2024-08-12,diet,"""more meat and less sweet potato""; some coconut water; ""Very small spoon"" of coconut oil",owner (family chat)
-2024-08-13,test result,"HCT ""still low however it is improving... no on going bleeding""; kidney and liver improved; ""CPLi back to normal... recovered from pancreatitis""",vet (FurKids chat)
-2024-08-13,medication,"Prednisolone tapered to half tablet for 20 days, then every other day; iron 6 days; pancreas supplement 20 more days; Supra Mineral and Maximus Hep continued; low-fat diet",vet (FurKids chat)
-2024-08-15,diet,"""no salmon paste and oil""; boxed food all ok ""except kibble""",mother (family chat)
-2024-08-15,care,"Outside ""Very slippery"", ""Kuro cannot fall down"", need mat; 17 Aug ""Mat very good""",owner (family chat)
-2024-08-17,behaviour,"Mother: ""Kuro now getting clever and responsive""; father credits sleeping in air conditioning",mother (family chat)
-2024-08-17,diet,"""many pack of kuro raw foods"" in freezer, possibly to donate",mother (family chat)
-2024-08-20,care,Dog shoes being tried on,mother (family chat)
-2024-09-20,skin,"Owner shares reel: ""Kuro itchy skin cos of cancer"" (owner's speculation)",owner (family chat)
-2024-09-22,weight,"""Kuro looks thin"" (also 24 Sep); ""Pls feed beef""; reminder of ""Very expensive"" supplement in fridge",owner (family chat)
-2024-09-24,diet,"Requests ""lean 98 percent beef grass fed""; repeated beef requests through Oct",owner (family chat)
-2024-09-24,behaviour,"""Kuro run He happy""",owner (family chat)
-2024-09-30,supplement,"""adored beast probiotics""; beef treat before bedtime",owner (family chat)
-2024-09-30,skin,"""kuro gain weight"" and ""the skin improve a lot""",groomer (grooming chat)
-2024-10-01,vet visit,"Acupuncture: ""doc say overall strong boy""",pet taxi
-2024-10-15,vet visit,"Owner compiling supplement and food list because ""Vet will ask""; vet says Kuro is ""miracle boy""",owner (family chat)
-2024-10-15,behaviour,"Raining - ""He scared""",owner (family chat)
-2024-10-16,test,Kidney test SDMA requested for FurKids blood test,owner
-2024-10-17,symptom,"""struggle to get up cause the floor slippery""; vet checked, ""no issue""",pet taxi
-2024-10-18,supplement,"""Liver Tonic"" brand ""Adored Beast"", in fridge - helper had missed it",owner (family chat)
-2024-10-22,symptom,"""not able to hold his pee""; ""pee twice in the clinic""",pet taxi
-2024-10-23,test result,"Red cell count ""26.6 to 30%, still having mild anemia""; white cells normal, ""no on going infection""; ""liver parameters back to normal""; weight 20.2 -> 21.7 kg",vet (FurKids chat)
-2024-10-23,medication,"""I've injected another dose of darbepoeitin""",vet (FurKids chat)
-2024-10-24,diagnosis,"""lower back pain (lumbosacral acu points are tender)""; warm packs on hips advised",vet (relayed by owner)
-2024-10-24,diagnosis,"Weak urine holding; ""urinary infection/inflammation can be ruled out""; ""Kidney Qi Deficiency""",vet (relayed by owner)
-2024-10-24,care,"Probiotics at night; wear shoes at acupuncture because ""The acupuncture center is slippery""; ""All doctors surprised by Kuro""",owner (family chat)
-2024-10-27,care,"""dont make kuro jump""; ""Kuro need to eat grass fed beef""",owner (family chat)
-2024-10-29,skin,"""the tail crusty back"", neck too, ""Body odour came back""; ""super super active""",groomer (grooming chat)
-2024-11-16,symptom,"""eating but... very unhappy""; ""low blood count is making him a bit dizzy""",owner (sitter chat)
-2024-11-16,behaviour,"""kuro looks sad""",owner (family chat)
-2024-11-17,vet visit,"Outside clinic (KD Vet) while FurKids vets were away: ""He is now quite sick""; ultrasound and bloods (findings relayed 2024-11-20)",owner (FurKids chat)
-2024-11-20,test result,"Red blood cell count ""19% which last month was 30""; ""No fever""; other organs normal",vet (relayed by owner)
-2024-11-20,diagnosis,"Suspected ""immune-mediated issue due to the spleen mass""; ""weakness and lethargic""",vet (relayed by owner)
-2024-11-20,medication,"Prednisolone ""for almost 1 month""; antibiotic 1 week; anti-bleeding 4 days; one anti-vomit injection",vet (relayed by owner)
-2024-11-20,imaging,"Ultrasound: ""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""",vet (relayed by owner)
-2024-11-20,care,Diaper needed for acupuncture sessions,pet taxi
-2024-11-20,diet,"Vet (via helper): give chicken and ""yellow powder"" only, no pumpkin",helper (Care chat)
-2024-11-20,stool,"Very dark stools 20-21 Nov 2024, days after HCT 18.9% on 17 Nov; GI blood possible, charcoal also possible",Care chat photos
-2024-11-20,medication,"KD Vet: prednisolone ""almost 1 month"", antibiotic ""1 weeks"", anti-bleeding ""4 days only"", ""one dose of anti-vomit injection""",mother (family chat)
-2024-11-26,diagnosis,"Acupuncture: ""left body side has signs of pain""; vet calls him a ""medical miracle""",pet taxi
-2024-11-27,vet visit,"Acupuncture vet: ""left pulse quality proves there is some pain (likely on his left body side)""; ""medical miracle"" boy",owner (family chat)
-2024-12-02,care,Kuro moved temporarily to the old house because of workers; bed placed on fishpond enclosure,father (family chat)
-2024-12-03,weight,"""Kuro is OK but thin a bit""",father (family chat)
-2024-12-04,other,"Animal communicator: ""really tired"", body ""collapse"", ""dizzy and disoriented"" at times; ""my hip hurts when I get up"" (right); likes warm soft orange stew",owner (family chat)
-2024-12-10,symptom,"""changes in his sight... Maybe not seeing as well""; more sensitive to acupuncture needles",pet sitter
-2024-12-13,vet visit,Acupuncture centre moved to a new location,owner (family chat)
-2024-12-19,behaviour,"""He pee on pee pad""",owner (family chat)
-2024-12-21,other,Kuro travelled with family to Penang (outing to Straits Quay),father (family chat)
-2024-12-28,vet visit,"""Kuro normal acupuncture 30 mins Today cut to 10 mins"" (reason not given)",owner (family chat)
-2024-12-31,behaviour,"At Furbulous, a small dog was ""angry at kuro""",owner (family chat)
-2025-01-05,cost,Pet taxi to vet: RM143.58 two-way for 6 Jan; RM156.46 each for 22 and 24 Jan; 'Total: RM456.50',owner (family chat)
-2025-01-06,vet visit,"Vet visit: 'Kuro tumor increase in size' '2cm'; 'Doctor say very good already, it's slow increase'; tried to 'steal cat food'",owner (family chat)
-2025-01-23,dental,Teeth brushing; plaque on back teeth hard to remove,pet taxi
-2025-02-07,symptom,"""hind left leg shiver abit""; vet: ""left kneee is abit bad""",pet taxi
-2025-02-09,test result,"""Red blood cells count improved significantly""; ""mild elevated in urea could be due to mild dehydration""; weight 20.9 -> 21.2 kg",vet (FurKids chat)
-2025-02-09,symptom,"""mild coughing occasionally""",owner (sitter chat)
-2025-02-10,weight,"'kuro put on weight'; vet and grooming double-booked; he needs 'vet, groomer, acupuncture'",owner (family chat)
-2025-02-10,care,Owner asks helper to feed Kuro and move water indoors because construction dust outside,owner (family chat)
-2025-02-13,symptom,Mother confirms an item 'For Kuro' for '半夜拉肚子' (night-time diarrhoea),mother (family chat)
-2025-02-16,skin,Tail fur grew back (mother: 'Yes'); owner: 'Gaining weight',mother (family chat)
-2025-02-20,diet,Owner asks to buy beetroot for Kuro; father: 'Kuro want to eat some more',owner (family chat)
-2025-02-25,cost,"RM1,008 paid to AsiaPaws for acupuncture, '15 sessions total'",owner (family chat)
-2025-02-27,symptom,"""left side more pain""; ""did snap at us when pain""; supplement given",pet taxi
-2025-02-28,supplement,"AsiaPaws vet: 'he is in great pain'; dispensed Schuessler Tissue Salt No. 3 Ferrum Phos, No. 7 and Magnesium Oil for paws/ear flaps; RM207",owner (family chat)
-2025-03-05,dental,"Gums: ""No bleeding but he said it hurts sometimes""",owner
-2025-03-06,behaviour,'He is super active now'; owner asks father to check teeth for cavities and try raw carrot for teeth cleaning,mother (family chat)
-2025-03-09,weight,"20.5 kg; earlier ""20.9 then 21.5""",pet taxi
-2025-03-09,vet visit,"FurKids: blood test; dental advice ""crunchy item""; meds and supplements",pet taxi
-2025-03-09,test result,"Liver parameters ""elevate slightly... acceptable""; ""condition is stable""",vet (FurKids chat)
-2025-03-09,supplement,"Reminder to give supplements, 'the four bottles in fridge'",owner (family chat)
-2025-03-12,weight,Kuro weighed '29 kg' in 2022 ('he fat'),owner (family chat)
-2025-03-19,other,No known allergies,owner
-2025-03-25,symptom,"Vet: ""sore"", needs ""warm compress and a massage""; poop ""mix of brown and green""; possible gas, charcoal pill",pet sitter
-2025-03-26,mobility,After acupuncture: 'Dr say he is sore'; mother: 'still as lively as a puppy',owner (family chat)
-2025-04-10,behaviour,Kuro 'break out from his cage n damaged the cage with a big hole',father (family chat)
-2025-04-15,symptom,"""breathing a bit labored"", ""gums sticky"", ""Stomach also more bloated"", panting, ""peeing a lot""; taken to vet",pet sitter
-2025-04-16,test result,"""red blood cells is improving""; ""Platelet rising as expected due to his cancer""; ""liver requires further support""; subcutaneous fluids",pet sitter
-2025-04-20,cost,Diapers at Furbulous RM3.65 per 12-piece pack dearer than at Pet More,mother (family chat)
-2025-04-23,supplement,Ordered AB (Adored Beast) Liver Tonic; AB Turkey Tail 'OUT OF STOCK',owner (family chat)
-2025-04-23,medication,"AsiaPaws vet noticed 'he's in pain'; homeopathy Arnica C30, '2-3 globuli' in water bowl and on food; complimentary",owner (family chat)
-2025-04-27,diagnosis,"House-call vet: ""Arthritis and some nerve pain""; ""He got a shot""",owner (sitter chat)
-2025-04-28,symptom,"Helper: ""His leg was stiff as if he was sick, it was hard to walk"" (right back leg)",helper (Care chat)
-2025-04-29,injury,"Leg wound ""looks terrible""; ""right side is inflamed and painful""",pet taxi
-2025-04-29,supplement,Owner asks if milk thistle was bought; mother 'Can't find exactly same',owner (family chat)
-2025-04-30,skin,Skin lesion on hindquarter (photo); e-collar from 1 May 2025,Care chat photos
-2025-04-30,skin,"Owner describes wound: 'Open and possibly ulcerated, with a central area of tissue loss'; worried about 'Deep pyoderma'",owner (family chat)
-2025-04-30,medication,House-call vet gave 'antibiotics n Galliprant n other supplements'; Australian cream applied 'thrice a day'; 'can walk properly now',father (family chat)
-2025-05-01,symptom,House-call vet called 2025-04-27 for limping and trouble getting up,owner
-2025-05-01,diagnosis,"""abrasion wound due to pain in the hind leg""; wound cleaned; fur shaved",pet taxi
-2025-05-01,medication,"Wound cream; painkiller; cone; ""all the meds stop only nerve supplements continue""",owner
-2025-05-01,medication,"Pain-killer injection; wound care: wash with the pink solution, rinse with clean water, pat dry, apply a thin layer of cream",vet (FurKids chat)
-2025-05-01,behaviour,Father: with the cone he was 'upset n moody',father (family chat)
-2025-05-02,mobility,Owner shares link to a rear-support dog wheelchair,owner (family chat)
-2025-05-04,medication,"""reduced appetite""; x-ray ""to ensure his tumour has not grown""; ""Dosage for pain management increased""",owner (sitter chat)
-2025-05-06,injury,"Wound ""still a bit red and has not fully healed""",family
-2025-05-06,diet,"'Kuro not eating'; owner asks for mushrooms and blueberries; 'He got tooth ache', blend food; 'he needs more mushy food'",owner (family chat)
-2025-05-12,skin,Father checked legs: 'Healing good',mother (family chat)
-2025-05-13,supplement,Pawhonest supplements ordered for Kuro; 'Long delays',mother (family chat)
-2025-05-15,medication,"Pain remedy: ""two to three in his water bowl""",pet taxi
-2025-05-15,symptom,"""struggling to get up to walk into the room""",pet taxi
-2025-05-16,care,"Hot/cold gel pack applied to hindquarters and hips by the helper, roughly twice daily in Jun 2025 and nightly from Jul 2025 to Apr 2026 (see home_care.csv)",Care chat photos
-2025-05-16,other,Animal communicator session; owner relays 'He says he doesn't want surgery',owner (family chat)
-2025-05-23,cost,"Pet sit plus pet taxi to AsiaPaws RM60 per day, Wed/Fri 11-27 Jun 2025 (twice-weekly acupuncture)",mother (family chat)
-2025-05-29,ears,"""Ears dirty. Other than that is fine""",groomer (grooming chat)
-2025-06-23,care,Owner asks helper to brush Kuro's teeth; repeated reminders Jul-Sep 2025,owner (family chat)
-2025-06-24,weight,Father: 'he too fat lah',father (family chat)
-2025-06-26,dental,"Foam on molars; ""back teeth might have discomfort""",pet taxi
-2025-06-29,cost,"Reiki for Kuro via animal communicator: 'about 10 sessions', 'One session is 80' (SGD)",owner (family chat)
-2025-07-02,diet,Owner asks to buy coconut water for Kuro,owner (family chat)
-2025-07-03,symptom,"""discomfort in the stomach""; ""gassy in the stomach""",pet taxi
-2025-07-03,medication,"Charcoal pill ""half a tablet""; powder ""one small scoop""",pet taxi
-2025-07-10,symptom,"""leg hind left side abit pain""",pet taxi
-2025-07-14,behaviour,Cage door left open but 'He didn't come out the whole day',father (family chat)
-2025-07-15,test result,"""latest blood work came back and ALT is a bit high""",owner
-2025-07-15,test result,"""blood test is all good, with mild elevation in urea could be due to dehydration""",vet (FurKids chat)
-2025-07-17,symptom,"""right and left hind leg abit painful""",pet taxi
-2025-07-24,symptom,"""left side of his body hurts abit more""; hot pack on hip",pet taxi
-2025-07-25,mobility,"Mother: no air-con for Kuro, 'He has arthritis'; owner asks helper to 'massage left back leg'",mother (family chat)
-2025-07-31,grooming,Mother asks groomer not to do dental work: 'Kuro can't take it anymore',mother (family chat)
-2025-08-05,diagnosis,"""the sore due to aging""",pet taxi
-2025-08-07,symptom,"""knee might be in pain""; more on left hind leg",pet taxi
-2025-08-07,cost,Paying FurKids; family says no invoice was sent for the 23 Oct 2024 FurKids visit,mother (family chat)
-2025-08-10,diagnosis,Owner: 'doctor say he is ticking time bomb'; father: 'Old but strong n healthy',owner (family chat)
-2025-08-10,diet,Had 'egg from mom' and 'beef soup',father (family chat)
-2025-08-12,test,"T4 (thyroid) test suggested because ""heart rate is abit slow""",pet taxi
-2025-08-19,symptom,"""lower back abit sore""; ""hip part pain""",pet taxi
-2025-08-19,appetite,"""stopped eating pumpkins and sweet potatoes""",owner
-2025-08-27,vet visit,Late for vet appointment because 'pet taxi car broke down'; switched to another car,owner (family chat)
-2025-08-28,medication,"Mouth spray ""Three to four sprays""; magnesium oil spray in ears",owner
-2025-09-03,grooming,"Kuro taken for grooming 4 pm, collected 6 pm",owner (family chat)
-2025-09-09,symptom,"""poop is quite black today""; stool shape changed",pet taxi
-2025-09-11,symptom,"""right side hip pain""; ""walk abit weird""",pet taxi
-2025-09-11,medication,"Pills ""every 1/2 or 1hr in his water""",pet taxi
-2025-09-23,other,"Animal communicator reading: on fast turns 'legs splay out'; 'sharp pain as I am eating', worse at night",owner (family chat)
-2025-10-01,symptom,Owner recalls Kuro peed on the carpet at home (graduation photo time),owner (family chat)
-2025-10-06,behaviour,'kuro pacing back and forth' before rain,owner (family chat)
-2025-10-13,symptom,"""shaking his head more the last month""",owner (sitter chat)
-2025-10-21,weight,'Kuro was 22.5' 'Now 21.9' kg,owner (family chat)
-2025-10-22,skin,'Kuro wet stink odor',mother (family chat)
-2025-10-28,care,Mother: 'kuro acupuncture once a week is enough',mother (family chat)
-2025-10-30,medication,"""one needle near his neck to relieve some pain""",pet taxi
-2025-11-10,test result,"""liver is improving, kidney function is perfect including the SDMA reading""; ""pancreatitis is flaring up"", lipase ""from 2000+ last month to 4000+ today""; pancreatic lipase test run",vet (FurKids chat)
-2025-11-10,medication,Pain killer and gastroprotectant for 10 days; strict low-fat diet for one month,vet (FurKids chat)
-2025-11-25,diet,"Diet change: beef lung, carrot, long beans, mushrooms, goji berry, dory fish; 'no liver'; 'lung and heart is OK'; 'Twice a day'",owner (family chat)
-2025-11-28,mobility,Mother: 'running around like a horse',mother (family chat)
-2025-12-06,mobility,"Back legs 'Look stiff', massage requested; father: 'so nimble n can jump'",owner (family chat)
-2025-12-09,care,Helper to 'spray Kuro teeth' with mouth spray,owner (family chat)
-2025-12-19,symptom,"""small bump on his left eye upwards""",pet taxi
-2025-12-21,symptom,"Stool ""abit soft when ending""; panting more on a hot day",pet taxi
-2025-12-29,diagnosis,"Bump: ""small cyst that can be popped""",owner
-2025-12-30,symptom,"Left hind limp: ""possible... mild sprain or strain""; slipped once in clinic; paw pad ""quite red""; rest a day or two",vet (FurKids chat)
-2025-12-30,mobility,'Kuro limping'; 'kuro paw bleeding',owner (family chat)
-2026-01-06,symptom,"""not hydrated well""",pet taxi
-2026-01-15,dental,"Dental cleaning at Asia Paws in Jan 2026 (owner's recollection; month only, no written record found). His previous professional cleaning was by the groomer in Jan 2024.",owner (recollection)
-2026-01-22,symptom,"""abit of pain for hind leg n hip""; pain relief given",pet taxi
-2026-02-03,test result,"""overall reading good""; ""reading a little high but not too concerning""",pet taxi
-2026-02-03,medication,"Pancreas supplement, multivitamin, steroids",pet taxi
-2026-02-03,test result,"""No anemia, liver and kidney parameters are all within normal range""",vet (FurKids chat)
-2026-02-03,diet,'Tell the helper do not feed EASY PEASY',owner (family chat)
-2026-02-04,medication,"Prednisolone 5 mg: take 0.5 tablet every other day for 30 days, after meal (FurKids label)",clinic label
-2026-02-04,medication,"Protexin Pro-Enzorb: 1 capsule once a day for 30 days, sprinkled in food (FurKids label)",clinic label
-2026-02-12,skin,'Kuro white face turning black',mother (family chat)
-2026-02-15,care,Wearing a diaper or belly wrap (photos),Care chat photos
-2026-02-19,symptom,"""inflamme on the right side and pain abit om the left side hind legs""",pet taxi
-2026-03-05,behaviour,Mother: 'Kuro is calmer can sleeps well'; 'he don't need long term frequent reiki treatment',mother (family chat)
-2026-03-07,symptom,Stained bedding under him (photos); absorbent pads bought 8 Mar,Care chat photos
-2026-03-15,symptom,Right cheek possibly swollen near nose,owner
-2026-03-16,test result,"Cheek ""Touch of it is fluid""; ""abit anemic""",pet taxi
-2026-03-16,medication,Liver supplement,pet taxi
-2026-04-01,weight,'Kuro look thin' (1 and 13 Apr); owner will buy turkey tail,owner (family chat)
-2026-04-03,mobility,Owner after a photo: 'Bring to vet' 'Maybe broken leg',owner (family chat)
-2026-04-13,grooming,New groomer; 'be careful with Kuro belly'; owner asks to find YuMove supplement,owner (family chat)
-2026-04-15,diet,"Mother adds Kuro portions to her home cooking incl. 茼蒿 (crown daisy), 'Kuro like it very much'",mother (family chat)
-2026-04-19,medication,"Usual meds: prednisolone, calcium/phosphorus",family
-2026-04-19,symptom,"""hind legs not much strength""; ""couldn't get up"" after pooping",pet taxi
-2026-04-19,test result,"""Suspect got infection so anitbiotcs""; ""Kidney okay, liver abit high""",pet taxi
-2026-04-19,medication,"Joint supplement, eye drops, prednisolone, infection meds; ""one jab for red blood cell count""",pet taxi
-2026-04-20,test result,"Red cell count 36% -> 37%, ""still below the normal range""; kidney good ""including SDMA""; liver ""mildly elevated""; hind limbs slightly weak, ""discomfort on palpation around the hip joint""; weight 22.2 -> 20.6 kg",vet (FurKids chat)
-2026-04-20,medication,Darbepoetin injection; Samylin to be taken regularly; Antinol joint supplement started,vet (FurKids chat)
-2026-04-25,mobility,'Leg a bit weak'; 'Maybe need to take him to acupuncture',owner (family chat)
-2026-05-03,care,Owner asks to clean Kuro's ears and use eye drops,owner (family chat)
-2026-05-07,care,Mother: 'no need alternative day for acupuncture'; alternate-day schedule 'a bit too commercial',mother (family chat)
-2026-05-16,care,"Twice-weekly acupuncture follow-ups booked at AsiaPaws, 20 May-5 Jun 2026",owner (family chat)
-2026-05-17,test result,"""Liver okay""; kidney ""due to dehydration abit off""; ""Anemic abit so jab""",pet taxi
-2026-05-19,diet,"Smaller frequent meals: ""Every meal is 200g plus probiotics 3 meals a a day""",family
-2026-05-19,diet,'Currently Kuro has 3 meals a day. Tomorrow increase to 4 meals'; feeding chart with water 'every 2 hours',father (family chat)
-2026-05-21,symptom,"""heart rate is slightly slower today""",pet taxi
-2026-05-22,supplement,"AsiaPaws vet does not give probiotics, 'Only Chinese medicine sometimes'",owner (family chat)
-2026-05-30,supplement,AsiaPaws: Chinese Herbal Medicine 'will greatly benefit Kuro'; 5 Jun prescription to 'keep it in the fridge',owner (family chat)
-2026-06-04,diagnosis,"""Pain generally as due to aging""; ""Hearts is okay just slow""",pet taxi
-2026-06-05,care,'Pls brush Kuro teeth once a week',owner (family chat)
-2026-06-09,symptom,"""peed on himself cause he couldn't get up with his back feet""",pet taxi
-2026-06-10,vet visit,"AsiaPaws acupuncture: 'unable to stand due to significant hind limb weakness', 'found lying in urine'; 'Qi Deficiency'",owner (family chat)
-2026-06-10,care,"Vet instructions (recalled 26 Oct): help urinate 'at least four times a day', water within reach, medication twice daily, report walking difficulty",owner (family chat)
-2026-06-10,supplement,Mother asks about ginseng for qi; owner: ask the vet about dog dosage and drug interactions,mother (family chat)
-2026-06-11,symptom,'Kuro is able to poop n pee on his own today',father (family chat)
-2026-06-17,care,Helper walks Kuro in the backyard on leash 'three times a day',mother (family chat)
-2026-06-30,symptom,"Lower body fur ""smells like pee"", ""very matted""",pet taxi
-2026-07-01,diagnosis,"""concerns of bacteria infection possible""; ""Worried urine burn and also weight loss""",pet taxi
-2026-07-01,test result,"""liver and kidney count abit high but manageable""",pet taxi
-2026-07-01,test result,"Red cells ""still slightly low, but... acceptable""; kidney and liver normal; ""urine staining on the underside"", risk of ""urine scald""; weak hind limbs; weight 19.9 -> 19.5 kg, ""lower limit of his ideal body weight""",vet (FurKids chat)
-2026-07-01,diet,"Increase daily meals by 10-15% to keep weight at 19.5-20 kg; iron daily; daily wipes, shower once or twice a week",vet (FurKids chat)
-2026-07-07,diagnosis,"Left hind leg growth ""lentil size""; armpit/chest growth ""cherry size (elastic - may be a lipoma)""; ""non-inflammatory""",vet (relayed by owner)
-2026-07-07,diagnosis,"Heart, lungs, lymph nodes normal; ""clear of any clinical tumor metastasis signs""; ""sarcopenia (muscle atrophy)""",vet (relayed by owner)
-2026-07-07,care,"Toilet help ""4 fixed / absolutely regular times daily""",vet (relayed by owner)
-2026-07-07,cost,"Pet taxi to AsiaPaws Wed/Fri in July; pet sitting RM60 per day, RM70 Saturday, 'Total ... 250'",owner (family chat)
-2026-07-10,mobility,Anti-slip paw grips 'suggested by doc to help his grip',owner (family chat)
-2026-07-21,symptom,"""peed a lot more than usual""",pet taxi
-2026-07-30,symptom,"Large stool ""abit black""; pooped lying down",pet taxi
-2026-07-31,symptom,'Kuro poop while lying down'; helper says he poops and pees on the grass,owner (family chat)
-2026-08-09,vet visit,"""Lungs and heart are good""; blood test; jab",pet taxi
-2026-08-10,test result,"""blood work is looking stable""; ""slight drop in his red blood cell count... not concerning""; urea ""over 17"", concern if ""above 20""; kidney supplement added; about 1 litre of water a day; anti-slip mat",vet (FurKids chat)
-2026-08-19,grooming,"Bathed by helper; owner: 'Kuro not dry', 'must blow dry'",owner (family chat)
-2026-08-30,care,'Put apple into Kuro water bowl so he will drink more water',owner (family chat)
-2026-09-08,injury,"Wound, ""looks like he nibble it""; ""abit of inflammation""",pet taxi
-2026-09-10,injury,"Wound ""looks bigger today""",pet taxi
-2026-09-14,medication,"""Inflammation so giving antibiotics And one jab""; Advocate for parasites",pet taxi
-2026-10-01,symptom,"""Hind legs weak""; heart and lungs good",pet taxi
-2026-10-02,vet visit,"AsiaPaws: 'clear' apart from 'progressive hind limb weakness'; hind limb and spine muscles 'crampy'; recommends home massage therapy; to ""continue making his life heaven on earth""; offered a home-visit massage therapist trained by the vet",owner (family chat)
-2026-10-04,grooming,Kuro at grooming,owner (family chat)
-2026-10-06,medication,"Chinese medicine for ""hind legs not much strength""",pet taxi
-2026-10-07,medication,Asia Paws dispensed Si Miao San 15 g (anti-inflammatory) and Xiao Chai Hu Tang 15 g (to strengthen the hind legs),"vet (Asia Paws, family chat)"
-2026-10-09,vet visit,"""He came in yesterday and he was doing much better""; helper reminded to continue the herbs","vet (Asia Paws, family chat)"
-2026-10-15,symptom,"""Right side back area painful""; leaning right",pet taxi
-2026-10-16,care,Vet recommended a red-light therapy mat (660/850 nm) for better blood flow and to ease stiffness and pain,"vet (Asia Paws, family chat)"
-2026-10-18,death,"Kuro died (local date, per the owner's message the next day)",owner (FurKids chat)
-2026-10-18,end of life,Owner earlier that afternoon: 'Why he look so dirty',owner (family chat)
-2026-10-18,end of life,Father: Kuro 'fallen accidentally into the pond'; searched garden first; pulled out about 6.48 pm; father suspects 'weakness in his legs',father (family chat)
-2026-10-19,post mortem,"""large tumour in the spleen, with evidence of partial splenic rupture"" that ""did not appear to be a fresh, acute event""; liver ""grossly normal""; kidneys, bladder and intestines without significant abnormalities; heart without significant gross abnormality",vet (FurKids chat)
-2026-10-19,post mortem,"Lungs: ""pulmonary congestion with possible focal haemorrhage"", no severe oedema or chest fluid; dark red blood from the nostril",vet (FurKids chat)
-2026-10-19,post mortem,"Stated cause: ""sudden death in a geriatric dog with significant underlying splenic disease, potentially involving acute circulatory or cardiopulmonary compromise. The exact cause and terminal mechanism remain undetermined."" No official report issued.",vet (FurKids chat)
-2026-10-19,end of life,Post-mortem owner form: time of passing '5 pm'; 'Drowned in the fish pond'; first noticed unwell: 'Nothing',father (family chat)
-2026-10-19,diagnosis,"Father: eyes 'not seeing clearly', 'doctor also confirmed he has cataract'; he brushed teeth, applied eye gel, washed ears",father (family chat)
-2026-10-20,end of life,"Vet 'cannot confirm whether Kuro collapsed before entering the pond, drowned after entering it, or experienced another terminal event'",mother (family chat)
-2026-10-21,post mortem,"""some free blood within the abdominal cavity, but the amount was not significant""; large acute abdominal bleeding ""less likely"" a major factor, chronic or intermittent bleeding not ruled out; ""It was a huge mass""",vet (FurKids chat)
-2026-10-21,end of life,Owner: FurKids sewed the body neatly after the post-mortem; mother: no wound visible,owner (family chat)
-2026-10-25,supplement,"Mother says liver tonic follow-up was delayed a few days, 'not more than 3 days'",mother (family chat)
-2026-10-26,symptom,Owner: urine soiling first found by vets/pet sitter on 10 Jun and 30 Jun; mother: afterwards helper lifted him 'every hour',owner (family chat)
-2026-10-26,supplement,Owner: mother had told AsiaPaws no probiotics needed because FurKids supplied them,owner (family chat)
-2026-10-29,symptom,Owner: Kuro was 'panting' and 'One week before already sitting in middle of patio',owner (family chat)
-2026-10-30,care,Owner: Kuro seen wet and not dried; father: helper was told to blow-dry him whenever wet,owner (family chat)
+"date","category","summary","reported_by"
+"2020-11-10","weight","Owner comments 'Kuro fat' on photo; repeated 'Fat dog' remarks Dec 2020.","owner (family chat)"
+"2021-01-04","vet visit","Father at vet clinic with Kuro (long wait). Vet said 'Kuro overweight 他需要減肥'.","father (family chat)"
+"2021-01-04","weight","Weight '31kg last year was 25kg' per vet visit.","mother (family chat)"
+"2021-01-05","diet","Owner: 'Don't let him eat treats anymore. Fattening'. Mother: 'Kuro don't like banana'; treats withheld two days (8 Jan).","owner (family chat)"
+"2021-02-08","behaviour","Kuro afraid to cross an 'invisible border' in garden ('mental block'); owner says he is 'Afraid of new things'.","mother (family chat)"
+"2021-03-31","behaviour","Kuro dug many holes in backyard and overturned small plants.","mother (family chat)"
+"2021-05-31","other","2017 photo shows 'No white fur'; father: 'He is Aging already'. White fur on rump noted 22 Jul 2021.","father (family chat)"
+"2021-06-04","grooming","Owner: 'No grooming like homeless'; repeated 26 Aug 2021 'Bring him grooming lah'.","owner (family chat)"
+"2021-06-29","care","Mother giving Kuro eye drops at home (squats, holds head); eye-drop videos/reminders again 23-25 Aug 2021.","mother (family chat)"
+"2021-07-11","supplement","Kuro licked bowl clean of spirulina; spirulina fed (mother confirms he likes it, Oct 2022).","father (family chat)"
+"2021-07-16","supplement","Mother: 'Glucosamine still there' (context: Kuro's supplies).","mother (family chat)"
+"2021-07-29","behaviour","Kuro slept from morning till afternoon; 'sleep eat sleep' (father, Dec 2021).","mother (family chat)"
+"2021-09-13","diet","Owner orders weight loss: 'intermittent fasting 5 days', 'No morning treats'; mother: dog food with egg yolk, 'No more tit bit'.","owner (family chat)"
+"2021-09-15","skin","'Kuro itchy paw' (owner); mother says they will treat him.","owner (family chat)"
+"2021-09-22","diet","Owner: 'Give kuro less dog food. More egg or meat. Then he will lose weight'.","owner (family chat)"
+"2021-09-24","skin","Owner asks family to 'Give kuro skin treatment' (photos of product).","owner (family chat)"
+"2021-10-05","weight","Mother: 'Kuro is obese liau'.","mother (family chat)"
+"2021-11-02","symptom","Owner: 'his eyes blur blur now', asks for eye drop; father: 'Dropped already'; Kuro food running out.","owner (family chat)"
+"2021-11-06","prevention","Owner asks if Kuro brought to vet: 'Need vaccine'. 9 Nov asks family to check Kuro for kidney issues.","owner (family chat)"
+"2021-11-13","vet visit","Vet check: 'All normal', 'Ideal weight is 26'. Kuro 'popular in the clinic'.","mother (family chat)"
+"2021-11-13","prevention","Vaccination at 13 Nov visit; father: 'Need to rest one day after vaccination then can groom n bath'.","father (family chat)"
+"2021-11-13","grooming","Father asked groomer for 'botak' shave; owner objects 'not healthy for kuro, short hair can'. the groomer; haircut 14 Nov.","owner (family chat)"
+"2021-11-13","care","'Kuro boarding in pet shop one night, grooming tomorrow'.","mother (family chat)"
+"2021-11-13","supplement","Owner shares photos of 'Kuro supplements' and fish treats.","owner (family chat)"
+"2021-11-22","diet","Treats bought from Furrenz (Shopee); 31 Dec: opened treats to finish within 30 days, store cool/dry or freezer.","owner (family chat)"
+"2021-12-26","other","'Kuro entire chin also white liao'; owner: 'Kuro look so old'.","owner (family chat)"
+"2021-12-30","behaviour","'Kuro search for any left over food'; owner: 'So greedy'. Mother: 'messy fur'.","father (family chat)"
+"2022-01-15","care","Owner reminds: 'Eye drops kuro. Did u put'.","owner (family chat)"
+"2022-01-18","grooming","the groomer: Kuro 'very active has white hair only', not old. Owner asks about 'Dog food for senior dog'.","mother (family chat)"
+"2022-01-26","care","Owner: 'make sure kuro water bowl no mold' (saw mold before); father: helper cleans daily.","owner (family chat)"
+"2022-01-28","care","Kuro 'living outdoor'; owner orders elevated breathable mesh dog bed ('anti skin disease'); groomer warns he chews beds.","mother (family chat)"
+"2022-02-16","care","Owner asks for eyedrop and tooth brushing: '我怕他掉牙' (afraid he loses teeth); 'he no brush teeth'.","owner (family chat)"
+"2022-03-10","other","12th birthday; Kuro ate a cake in one bite (topping scraped off).","mother (family chat)"
+"2022-03-28","other","Breed identified as 'Aussie golden mix' (Australian Shepherd x golden retriever; mother was golden 'Gladys').","owner (family chat)"
+"2022-04-02","diet","Owner orders 'special dog food'; mix 'Half half' with current food, not abrupt switch. Delivered 5 Apr ('still soft soft').","owner (family chat)"
+"2022-04-07","symptom","Possible constipation discussed: 'Hard poo' (father) though 'he poop twice a day'; owner asks about stool 'After raw meat'.","father (family chat)"
+"2022-04-10","supplement","Owner buys supplement from Malaysian online store; treats are 'kangaroo meat from Australia'.","owner (family chat)"
+"2022-04-18","care","'brush teeth daily'; give 'kangaroo teeth cleaner' bone; Kuro chewed ~2 hours (19 Apr).","mother (family chat)"
+"2022-04-28","other","Animal communicator (Laura) session: Kuro said 'my hips and knees are getting much sorer', 'hard sometimes to get up'; likes lower back massage.","owner (family chat)"
+"2022-05-03","skin","'He looks like no more itchy now. Maybe food allergies'; mother: 'feed him wrong dog food'.","owner (family chat)"
+"2022-05-09","behaviour","Kuro retreats to his cage when raining; owner asks to buy larger dog cage.","owner (family chat)"
+"2022-05-28","vet visit","Vet visit for leg lump: '1) lump due to old age 2) infection due to injuries'. 'take antibiotics n see how the lump develop'.","mother (family chat)"
+"2022-05-28","medication","Antibiotics prescribed for leg lump; observe five days.","mother (family chat)"
+"2022-05-28","symptom","Kuro whining on leash; owner: 'Don't pull the leash too hard. Old dog throat is fragile'. Owner shares bone cancer article.","owner (family chat)"
+"2022-05-28","other","Owner suggests Asian Veterinary Diagnostics (avd.asia) incl. 'genetic testing', and Gasing vet hospital.","owner (family chat)"
+"2022-05-31","symptom","Owner: 'I think kuro legs stiff leh. Can u massage pls'.","owner (family chat)"
+"2022-06-01","vet visit","Appointment booked 'Saturday 12 noon, Kuro appointment with the vet at the Yeoh clinic'.","father (family chat)"
+"2022-06-04","behaviour","'He always scared' crossing the pond 'because he slipped before'.","owner (family chat)"
+"2022-06-04","vet visit","the vet at the Yeoh clinic: 'Kuro will stay there for surgery due to excess fat in the leg'; 'Old age problems'. Home 3:30 pm same day.","father (family chat)"
+"2022-06-04","care","Post-surgery leg bandaged; owner asks if rewrapped with new bandage.","owner (family chat)"
+"2022-06-06","behaviour","Kuro 'upset with us' after surgery ('angry old man'); owner worried 'something else wrong', suggests Gasing vet.","mother (family chat)"
+"2022-06-07","skin","Owner: 'Kuro leh look red. Pls make sure no rain on leg. U can put bandage on'.","owner (family chat)"
+"2022-06-07","diet","Raw diet includes '兔肉牛肺' (rabbit meat, beef lung); 'he 不挑吃'. 15 Jun: 'Kuro meat left only 7 bags'.","owner (family chat)"
+"2022-06-18","test result","Owner wants Kuro at Gasing vet to 'Do blood test'; Gasing vet hospital is walk-in only (20 Jun).","owner (family chat)"
+"2022-06-21","care","While family travels, helper 'coming daily to feed him but no raw meat meals'; owner suggests boarding (Fetch Me Later), the groomer.","mother (family chat)"
+"2022-06-21","cost","Boarding quoted 'Price is 90 per night'; pre-visit required.","owner (family chat)"
+"2022-06-22","weight","Boarding form: 'Aussie + Golden mix', age 12, 'Weight: 28kg', neutered 'Yes'; temperament docile, barks at dogs.","owner (family chat)"
+"2022-06-22","care","Leg wound 'A lot much better'.","mother (family chat)"
+"2022-06-26","symptom","'Kuro vomit in car. Maybe car sick'.","owner (family chat)"
+"2022-07-13","test result","Owner asks family to call 'gasing vet ask for kuro results', '2 weeks liao' (blood test ~late Jun 2022); still asking 16 Jul. No result in chat.","owner (family chat)"
+"2022-07-13","supplement","Owner bought 'treat and probiotics for kuro' in Singapore.","owner (family chat)"
+"2022-07-14","other","Communicator questions reveal past events: Kuro once 'missing for three weeks' (escaped from vet clinic to jungle); 'bump on Kuro's leg'.","owner (family chat)"
+"2022-07-14","medication","Kuro 'only want dad to feed him medications'; communicator notes say 'medicine sort of gave me a belly ache' (20 Jul).","owner (family chat)"
+"2022-07-18","grooming","Grooming with the groomer (Ara Damansara, PJ); overnight possible.","mother (family chat)"
+"2022-07-19","diet","Regular dog food delivery subscription; 20 Jul 'feed kuro the PetChef meals' before expiry.","owner (family chat)"
+"2022-07-20","diet","Mother gave Kuro salmon skin.","mother (family chat)"
+"2022-07-22","supplement","'add fish oil for kuro'; 'probiotic powder from Singapore'; 'dont buy anymore treats... not good for kidnye'.","owner (family chat)"
+"2022-07-23","care","Cooling gel mat recommended and approved; 'add the drops into kuro food' (from supplement table).","mother (family chat)"
+"2022-07-27","care","'use the mouth cleanser to spray into kuro mouth. No need to brush'. Reminded again 13 Aug.","owner (family chat)"
+"2022-07-30","skin","'Kuro a lot of dandruff. Pls bring him grooming soon'.","owner (family chat)"
+"2022-08-03","diet","'Don't feed kuro treats liao. Just give him supplements'; 'I scared he leg cannot moved'.","owner (family chat)"
+"2022-08-13","diet","PetChef subscription meal 'only 250gram per packet', may change to 300 g; feed supplement too. Cooked food batches Aug-Nov 2022.","owner (family chat)"
+"2022-08-15","skin","'Itchy. Pls bring grooming la'.","owner (family chat)"
+"2022-09-11","diet","'No treat for Kuro since the salmon fish skin and mussel finished'; eats 'frozen dog cooked foods'.","mother (family chat)"
+"2022-09-15","symptom","'Kuro eyes not so swollen now'; owner: 'Eyes bulging means hypo thyroidism'.","owner (family chat)"
+"2022-09-30","care","'Pls clean Kuro ears'; 5 Oct ear cleaning, 'He stressed'.","owner (family chat)"
+"2022-10-05","other","'Kuro last time like to jump and bite. Now old liao. No jump'.","owner (family chat)"
+"2022-10-19","grooming","'Kuro toe nails very long'; grooming booked Saturday 22 Oct 11am.","owner (family chat)"
+"2022-10-22","symptom","Car sickness: 'drooling a lot'; poops after every car ride.","owner (family chat)"
+"2022-10-23","weight","'Dad always said Kuro very thin', 'can feel his bone when wash him'; owner: 'Maybe can feed him two meals a day'.","mother (family chat)"
+"2022-10-24","diet","Owner suggests 'some healthy treat... Not too many'; baked pig skin treat and new plate.","owner (family chat)"
+"2022-10-25","skin","'kuro maybe easy itchy after grooming. Less fur to protect'; 30 Oct 'many bugs attack him', spray vinegar.","owner (family chat)"
+"2022-10-31","prevention","Father: 'We got shampoo for lice n ticks for Kuro'. 2 Nov: 'No itchy now'.","father (family chat)"
+"2022-11-27","supplement","'Pls rmbr feed Kuro the black color supplement pls. Important'.","owner (family chat)"
+"2022-11-29","symptom","Head shaking; mother: 'shake head means ear itchy?'; owner: 'usually'.","mother (family chat)"
+"2022-12-13","skin","'He very itchy. Kuro'.","owner (family chat)"
+"2022-12-22","grooming","Shopping list: 'Dandruff shampoo (Kuro)', canned dog food for travel, floor brush for Kuro house.","owner (family chat)"
+"2023-01-07","vet visit","Vet visit (earlier clinic, Taman Megah): ""medicated ear drops"" and ""tablets for the skin issue""; intake form: ""current skin infection"", ""Food allergies: none""","owner (sitter chat)"
+"2023-01-09","grooming","New groomer groomer: 'basic or comfort grooming'; 'Basic grooming is just shower and ear cleaning and nail trim' every 5-6 weeks; first 1 Feb.","owner (family chat)"
+"2023-01-15","grooming","Owner: make sure shampoo washed off properly ('scared he eat the shampoo'); father: 'Wash a few times'.","owner (family chat)"
+"2023-01-19","medication","Skin tablets from 20 Jan ""n alternate day""; ear solution ""two drops each ear""; ""Lots of wax today""","owner (sitter chat)"
+"2023-01-24","skin","Communicator said 'yellow flowers make Kuro itchy'.","owner (family chat)"
+"2023-02-01","supplement","'Did u feed Kuro supplements. The green capsule one'; dad feeds supplements every early morning.","owner (family chat)"
+"2023-02-04","medication","Father: 'Kuro medicines finished'.","father (family chat)"
+"2023-02-05","symptom","Diarrhea resolved ('Normal already'); father attributes to 'more water added in the food'. Kuro not wanting to go out.","mother (family chat)"
+"2023-03-01","medication","""no medication feeding anymore but adding just eye drops"", ""2-3 drops per eye""; ear cleaning continues","owner (sitter chat)"
+"2023-03-11","symptom","Scab seen; owner: medicated shampoo for ""skin infection"" since the January vet visit","owner (sitter chat)"
+"2023-03-13","skin","'Kuro need shower... Once a week. Medicated shampoo'; 'maybe allergic to dust at the back'.","owner (family chat)"
+"2023-03-16","care","New helper: owner insists dad feeds Kuro, helper must not give other food. 'Pls rmbr clean ears and eyes'.","owner (family chat)"
+"2023-03-19","behaviour","Owner notes 'tail no wagging'.","owner (family chat)"
+"2023-04-01","symptom","'Kuro look constipated. Can u buy him broccoli. Make sure he have water'. Again 12 Jul 2023.","owner (family chat)"
+"2023-04-06","grooming","Bath interval: '5 days ok la. 3 days not enough time for natural oil to come out'.","owner (family chat)"
+"2023-04-17","supplement","Glucosamine in stock; 21 Jun 'Kuro eat daily'.","mother (family chat)"
+"2023-04-18","diet","Fresh food ran short; bought 'dried dog food', owner: 'Pls add hot water'.","mother (family chat)"
+"2023-05-01","supplement","Owner bought '2 bottles supplement for Kuro'.","owner (family chat)"
+"2023-05-23","symptom","'Kuro right eye look white leh'.","owner (family chat)"
+"2023-05-28","test result","Owner: 'Kuro a bit low red blood count'; 'Need to find supplement for anemia'; suggests regular vet check-up.","owner (family chat)"
+"2023-05-28","prevention","Mother going to vet clinic 'To buy heart guard eye drops' (heartworm preventive and eye drops); ask vet re anemia supplement.","mother (family chat)"
+"2023-06-03","other","Owner later asks communicator 'What happened on 3rd June? Why did he leave the house?' (Kuro left house).","owner (family chat)"
+"2023-06-06","behaviour","Kuro growled at mother 'When raining and he don't want to be tied to bench'.","owner (family chat)"
+"2023-06-08","symptom","Owner: 'His eyes got catharac'; asks about eye drops.","owner (family chat)"
+"2023-06-14","skin","'How come Kuro chest so red'.","owner (family chat)"
+"2023-07-09","vet visit","Owner asks to bring Kuro to vet after Thailand trip: '6 months liao' since last visit.","owner (family chat)"
+"2023-07-18","care","'Must bring Kuro on more walks. Later joint weak cannot walk'; no jumping (21 Jun).","owner (family chat)"
+"2023-08-09","care","'give Kuro filtered water'; eyedrop - mother: 'Dad always do'.","owner (family chat)"
+"2023-09-07","vet visit","First Furkids Wellness Centre (Kota Damansara) consultation booked Sun 10 Sep 2023 4pm; chosen as near home, offers pet acupuncture.","owner (family chat)"
+"2023-09-10","test result","Vet: allergy cause ""not sure yet.. his blood tests are all ok""; continue medicated shampoo; two items added","owner (sitter chat)"
+"2023-09-11","symptom","'his teeth very bad leh'; needs 'teeth scaling'; 6 Oct mother: 'need to arrange Kuro for scaling'.","owner (family chat)"
+"2023-09-15","other","Kuro's sibling died Sep 2022 of tumour; owner: 'lucky u got check Kuro leg and lucky just excess fat'.","owner (family chat)"
+"2023-09-26","diet","Mother: 'egg for kuro'.","mother (family chat)"
+"2023-09-30","grooming","New shampoo from US (purple/white) for helper to use with conditioner; old 'tadaa shampoo' to be donated.","owner (family chat)"
+"2023-09-30","other","Mother: 'Kuro health and outlook has improved so much since diet changed plus supplements'.","mother (family chat)"
+"2023-10-01","diet","'Kuro sleep alot... exercise not enough'; 'Can feed more eggshells and liver and kidney'. Eggshells fed (26 Oct).","owner (family chat)"
+"2023-10-02","symptom","Owner: 'going blind liao' (context Kuro); 'kuro very enjoy neck massage'.","owner (family chat)"
+"2023-10-09","care","Cinnamon mouth freshener ('毛起来') pumped into Kuro's water for breath; teeth brushing reminder 22 Oct.","owner (family chat)"
+"2023-11-04","vet visit","Owner recalls 'the vet says he got a lot muscle for his age'.","owner (family chat)"
+"2023-11-05","care","""no meds! just the supplements""; ""regular ear cleaning + eye drops""","owner (sitter chat)"
+"2023-12-02","vet visit","Furkids Wellness Centre consultation booked Sun 10 Dec 2023 10am.","owner (family chat)"
+"2023-12-11","medication","New eye drop; a product ""2-3 pumps into his water""","owner (sitter chat)"
+"2023-12-13","behaviour","Kuro 'looks unhappy', 'uneasy' - 'Normally he is not like one'.","mother (family chat)"
+"2023-12-20","diet","'remind the helper again to feed Kuro pet chef. Not the other foods'.","owner (family chat)"
+"2023-12-25","symptom","""His skin got pretty bad scabbing""; itching returned ""when we reduced the dose"" of shampoo","owner (sitter chat)"
+"2024-01-15","dental","Teeth cleaned by the grooming service in Jan 2024; some plaque by Jun 2024","groomer (grooming chat)"
+"2024-01-17","grooming","Owner asks helper to ""Brush Kuro harder""","owner (family chat)"
+"2024-01-17","diet","Food to be reduced ""from 3 to 2 scoop""","owner (family chat)"
+"2024-01-18","diet","Nutritionist's proposed senior diet addresses ""weight lost"", ""high SDMA"" (controlled protein), ""low Retic"" (more iron, B12, B9), liver/gallbladder; adds ""Silymarin""","owner (family chat)"
+"2024-01-18","diagnosis","Owner: ""Cannot feed Kuro salty things anymore"" because ""His kidney not so good""","owner (family chat)"
+"2024-01-18","medication","Give ""last tablet of medicine, white color one"" (course ending)","owner (family chat)"
+"2024-01-21","weight","Mother reports Kuro ""lose weight""","mother (family chat)"
+"2024-01-24","care","Kuro wearing a bandage and ""cone collar""; ""He don't like bandage""; mother notes ""emotional distress"" (reason not stated)","owner (family chat)"
+"2024-02-05","medication","Dental liquid, Cosequin, chlorophyll pill, eye drop given","pet sitter"
+"2024-02-23","diet","Reminder: ""Pls don't feed him anything salty""","owner (family chat)"
+"2024-03-12","supplement","Owner: ""A lot of supplements haven't finished""; mother buying dog food at pet store","owner (family chat)"
+"2024-03-15","cost","Kuro birthday cake RM 380.30","owner (family chat)"
+"2024-04-04","behaviour","""Wooden floor bad for Kuro legs""; ""Too slippery very hard to get up"", pressure on joints; suggests mat or dog shoes","owner (family chat)"
+"2024-04-04","weight","Owner: bring Kuro for walks, ""need to lose weight""; father/owner later call him ""Fat dog"" (9 Apr)","owner (family chat)"
+"2024-04-10","symptom","""he poop everywhere when i bring him out""; ""run And poop same time""","owner (family chat)"
+"2024-04-11","diet","Helper to add hot water to Kuro food ""in glass bowl Not plastic""","owner (family chat)"
+"2024-04-12","diet","Food ran out; mother: taking ""1.8 kg food every day"" (owner corrects ""1.08""), ""Before was 500gm per day""","mother (family chat)"
+"2024-04-13","diet","FurKids vet ""also got sell pet chef"" food; owner called, in stock","owner (family chat)"
+"2024-04-14","skin","""Tail losing hair""; groomer asked about the new raw diet and possible chicken or egg sensitivity","groomer (grooming chat)"
+"2024-04-15","diet","""Kuro eat rice n eggs for two days"" while food not yet bought","father (family chat)"
+"2024-04-17","diet","Custom dog meal delivery 19 Apr from Khan & Kara Enterprise (nutritionist); delivery charge RM 20","mother (family chat)"
+"2024-04-29","symptom","""His eyes a lot of gunk lately... Actually just one side""","pet sitter"
+"2024-05-03","symptom","Groomer noticed ""some fur loss at the tail""","owner (sitter chat)"
+"2024-05-12","other","Owner posts ""Angry after surgery"" (also 15 May, ""His eyes""); unclear whether Kuro had a procedure or this is a joke/meme","owner (family chat)"
+"2024-05-13","prevention","""Pls remember feed Kuro the worm medication""; ""need to feed with heart guard"" - previously forgotten","owner (family chat)"
+"2024-05-15","skin","""Same hair lost"" at the tail; groomer: ""They need to check the skin""","groomer (grooming chat)"
+"2024-05-16","other","Animal communicator session: Kuro said ""sometimes his chest feel tight""; once ""slipped"" and felt ""pulling sensation in my side""; asked about physiotherapy","owner (family chat)"
+"2024-05-19","care","Owner asks father to ""stretch his wrist Front paws""","owner (family chat)"
+"2024-05-22","grooming","Helper bathed Kuro; told him not to dig soil","mother (family chat)"
+"2024-05-28","test result","""everything good! a bit anemic, same as last time""; owner later: ""slightly anemic since Jan this year""","owner (sitter chat)"
+"2024-05-28","cost","FurKids invoice for 27 May visit incl. Supra mineral; earlier payment was for ""physio""","owner (family chat)"
+"2024-05-30","supplement","Supra mineral: ""1 tab once a day""","owner (family chat)"
+"2024-06-10","behaviour","""Kuro walk very funny Like a bear""; ""Old liao""","owner (family chat)"
+"2024-06-12","grooming","Helper bathing too often; ""don't bathe Kuro for 2 weeks Until next grooming session"" (no bath until 25 Jun)","owner (family chat)"
+"2024-06-12","skin","""Kuro got so much dandruff""","owner (family chat)"
+"2024-06-12","skin","Found still wet after the helper bathed him; re-bathed; dandruff; advised to keep him dry between grooms","groomer (grooming chat)"
+"2024-06-15","care","Dog shoes ordered (arrive by 24 Jun) for slippery floor; paw measured","mother (family chat)"
+"2024-06-18","symptom","""His shampoo ran out... flaky skin is back again""","owner (sitter chat)"
+"2024-06-20","other","Animal communicator says Kuro ""cannot hear well sometimes""","owner (family chat)"
+"2024-06-26","symptom","Owner: ""He looks sick""; suspects heat stroke/dehydration; after eating ""itchy and go rolling on the ground""; mother: ""肚子胀气"" (bloated)","owner (family chat)"
+"2024-06-26","symptom","""He vomited yesterday after eating his normal food""; ate egg and white rice without vomiting (reported 27 Jun)","mother (family chat)"
+"2024-06-27","symptom","""not really eating and seems a little unwell""; ""stomach may be a bit bloated""","owner (sitter chat)"
+"2024-06-27","symptom","""Kuro limping""; ""no energy""; ""ate very little""; ""Stomach is bloated""","owner (family chat)"
+"2024-06-27","diet","Regular food (Korean brand ""Bought from furkids"") possibly ""left out too long""; family considered dry food; vet staff told ""no appetite""","owner (family chat)"
+"2024-06-28","diet","""Kuro needs to be on low fat diet""; gastrointestinal low fat food started","vet (FurKids chat)"
+"2024-06-29","diagnosis","""looking at the blood test, we will categorise it as critical""; blood donor needed ASAP","vet (FurKids chat)"
+"2024-06-29","diagnosis","""suspect there might be a mass cancer in the abdomen""; x-ray and ultrasound agreed; pancreatitis under treatment","vet (FurKids chat)"
+"2024-06-29","diagnosis","Owner: ""Kuro has pancreatitis and also infection. Maybe from his diet change... the diet changed in March and April""","owner (grooming chat)"
+"2024-06-30","procedure","Blood transfusion from a German Shepherd donor (blood type DEA 1+)","vet (FurKids chat)"
+"2024-06-30","diagnosis","""the bleeding has stabilized""; red cell count 13% -> 17% -> 20%; rescan before planned surgery: tumour ""spread to kidney and some parts of intestine"", ""inoperable mass""; plan: stabilise pancreatitis, then ""palliative care""","vet (FurKids chat)"
+"2024-06-30","diagnosis","""Spleen haemorrhage""; surgery planned ""to remove the spleen and do biopsy""","owner (sitter chat)"
+"2024-06-30","diet","Helper only added hot water to food, did not steam it; owner had seen ""abdomen swollen awhile ago""","owner (family chat)"
+"2024-06-30","other","Blood donor search: one candidate dog rejected - ""aggressive"", ""no vaccine"", ""heart worm before"", ""Not suitable donor""","owner (family chat)"
+"2024-07-01","diagnosis","Pre-op scan: ""mass is inoperable"", ""also in his intestines and kidney""; ""palliative care""; antibiotics and anti-bleed medication","owner (sitter chat)"
+"2024-07-01","other","Transfusion donor dog was a client of Kuro's groomer; owner already followed it on Instagram","owner (family chat)"
+"2024-07-02","diagnosis","Owner reports a ""spleen rupture"" days earlier; vet: semi-solid stool from ""cranially displaced intestine due to the location of the mass""","vet (FurKids chat)"
+"2024-07-03","care","""He's doing stable""; IV drip on hold, subcutaneous fluids; no vomiting; discharged about 5 Jul","vet (FurKids chat)"
+"2024-07-03","vet visit","FurKids temporarily closing; emergencies to ""KD vet"" (collaborating clinic). Father: ""Kuro is stable""","father (family chat)"
+"2024-07-03","diagnosis","Father relays vet prognosis: ""Can live maybe 3 months, 6 months to a year""","father (family chat)"
+"2024-07-07","care","Grooming moved indoors (bathroom) after the hospital stay; vet OK'd grooming but warned to avoid falls hitting his belly; dental cleaning postponed because he was weak","owner (grooming chat)"
+"2024-07-08","symptom","""hasn't pooped since coming back from the vet""; eating little, ""only chicken""","owner (sitter chat)"
+"2024-07-08","medication","Care plan: ""Eye health - lanomax""; ""Oral health - rub gums with tumeric""; ""Bedsore wounds""","owner (family chat)"
+"2024-07-10","symptom","Owner's list: ""Heart guard"", ""Ultrasound video"", ""Acupuncture"", ""Pale gums, labored breathing""","owner (family chat)"
+"2024-07-10","care","Buying indoor water fountain and pee pads (""pee pad almost no more"")","owner (family chat)"
+"2024-07-10","cost","Alternative pet sitter (1-5 Aug): RM 60/hr weekday, RM 70/hr weekend; meet and greet RM 30","owner (family chat)"
+"2024-07-11","care","""cannot pet boarding""; ""Isolate from other dogs""; family dogs ok only if vaccinated and on heartworm prevention","owner (family chat)"
+"2024-07-11","vet visit","At vet, aggressive poodle barked and growled at Kuro","owner (family chat)"
+"2024-07-14","care","FurKids temporarily closed 14-21 Jul 2024; outside 24-hour vets and a house-call vet listed for emergencies","owner (Notion care notes)"
+"2024-07-15","skin","Groomer says ""Kuro skin improve a lot""","owner (family chat)"
+"2024-07-17","medication","Charcoal pill; Lypex ""sprinkled on the food""","owner (sitter chat)"
+"2024-07-18","care","Walks up to 30 min; indoor stairs only and great care on stairs to avoid a fall hitting the spleen or abdomen; pee pads; fan and air-con indoors; groomed every 10-14 days with medicated and oatmeal shampoo","owner (Notion care notes)"
+"2024-07-18","vet visit","House-call vet planned for 23 and 29 Jul 2024 during the pet sitting","owner (Notion care notes)"
+"2024-07-19","injury","Hind-leg wound with cone, ""not bleeding"" but ""pretty raw""; ointment raised to ""4x a day""","owner (sitter chat)"
+"2024-07-19","vet visit","First recorded acupuncture: from his pulse ""he should feel a lot of pain""","pet sitter"
+"2024-07-22","diagnosis","House-call vet: heart and respiratory rate ""within normal range""; ""crepitus... indicating athritis""","owner (sitter chat)"
+"2024-07-23","behaviour","Question for animal communicator: ""Why do you drink your pee""","owner (family chat)"
+"2024-07-25","symptom","Drinking his own urine around 4-5am; ""Doctor said he should drink more water""","owner (sitter chat)"
+"2024-07-25","medication","Cerenia and Yunnan Baiyao kept on hand, to give only if blood in stool or vomiting blood","owner (Notion care notes)"
+"2024-08-01","injury","Wounds are ""bedsore wounds / scratches from being in the kennel""; ""biopsy so at least we know it's not a tumor""","owner (sitter chat)"
+"2024-08-05","behaviour","""Kuro drinking pee"" (also 10 Aug, 14 Aug ""at night"", 3 Nov ""again"")","owner (family chat)"
+"2024-08-06","skin","Pink hairless lesion on a hind leg/hindquarter (photos)","Care chat photos"
+"2024-08-07","cost","Pet sitter bills RM 220 + RM 200 = RM 420 for ""4 times go acupuncture"" plus ""Pet taxi""","owner (family chat)"
+"2024-08-07","care","Medication and care instructions kept on a Notion pet-sitting page","owner (family chat)"
+"2024-08-07","behaviour","""long time no hear kuro bark""; mother: ""barking loud, strong and hardy"" for food","owner (family chat)"
+"2024-08-09","diet","Deer antler chew offered; Kuro ""dunno how to eat antler"" (14 Aug); ""Maybe Kuro teeth too weak"" (28 Sep)","owner (family chat)"
+"2024-08-10","care","Kuro ""wearing diapers"" (seen on camera)","owner (family chat)"
+"2024-08-10","other","Review for pet sitter (jwoofbutler): Kuro ""requires daily medications and supplements""; sitter fed meds gently","owner (family chat)"
+"2024-08-11","care","""Pls expand Kuro pen size Then he won't drink his pee""","owner (family chat)"
+"2024-08-12","diet","""more meat and less sweet potato""; some coconut water; ""Very small spoon"" of coconut oil","owner (family chat)"
+"2024-08-13","test result","HCT ""still low however it is improving... no on going bleeding""; kidney and liver improved; ""CPLi back to normal... recovered from pancreatitis""","vet (FurKids chat)"
+"2024-08-13","medication","Prednisolone tapered to half tablet for 20 days, then every other day; iron 6 days; pancreas supplement 20 more days; Supra Mineral and Maximus Hep continued; low-fat diet","vet (FurKids chat)"
+"2024-08-15","diet","""no salmon paste and oil""; boxed food all ok ""except kibble""","mother (family chat)"
+"2024-08-15","care","Outside ""Very slippery"", ""Kuro cannot fall down"", need mat; 17 Aug ""Mat very good""","owner (family chat)"
+"2024-08-17","behaviour","Mother: ""Kuro now getting clever and responsive""; father credits sleeping in air conditioning","mother (family chat)"
+"2024-08-17","diet","""many pack of kuro raw foods"" in freezer, possibly to donate","mother (family chat)"
+"2024-08-20","care","Dog shoes being tried on","mother (family chat)"
+"2024-09-20","skin","Owner shares reel: ""Kuro itchy skin cos of cancer"" (owner's speculation)","owner (family chat)"
+"2024-09-22","weight","""Kuro looks thin"" (also 24 Sep); ""Pls feed beef""; reminder of ""Very expensive"" supplement in fridge","owner (family chat)"
+"2024-09-24","diet","Requests ""lean 98 percent beef grass fed""; repeated beef requests through Oct","owner (family chat)"
+"2024-09-24","behaviour","""Kuro run He happy""","owner (family chat)"
+"2024-09-30","supplement","""adored beast probiotics""; beef treat before bedtime","owner (family chat)"
+"2024-09-30","skin","""kuro gain weight"" and ""the skin improve a lot""","groomer (grooming chat)"
+"2024-10-01","vet visit","Acupuncture: ""doc say overall strong boy""","pet taxi"
+"2024-10-15","vet visit","Owner compiling supplement and food list because ""Vet will ask""; vet says Kuro is ""miracle boy""","owner (family chat)"
+"2024-10-15","behaviour","Raining - ""He scared""","owner (family chat)"
+"2024-10-16","test","Kidney test SDMA requested for FurKids blood test","owner"
+"2024-10-17","symptom","""struggle to get up cause the floor slippery""; vet checked, ""no issue""","pet taxi"
+"2024-10-18","supplement","""Liver Tonic"" brand ""Adored Beast"", in fridge - helper had missed it","owner (family chat)"
+"2024-10-22","symptom","""not able to hold his pee""; ""pee twice in the clinic""","pet taxi"
+"2024-10-23","test result","Red cell count ""26.6 to 30%, still having mild anemia""; white cells normal, ""no on going infection""; ""liver parameters back to normal""; weight 20.2 -> 21.7 kg","vet (FurKids chat)"
+"2024-10-23","medication","""I've injected another dose of darbepoeitin""","vet (FurKids chat)"
+"2024-10-24","diagnosis","""lower back pain (lumbosacral acu points are tender)""; warm packs on hips advised","vet (relayed by owner)"
+"2024-10-24","diagnosis","Weak urine holding; ""urinary infection/inflammation can be ruled out""; ""Kidney Qi Deficiency""","vet (relayed by owner)"
+"2024-10-24","care","Probiotics at night; wear shoes at acupuncture because ""The acupuncture center is slippery""; ""All doctors surprised by Kuro""","owner (family chat)"
+"2024-10-27","care","""dont make kuro jump""; ""Kuro need to eat grass fed beef""","owner (family chat)"
+"2024-10-29","skin","""the tail crusty back"", neck too, ""Body odour came back""; ""super super active""","groomer (grooming chat)"
+"2024-11-16","symptom","""eating but... very unhappy""; ""low blood count is making him a bit dizzy""","owner (sitter chat)"
+"2024-11-16","behaviour","""kuro looks sad""","owner (family chat)"
+"2024-11-17","vet visit","Outside clinic (KD Vet) while FurKids vets were away: ""He is now quite sick""; ultrasound and bloods (findings relayed 2024-11-20)","owner (FurKids chat)"
+"2024-11-20","test result","Red blood cell count ""19% which last month was 30""; ""No fever""; other organs normal","vet (relayed by owner)"
+"2024-11-20","diagnosis","Suspected ""immune-mediated issue due to the spleen mass""; ""weakness and lethargic""","vet (relayed by owner)"
+"2024-11-20","medication","Prednisolone ""for almost 1 month""; antibiotic 1 week; anti-bleeding 4 days; one anti-vomit injection","vet (relayed by owner)"
+"2024-11-20","imaging","Ultrasound: ""no free fluid in the abdomen""; other organs not assessable ""as the mass block everything""","vet (relayed by owner)"
+"2024-11-20","care","Diaper needed for acupuncture sessions","pet taxi"
+"2024-11-20","diet","Vet (via helper): give chicken and ""yellow powder"" only, no pumpkin","helper (Care chat)"
+"2024-11-20","stool","Very dark stools 20-21 Nov 2024, days after HCT 18.9% on 17 Nov; GI blood possible, charcoal also possible","Care chat photos"
+"2024-11-20","medication","KD Vet: prednisolone ""almost 1 month"", antibiotic ""1 weeks"", anti-bleeding ""4 days only"", ""one dose of anti-vomit injection""","mother (family chat)"
+"2024-11-26","diagnosis","Acupuncture: ""left body side has signs of pain""; vet calls him a ""medical miracle""","pet taxi"
+"2024-11-27","vet visit","Acupuncture vet: ""left pulse quality proves there is some pain (likely on his left body side)""; ""medical miracle"" boy","owner (family chat)"
+"2024-12-02","care","Kuro moved temporarily to the old house because of workers; bed placed on fishpond enclosure","father (family chat)"
+"2024-12-03","weight","""Kuro is OK but thin a bit""","father (family chat)"
+"2024-12-04","other","Animal communicator: ""really tired"", body ""collapse"", ""dizzy and disoriented"" at times; ""my hip hurts when I get up"" (right); likes warm soft orange stew","owner (family chat)"
+"2024-12-10","symptom","""changes in his sight... Maybe not seeing as well""; more sensitive to acupuncture needles","pet sitter"
+"2024-12-13","vet visit","Acupuncture centre moved to a new location","owner (family chat)"
+"2024-12-19","behaviour","""He pee on pee pad""","owner (family chat)"
+"2024-12-21","other","Kuro travelled with family to Penang (outing to Straits Quay)","father (family chat)"
+"2024-12-28","vet visit","""Kuro normal acupuncture 30 mins Today cut to 10 mins"" (reason not given)","owner (family chat)"
+"2024-12-31","behaviour","At Furbulous, a small dog was ""angry at kuro""","owner (family chat)"
+"2025-01-05","cost","Pet taxi to vet: RM143.58 two-way for 6 Jan; RM156.46 each for 22 and 24 Jan; 'Total: RM456.50'","owner (family chat)"
+"2025-01-06","vet visit","Vet visit: 'Kuro tumor increase in size' '2cm'; 'Doctor say very good already, it's slow increase'; tried to 'steal cat food'","owner (family chat)"
+"2025-01-23","dental","Teeth brushing; plaque on back teeth hard to remove","pet taxi"
+"2025-02-07","symptom","""hind left leg shiver abit""; vet: ""left kneee is abit bad""","pet taxi"
+"2025-02-09","test result","""Red blood cells count improved significantly""; ""mild elevated in urea could be due to mild dehydration""; weight 20.9 -> 21.2 kg","vet (FurKids chat)"
+"2025-02-09","symptom","""mild coughing occasionally""","owner (sitter chat)"
+"2025-02-10","weight","'kuro put on weight'; vet and grooming double-booked; he needs 'vet, groomer, acupuncture'","owner (family chat)"
+"2025-02-10","care","Owner asks helper to feed Kuro and move water indoors because construction dust outside","owner (family chat)"
+"2025-02-13","symptom","Mother confirms an item 'For Kuro' for '半夜拉肚子' (night-time diarrhoea)","mother (family chat)"
+"2025-02-16","skin","Tail fur grew back (mother: 'Yes'); owner: 'Gaining weight'","mother (family chat)"
+"2025-02-20","diet","Owner asks to buy beetroot for Kuro; father: 'Kuro want to eat some more'","owner (family chat)"
+"2025-02-25","cost","RM1,008 paid to AsiaPaws for acupuncture, '15 sessions total'","owner (family chat)"
+"2025-02-27","symptom","""left side more pain""; ""did snap at us when pain""; supplement given","pet taxi"
+"2025-02-28","supplement","AsiaPaws vet: 'he is in great pain'; dispensed Schuessler Tissue Salt No. 3 Ferrum Phos, No. 7 and Magnesium Oil for paws/ear flaps; RM207","owner (family chat)"
+"2025-03-05","dental","Gums: ""No bleeding but he said it hurts sometimes""","owner"
+"2025-03-06","behaviour","'He is super active now'; owner asks father to check teeth for cavities and try raw carrot for teeth cleaning","mother (family chat)"
+"2025-03-09","weight","20.5 kg; earlier ""20.9 then 21.5""","pet taxi"
+"2025-03-09","vet visit","FurKids: blood test; dental advice ""crunchy item""; meds and supplements","pet taxi"
+"2025-03-09","test result","Liver parameters ""elevate slightly... acceptable""; ""condition is stable""","vet (FurKids chat)"
+"2025-03-09","supplement","Reminder to give supplements, 'the four bottles in fridge'","owner (family chat)"
+"2025-03-12","weight","Kuro weighed '29 kg' in 2022 ('he fat')","owner (family chat)"
+"2025-03-19","other","No known allergies","owner"
+"2025-03-25","symptom","Vet: ""sore"", needs ""warm compress and a massage""; poop ""mix of brown and green""; possible gas, charcoal pill","pet sitter"
+"2025-03-26","mobility","After acupuncture: 'Dr say he is sore'; mother: 'still as lively as a puppy'","owner (family chat)"
+"2025-04-10","behaviour","Kuro 'break out from his cage n damaged the cage with a big hole'","father (family chat)"
+"2025-04-15","symptom","""breathing a bit labored"", ""gums sticky"", ""Stomach also more bloated"", panting, ""peeing a lot""; taken to vet","pet sitter"
+"2025-04-16","test result","""red blood cells is improving""; ""Platelet rising as expected due to his cancer""; ""liver requires further support""; subcutaneous fluids","pet sitter"
+"2025-04-20","cost","Diapers at Furbulous RM3.65 per 12-piece pack dearer than at Pet More","mother (family chat)"
+"2025-04-23","supplement","Ordered AB (Adored Beast) Liver Tonic; AB Turkey Tail 'OUT OF STOCK'","owner (family chat)"
+"2025-04-23","medication","AsiaPaws vet noticed 'he's in pain'; homeopathy Arnica C30, '2-3 globuli' in water bowl and on food; complimentary","owner (family chat)"
+"2025-04-27","diagnosis","House-call vet: ""Arthritis and some nerve pain""; ""He got a shot""","owner (sitter chat)"
+"2025-04-28","symptom","Helper: ""His leg was stiff as if he was sick, it was hard to walk"" (right back leg)","helper (Care chat)"
+"2025-04-29","injury","Leg wound ""looks terrible""; ""right side is inflamed and painful""","pet taxi"
+"2025-04-29","supplement","Owner asks if milk thistle was bought; mother 'Can't find exactly same'","owner (family chat)"
+"2025-04-30","skin","Skin lesion on hindquarter (photo); e-collar from 1 May 2025","Care chat photos"
+"2025-04-30","skin","Owner describes wound: 'Open and possibly ulcerated, with a central area of tissue loss'; worried about 'Deep pyoderma'","owner (family chat)"
+"2025-04-30","medication","House-call vet gave 'antibiotics n Galliprant n other supplements'; Australian cream applied 'thrice a day'; 'can walk properly now'","father (family chat)"
+"2025-05-01","symptom","House-call vet called 2025-04-27 for limping and trouble getting up","owner"
+"2025-05-01","diagnosis","""abrasion wound due to pain in the hind leg""; wound cleaned; fur shaved","pet taxi"
+"2025-05-01","medication","Wound cream; painkiller; cone; ""all the meds stop only nerve supplements continue""","owner"
+"2025-05-01","medication","Pain-killer injection; wound care: wash with the pink solution, rinse with clean water, pat dry, apply a thin layer of cream","vet (FurKids chat)"
+"2025-05-01","behaviour","Father: with the cone he was 'upset n moody'","father (family chat)"
+"2025-05-02","mobility","Owner shares link to a rear-support dog wheelchair","owner (family chat)"
+"2025-05-04","medication","""reduced appetite""; x-ray ""to ensure his tumour has not grown""; ""Dosage for pain management increased""","owner (sitter chat)"
+"2025-05-06","injury","Wound ""still a bit red and has not fully healed""","family"
+"2025-05-06","diet","'Kuro not eating'; owner asks for mushrooms and blueberries; 'He got tooth ache', blend food; 'he needs more mushy food'","owner (family chat)"
+"2025-05-12","skin","Father checked legs: 'Healing good'","mother (family chat)"
+"2025-05-13","supplement","Pawhonest supplements ordered for Kuro; 'Long delays'","mother (family chat)"
+"2025-05-15","medication","Pain remedy: ""two to three in his water bowl""","pet taxi"
+"2025-05-15","symptom","""struggling to get up to walk into the room""","pet taxi"
+"2025-05-16","care","Hot/cold gel pack applied to hindquarters and hips by the helper, roughly twice daily in Jun 2025 and nightly from Jul 2025 to Apr 2026 (see home_care.csv)","Care chat photos"
+"2025-05-16","other","Animal communicator session; owner relays 'He says he doesn't want surgery'","owner (family chat)"
+"2025-05-23","cost","Pet sit plus pet taxi to AsiaPaws RM60 per day, Wed/Fri 11-27 Jun 2025 (twice-weekly acupuncture)","mother (family chat)"
+"2025-05-29","ears","""Ears dirty. Other than that is fine""","groomer (grooming chat)"
+"2025-06-23","care","Owner asks helper to brush Kuro's teeth; repeated reminders Jul-Sep 2025","owner (family chat)"
+"2025-06-24","weight","Father: 'he too fat lah'","father (family chat)"
+"2025-06-26","dental","Foam on molars; ""back teeth might have discomfort""","pet taxi"
+"2025-06-29","cost","Reiki for Kuro via animal communicator: 'about 10 sessions', 'One session is 80' (SGD)","owner (family chat)"
+"2025-07-02","diet","Owner asks to buy coconut water for Kuro","owner (family chat)"
+"2025-07-03","symptom","""discomfort in the stomach""; ""gassy in the stomach""","pet taxi"
+"2025-07-03","medication","Charcoal pill ""half a tablet""; powder ""one small scoop""","pet taxi"
+"2025-07-10","symptom","""leg hind left side abit pain""","pet taxi"
+"2025-07-14","behaviour","Cage door left open but 'He didn't come out the whole day'","father (family chat)"
+"2025-07-15","test result","""latest blood work came back and ALT is a bit high""","owner"
+"2025-07-15","test result","""blood test is all good, with mild elevation in urea could be due to dehydration""","vet (FurKids chat)"
+"2025-07-17","symptom","""right and left hind leg abit painful""","pet taxi"
+"2025-07-24","symptom","""left side of his body hurts abit more""; hot pack on hip","pet taxi"
+"2025-07-25","mobility","Mother: no air-con for Kuro, 'He has arthritis'; owner asks helper to 'massage left back leg'","mother (family chat)"
+"2025-07-31","grooming","Mother asks groomer not to do dental work: 'Kuro can't take it anymore'","mother (family chat)"
+"2025-08-05","diagnosis","""the sore due to aging""","pet taxi"
+"2025-08-07","symptom","""knee might be in pain""; more on left hind leg","pet taxi"
+"2025-08-07","cost","Paying FurKids; family says no invoice was sent for the 23 Oct 2024 FurKids visit","mother (family chat)"
+"2025-08-10","diagnosis","Owner: 'doctor say he is ticking time bomb'; father: 'Old but strong n healthy'","owner (family chat)"
+"2025-08-10","diet","Had 'egg from mom' and 'beef soup'","father (family chat)"
+"2025-08-12","test","T4 (thyroid) test suggested because ""heart rate is abit slow""","pet taxi"
+"2025-08-19","symptom","""lower back abit sore""; ""hip part pain""","pet taxi"
+"2025-08-19","appetite","""stopped eating pumpkins and sweet potatoes""","owner"
+"2025-08-27","vet visit","Late for vet appointment because 'pet taxi car broke down'; switched to another car","owner (family chat)"
+"2025-08-28","medication","Mouth spray ""Three to four sprays""; magnesium oil spray in ears","owner"
+"2025-09-03","grooming","Kuro taken for grooming 4 pm, collected 6 pm","owner (family chat)"
+"2025-09-09","symptom","""poop is quite black today""; stool shape changed","pet taxi"
+"2025-09-11","symptom","""right side hip pain""; ""walk abit weird""","pet taxi"
+"2025-09-11","medication","Pills ""every 1/2 or 1hr in his water""","pet taxi"
+"2025-09-23","other","Animal communicator reading: on fast turns 'legs splay out'; 'sharp pain as I am eating', worse at night","owner (family chat)"
+"2025-10-01","symptom","Owner recalls Kuro peed on the carpet at home (graduation photo time)","owner (family chat)"
+"2025-10-06","behaviour","'kuro pacing back and forth' before rain","owner (family chat)"
+"2025-10-13","symptom","""shaking his head more the last month""","owner (sitter chat)"
+"2025-10-21","weight","'Kuro was 22.5' 'Now 21.9' kg","owner (family chat)"
+"2025-10-22","skin","'Kuro wet stink odor'","mother (family chat)"
+"2025-10-28","care","Mother: 'kuro acupuncture once a week is enough'","mother (family chat)"
+"2025-10-30","medication","""one needle near his neck to relieve some pain""","pet taxi"
+"2025-11-10","test result","""liver is improving, kidney function is perfect including the SDMA reading""; ""pancreatitis is flaring up"", lipase ""from 2000+ last month to 4000+ today""; pancreatic lipase test run","vet (FurKids chat)"
+"2025-11-10","medication","Pain killer and gastroprotectant for 10 days; strict low-fat diet for one month","vet (FurKids chat)"
+"2025-11-25","diet","Diet change: beef lung, carrot, long beans, mushrooms, goji berry, dory fish; 'no liver'; 'lung and heart is OK'; 'Twice a day'","owner (family chat)"
+"2025-11-28","mobility","Mother: 'running around like a horse'","mother (family chat)"
+"2025-12-06","mobility","Back legs 'Look stiff', massage requested; father: 'so nimble n can jump'","owner (family chat)"
+"2025-12-09","care","Helper to 'spray Kuro teeth' with mouth spray","owner (family chat)"
+"2025-12-19","symptom","""small bump on his left eye upwards""","pet taxi"
+"2025-12-21","symptom","Stool ""abit soft when ending""; panting more on a hot day","pet taxi"
+"2025-12-29","diagnosis","Bump: ""small cyst that can be popped""","owner"
+"2025-12-30","symptom","Left hind limp: ""possible... mild sprain or strain""; slipped once in clinic; paw pad ""quite red""; rest a day or two","vet (FurKids chat)"
+"2025-12-30","mobility","'Kuro limping'; 'kuro paw bleeding'","owner (family chat)"
+"2026-01-06","symptom","""not hydrated well""","pet taxi"
+"2026-01-15","dental","Dental cleaning at Asia Paws in Jan 2026 (owner's recollection; month only, no written record found). His previous professional cleaning was by the groomer in Jan 2024.","owner (recollection)"
+"2026-01-22","symptom","""abit of pain for hind leg n hip""; pain relief given","pet taxi"
+"2026-02-03","test result","""overall reading good""; ""reading a little high but not too concerning""","pet taxi"
+"2026-02-03","medication","Pancreas supplement, multivitamin, steroids","pet taxi"
+"2026-02-03","test result","""No anemia, liver and kidney parameters are all within normal range""","vet (FurKids chat)"
+"2026-02-03","diet","'Tell the helper do not feed EASY PEASY'","owner (family chat)"
+"2026-02-04","medication","Prednisolone 5 mg: take 0.5 tablet every other day for 30 days, after meal (FurKids label)","clinic label"
+"2026-02-04","medication","Protexin Pro-Enzorb: 1 capsule once a day for 30 days, sprinkled in food (FurKids label)","clinic label"
+"2026-02-12","skin","'Kuro white face turning black'","mother (family chat)"
+"2026-02-15","care","Wearing a diaper or belly wrap (photos)","Care chat photos"
+"2026-02-19","symptom","""inflamme on the right side and pain abit om the left side hind legs""","pet taxi"
+"2026-03-05","behaviour","Mother: 'Kuro is calmer can sleeps well'; 'he don't need long term frequent reiki treatment'","mother (family chat)"
+"2026-03-07","symptom","Stained bedding under him (photos); absorbent pads bought 8 Mar","Care chat photos"
+"2026-03-15","symptom","Right cheek possibly swollen near nose","owner"
+"2026-03-16","test result","Cheek ""Touch of it is fluid""; ""abit anemic""","pet taxi"
+"2026-03-16","medication","Liver supplement","pet taxi"
+"2026-04-01","weight","'Kuro look thin' (1 and 13 Apr); owner will buy turkey tail","owner (family chat)"
+"2026-04-03","mobility","Owner after a photo: 'Bring to vet' 'Maybe broken leg'","owner (family chat)"
+"2026-04-13","grooming","New groomer; 'be careful with Kuro belly'; owner asks to find YuMove supplement","owner (family chat)"
+"2026-04-15","diet","Mother adds Kuro portions to her home cooking incl. 茼蒿 (crown daisy), 'Kuro like it very much'","mother (family chat)"
+"2026-04-19","medication","Usual meds: prednisolone, calcium/phosphorus","family"
+"2026-04-19","symptom","""hind legs not much strength""; ""couldn't get up"" after pooping","pet taxi"
+"2026-04-19","test result","""Suspect got infection so anitbiotcs""; ""Kidney okay, liver abit high""","pet taxi"
+"2026-04-19","medication","Joint supplement, eye drops, prednisolone, infection meds; ""one jab for red blood cell count""","pet taxi"
+"2026-04-20","test result","Red cell count 36% -> 37%, ""still below the normal range""; kidney good ""including SDMA""; liver ""mildly elevated""; hind limbs slightly weak, ""discomfort on palpation around the hip joint""; weight 22.2 -> 20.6 kg","vet (FurKids chat)"
+"2026-04-20","medication","Darbepoetin injection; Samylin to be taken regularly; Antinol joint supplement started","vet (FurKids chat)"
+"2026-04-25","mobility","'Leg a bit weak'; 'Maybe need to take him to acupuncture'","owner (family chat)"
+"2026-05-03","care","Owner asks to clean Kuro's ears and use eye drops","owner (family chat)"
+"2026-05-07","care","Mother: 'no need alternative day for acupuncture'; alternate-day schedule 'a bit too commercial'","mother (family chat)"
+"2026-05-16","care","Twice-weekly acupuncture follow-ups booked at AsiaPaws, 20 May-5 Jun 2026","owner (family chat)"
+"2026-05-17","test result","""Liver okay""; kidney ""due to dehydration abit off""; ""Anemic abit so jab""","pet taxi"
+"2026-05-19","diet","Smaller frequent meals: ""Every meal is 200g plus probiotics 3 meals a a day""","family"
+"2026-05-19","diet","'Currently Kuro has 3 meals a day. Tomorrow increase to 4 meals'; feeding chart with water 'every 2 hours'","father (family chat)"
+"2026-05-21","symptom","""heart rate is slightly slower today""","pet taxi"
+"2026-05-22","supplement","AsiaPaws vet does not give probiotics, 'Only Chinese medicine sometimes'","owner (family chat)"
+"2026-05-30","supplement","AsiaPaws: Chinese Herbal Medicine 'will greatly benefit Kuro'; 5 Jun prescription to 'keep it in the fridge'","owner (family chat)"
+"2026-06-04","diagnosis","""Pain generally as due to aging""; ""Hearts is okay just slow""","pet taxi"
+"2026-06-05","care","'Pls brush Kuro teeth once a week'","owner (family chat)"
+"2026-06-09","symptom","""peed on himself cause he couldn't get up with his back feet""","pet taxi"
+"2026-06-10","vet visit","AsiaPaws acupuncture: 'unable to stand due to significant hind limb weakness', 'found lying in urine'; 'Qi Deficiency'","owner (family chat)"
+"2026-06-10","care","Vet instructions (recalled 26 Oct): help urinate 'at least four times a day', water within reach, medication twice daily, report walking difficulty","owner (family chat)"
+"2026-06-10","supplement","Mother asks about ginseng for qi; owner: ask the vet about dog dosage and drug interactions","mother (family chat)"
+"2026-06-11","symptom","'Kuro is able to poop n pee on his own today'","father (family chat)"
+"2026-06-17","care","Helper walks Kuro in the backyard on leash 'three times a day'","mother (family chat)"
+"2026-06-30","symptom","Lower body fur ""smells like pee"", ""very matted""","pet taxi"
+"2026-07-01","diagnosis","""concerns of bacteria infection possible""; ""Worried urine burn and also weight loss""","pet taxi"
+"2026-07-01","test result","""liver and kidney count abit high but manageable""","pet taxi"
+"2026-07-01","test result","Red cells ""still slightly low, but... acceptable""; kidney and liver normal; ""urine staining on the underside"", risk of ""urine scald""; weak hind limbs; weight 19.9 -> 19.5 kg, ""lower limit of his ideal body weight""","vet (FurKids chat)"
+"2026-07-01","diet","Increase daily meals by 10-15% to keep weight at 19.5-20 kg; iron daily; daily wipes, shower once or twice a week","vet (FurKids chat)"
+"2026-07-07","diagnosis","Left hind leg growth ""lentil size""; armpit/chest growth ""cherry size (elastic - may be a lipoma)""; ""non-inflammatory""","vet (relayed by owner)"
+"2026-07-07","diagnosis","Heart, lungs, lymph nodes normal; ""clear of any clinical tumor metastasis signs""; ""sarcopenia (muscle atrophy)""","vet (relayed by owner)"
+"2026-07-07","care","Toilet help ""4 fixed / absolutely regular times daily""","vet (relayed by owner)"
+"2026-07-07","cost","Pet taxi to AsiaPaws Wed/Fri in July; pet sitting RM60 per day, RM70 Saturday, 'Total ... 250'","owner (family chat)"
+"2026-07-10","mobility","Anti-slip paw grips 'suggested by doc to help his grip'","owner (family chat)"
+"2026-07-21","symptom","""peed a lot more than usual""","pet taxi"
+"2026-07-30","symptom","Large stool ""abit black""; pooped lying down","pet taxi"
+"2026-07-31","symptom","'Kuro poop while lying down'; helper says he poops and pees on the grass","owner (family chat)"
+"2026-08-09","vet visit","""Lungs and heart are good""; blood test; jab","pet taxi"
+"2026-08-10","test result","""blood work is looking stable""; ""slight drop in his red blood cell count... not concerning""; urea ""over 17"", concern if ""above 20""; kidney supplement added; about 1 litre of water a day; anti-slip mat","vet (FurKids chat)"
+"2026-08-19","grooming","Bathed by helper; owner: 'Kuro not dry', 'must blow dry'","owner (family chat)"
+"2026-08-30","care","'Put apple into Kuro water bowl so he will drink more water'","owner (family chat)"
+"2026-09-08","injury","Wound, ""looks like he nibble it""; ""abit of inflammation""","pet taxi"
+"2026-09-10","injury","Wound ""looks bigger today""","pet taxi"
+"2026-09-14","medication","""Inflammation so giving antibiotics And one jab""; Advocate for parasites","pet taxi"
+"2026-10-01","symptom","""Hind legs weak""; heart and lungs good","pet taxi"
+"2026-10-02","vet visit","AsiaPaws: 'clear' apart from 'progressive hind limb weakness'; hind limb and spine muscles 'crampy'; recommends home massage therapy; to ""continue making his life heaven on earth""; offered a home-visit massage therapist trained by the vet","owner (family chat)"
+"2026-10-04","grooming","Kuro at grooming","owner (family chat)"
+"2026-10-06","medication","Chinese medicine for ""hind legs not much strength""","pet taxi"
+"2026-10-07","medication","Asia Paws dispensed Si Miao San 15 g (anti-inflammatory) and Xiao Chai Hu Tang 15 g (to strengthen the hind legs)","vet (Asia Paws, family chat)"
+"2026-10-09","vet visit","""He came in yesterday and he was doing much better""; helper reminded to continue the herbs","vet (Asia Paws, family chat)"
+"2026-10-15","symptom","""Right side back area painful""; leaning right","pet taxi"
+"2026-10-16","care","Vet recommended a red-light therapy mat (660/850 nm) for better blood flow and to ease stiffness and pain","vet (Asia Paws, family chat)"
+"2026-10-18","death","Kuro died (local date, per the owner's message the next day)","owner (FurKids chat)"
+"2026-10-18","end of life","Owner earlier that afternoon: 'Why he look so dirty'","owner (family chat)"
+"2026-10-18","end of life","Father: Kuro 'fallen accidentally into the pond'; searched garden first; pulled out about 6.48 pm; father suspects 'weakness in his legs'","father (family chat)"
+"2026-10-19","post mortem","""large tumour in the spleen, with evidence of partial splenic rupture"" that ""did not appear to be a fresh, acute event""; liver ""grossly normal""; kidneys, bladder and intestines without significant abnormalities; heart without significant gross abnormality","vet (FurKids chat)"
+"2026-10-19","post mortem","Lungs: ""pulmonary congestion with possible focal haemorrhage"", no severe oedema or chest fluid; dark red blood from the nostril","vet (FurKids chat)"
+"2026-10-19","post mortem","Stated cause: ""sudden death in a geriatric dog with significant underlying splenic disease, potentially involving acute circulatory or cardiopulmonary compromise. The exact cause and terminal mechanism remain undetermined."" No official report issued.","vet (FurKids chat)"
+"2026-10-19","end of life","Post-mortem owner form: time of passing '5 pm'; 'Drowned in the fish pond'; first noticed unwell: 'Nothing'","father (family chat)"
+"2026-10-19","diagnosis","Father: eyes 'not seeing clearly', 'doctor also confirmed he has cataract'; he brushed teeth, applied eye gel, washed ears","father (family chat)"
+"2026-10-20","end of life","Vet 'cannot confirm whether Kuro collapsed before entering the pond, drowned after entering it, or experienced another terminal event'","mother (family chat)"
+"2026-10-21","post mortem","""some free blood within the abdominal cavity, but the amount was not significant""; large acute abdominal bleeding ""less likely"" a major factor, chronic or intermittent bleeding not ruled out; ""It was a huge mass""","vet (FurKids chat)"
+"2026-10-21","end of life","Owner: FurKids sewed the body neatly after the post-mortem; mother: no wound visible","owner (family chat)"
+"2026-10-25","supplement","Mother says liver tonic follow-up was delayed a few days, 'not more than 3 days'","mother (family chat)"
+"2026-10-26","symptom","Owner: urine soiling first found by vets/pet sitter on 10 Jun and 30 Jun; mother: afterwards helper lifted him 'every hour'","owner (family chat)"
+"2026-10-26","supplement","Owner: mother had told AsiaPaws no probiotics needed because FurKids supplied them","owner (family chat)"
+"2026-10-29","symptom","Owner: Kuro was 'panting' and 'One week before already sitting in middle of patio'","owner (family chat)"
+"2026-10-30","care","Owner: Kuro seen wet and not dried; father: helper was told to blow-dry him whenever wet","owner (family chat)"

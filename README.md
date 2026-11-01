@@ -59,7 +59,7 @@ The processed tables, with their subfolder under `data/processed/`:
 | `clinical/labs.csv` | 850 | IDEXX blood panels (chemistry, CBC, SDMA, electrolytes, 4Dx), analyzer comments and lab findings mentioned in chat |
 | `clinical/prescriptions.csv` | 118 | Medications, supplements and care products, with kind, brand, dose and duration |
 | `clinical/invoice_items.csv` | 228 | Every line of 27 vet invoices (RM) |
-| `clinical/health_events.csv` | 462 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
+| `clinical/health_events.csv` | 461 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
 | `clinical/weights.csv` | 24 | Weights from 2020 to 2026 |
 | `clinical/imaging.csv` | 13 | X-rays, ultrasounds, biopsy and post-mortem photo |
 | `clinical/providers.csv` | 21 | Clinics, carers, transport and other services used for his care |
