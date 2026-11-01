@@ -2,7 +2,7 @@
 
 Kuro was a male, neutered mixed-breed dog (Embark: 52% Golden Retriever, 34% Japanese Spitz; the family described him as an Australian Shepherd × golden retriever), born on 10 March 2010 in Malaysia. He died on 18 October 2026, aged 16 years 7 months 8 days. His regular vet was FurKids (Furkids Wellness Veterinary Centre); he also had acupuncture at Asia Paws and house calls from Petcare.
 
-This summary is assembled from in-house IDEXX lab reports, 27 vet invoices, medicine labels, feeding notes, clinic images and WhatsApp messages. It tells his story first, then gives the post-mortem findings and the numbers behind them. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../data/processed/).
+This summary is assembled from in-house IDEXX lab reports, 27 vet invoices, medicine labels, feeding notes, clinic images and WhatsApp messages. It tells his story first, then gives the post-mortem findings and the numbers behind them. It records what the reports and vets said; it is not a diagnosis. Data: [`data/processed/`](../../data/processed/).
 
 ## His story
 
@@ -135,7 +135,7 @@ Ongoing from invoices: prednisolone 5 mg (19 invoices), Protexin Pro-Enzorb, Sup
 
 ## Diet and feeding
 
-From `feeding.csv` and `diet.csv`; the recipe is reviewed in [`diet-critique.md`](diet-critique.md).
+From `feeding.csv` and `diet.csv`; the recipe is reviewed in [`diet-review.md`](../analyses/diet-review.md).
 
 | Period | What he ate |
 |---|---|

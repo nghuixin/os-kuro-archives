@@ -8,7 +8,7 @@ It covers 2021 – Oct 2026. Sources are his vet invoices, in-house lab reports,
 
 ## Start here
 
-**If you care for an older dog**, read [What another senior-dog owner can learn from Kuro](docs/lessons-for-owners.md). It has a care-transition timeline, showing when each problem moved from "watch it" to "needs daily help", and five short cases:
+**If you care for an older dog**, read [What another senior-dog owner can learn from Kuro](docs/owners/lessons-for-owners.md). It has a care-transition timeline, showing when each problem moved from "watch it" to "needs daily help", and five short cases:
 
 1. How do I recognize when my dog's normal routine needs to change?
 2. Which clinical signs should prompt urgent veterinary attention?
@@ -20,26 +20,31 @@ Each case sets out what happened to Kuro, what the records support, what remains
 
 **If you want the full story or the data:**
 
-- [`docs/health-summary.md`](docs/health-summary.md): his story in one page: timeline, lab trends, recurring conditions, home care, medications, diet and the gaps in the records.
+- [Health summary](docs/case-study/health-summary.md): his story, the post-mortem findings, lab trends, recurring conditions, daily care, medications, diet and the gaps in the records.
 - [`data/processed/`](data/processed/): everything as CSVs.
-
-**Canine Health Atlas.** This archive is also the reference dataset for the Canine Health Atlas, a planned tool that would turn any dog's vet records into a source-linked dataset and dashboard. The Atlas is specified in [`docs/spec.md`](docs/spec.md) but not yet built; what exists today is this hand-built archive.
 
 ## What's here
 
+**Documents (`docs/`)**
+
+| Folder | Document | Contents |
+|---|---|---|
+| [`case-study/`](docs/case-study/) | [Health summary](docs/case-study/health-summary.md) | His story 2021–2026 as a narrative, the post-mortem findings with the vet's answers to follow-up questions, then the lab trend table, recurring themes (incl. trouble standing up), daily care and stools, medications, diet and gaps |
+| | [Care protocol](docs/case-study/care-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026 |
+| [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
+| | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
+| [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
+| [`methods/`](docs/methods/) | [Dog Aging Project surveys](docs/methods/dog-aging-project.md) | The DAP End of Life, cognition (CSLB) and Age-Related Changes surveys used for `data/retrospective/`, and why body condition isn't among them |
+
+**Data and code**
+
 | Path | Contents |
 |---|---|
-| [`docs/lessons-for-owners.md`](docs/lessons-for-owners.md) | For owners: care-transition timeline and five case-based questions |
-| [`docs/kuro-protocol.md`](docs/kuro-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026 |
-| [`docs/instruments/`](docs/instruments/) | Validated scales for monitoring a senior dog (quality of life, pain, cognition, body and muscle condition, frailty), with evidence, where to get each form, and a [recording template](data/reference/senior_monitoring_template.csv); plus the [Dog Aging Project's](docs/instruments/dog-aging-project.md) End of Life Survey and cognition survey, with Kuro's end-of-life answers from his records |
-| [`docs/health-summary.md`](docs/health-summary.md) | His story 2021–2026 as a narrative, the post-mortem findings with the vet's answers to follow-up questions, then the lab trend table, recurring themes (incl. trouble standing up), daily care and stools, medications, diet and gaps |
-| [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
-| [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
-| [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
 | [`data/processed/`](data/processed/) | Data recorded during his life (vet records, labs, chats, care notes, photos), cleaned into CSVs (table below) |
-| [`data/retrospective/dap_surveys_kuro.csv`](data/retrospective/dap_surveys_kuro.csv) | Kuro scored retrospectively on the Dog Aging Project's End of Life, cognition (CSLB) and Age-Related Changes surveys, plus the AFUS Diet and Medications/Preventives sections, laid out like a DAP response: one row per DAP variable, with DAP's variable names and answer codes as in the DAP codebook (tick-box items are `True`/`False`; see the [DAP survey notes](docs/instruments/dog-aging-project.md)). Every answer was given or confirmed by his owner after his death (Oct–Nov 2026; `answered_by` = `owner`); some were first prefilled from his records and then accepted, as noted in `evidence`. `evidence` checks each answer against what was written at the time (chats, vet records, labs): it starts with a verdict (`supports`, `contradicts`, `mixed`, `not mentioned` or `not checkable`) followed by dated, sourced quotes, and notes where the owner revised an answer after seeing the evidence |
+| [`data/retrospective/dap_surveys_kuro.csv`](data/retrospective/dap_surveys_kuro.csv) | Kuro scored retrospectively on the Dog Aging Project's End of Life, cognition (CSLB) and Age-Related Changes surveys, plus the AFUS Diet and Medications/Preventives sections, laid out like a DAP response: one row per DAP variable, with DAP's variable names and answer codes as in the DAP codebook (tick-box items are `True`/`False`; see the [DAP survey notes](docs/methods/dog-aging-project.md)). Every answer was given or confirmed by his owner after his death (Oct–Nov 2026; `answered_by` = `owner`); some were first prefilled from his records and then accepted, as noted in `evidence`. `evidence` checks each answer against what was written at the time (chats, vet records, labs): it starts with a verdict (`supports`, `contradicts`, `mixed`, `not mentioned` or `not checkable`) followed by dated, sourced quotes, and notes where the owner revised an answer after seeing the evidence |
 | [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
-| [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA results and raw genotypes, with an [analysis plan](data/raw/genetics/embark/analysis-plan.md) |
+| [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`). The Wisdom Panel report (29 Jan 2023) is kept private |
+| [`data/reference/senior_monitoring_template.csv`](data/reference/senior_monitoring_template.csv) | A blank template for recording validated senior-dog scales over time (body and muscle condition, quality of life, pain, cognition, frailty, stool score) |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
 
 ### The data
@@ -80,7 +85,7 @@ The CSVs are plain files, sorted by date. `visits.csv` is the backbone: one row 
 
 ## Notes
 
-- **Not veterinary advice.** The summaries quote what vets and reports said; review documents (`diet-critique.md`) are labelled as reviews.
+- **Not veterinary advice.** The summaries quote what vets and reports said; review documents (`diet-review.md`) are labelled as reviews.
 - **Privacy.** Raw records (chat exports, photos, PDFs, Notion notes) are gitignored and not published, except the Embark DNA data and the diagnostic images in `data/raw/imaging/` (patient ID redacted). The CSVs exclude people's names (birthday greeters are shortened to two letters), addresses, phone numbers, client and patient IDs, vehicle plates and bank details.
 - **Dates.** The WhatsApp exports were made on a phone set to US Pacific time; chat timestamps have been converted to Malaysia time where it matters (15–16 hours ahead, depending on daylight saving). Each CSV records its `date_basis`, and chat-based dates may be a day off.
 - **How it was built.** Text-layer PDFs were parsed directly; photos were read by hand or with AI assistance and cross-checked against the PDFs where both exist; `confidence` columns flag uncertain readings.

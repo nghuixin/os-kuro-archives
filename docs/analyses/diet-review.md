@@ -1,6 +1,6 @@
-# Diet critique: NRC Balanced White + Red Meat, Senior V2 (Mar 2024)
+# Diet review: NRC Balanced White + Red Meat, Senior V2 (Mar 2024)
 
-A brief review of the tailored recipe in [`data/processed/daily_care/diet.csv`](../data/processed/daily_care/diet.csv), analysed on 15 Mar 2024 by Khan & Kara Enterprise (The RAW Proof) for Kuro at 21.5 kg, inactive senior. It corresponds to the **tailored raw diet** from the same business he started around 25 Mar 2024, whose ingredients the owner listed in the grooming chat: salmon head, chicken meaty bones, cooked spinach, buffalo spleen and liver, chicken liver, red cabbage, cooked carrot, blueberries, psyllium husk, kefir, inulin, pumpkin seeds, curcumin, piperine, flax seed, wheat germ oil, kelp powder and zinc. The recipe is 540 g and 895 kcal a day. Values are converted to per 1,000 kcal so they can be compared with published limits. This is a desk review, not a substitute for a board-certified veterinary nutritionist.
+A brief review of the tailored recipe in [`data/processed/daily_care/diet.csv`](../../data/processed/daily_care/diet.csv), analysed on 15 Mar 2024 by Khan & Kara Enterprise (The RAW Proof) for Kuro at 21.5 kg, inactive senior. It corresponds to the **tailored raw diet** from the same business he started around 25 Mar 2024, whose ingredients the owner listed in the grooming chat: salmon head, chicken meaty bones, cooked spinach, buffalo spleen and liver, chicken liver, red cabbage, cooked carrot, blueberries, psyllium husk, kefir, inulin, pumpkin seeds, curcumin, piperine, flax seed, wheat germ oil, kelp powder and zinc. The recipe is 540 g and 895 kcal a day. Values are converted to per 1,000 kcal so they can be compared with published limits. This is a desk review, not a substitute for a board-certified veterinary nutritionist.
 
 ## What it gets right
 
@@ -30,7 +30,7 @@ A brief review of the tailored recipe in [`data/processed/daily_care/diet.csv`](
 
 ## What was actually fed
 
-Photos and chats in [`feeding.csv`](../data/processed/daily_care/feeding.csv) show what reached the bowl after the analysis:
+Photos and chats in [`feeding.csv`](../../data/processed/daily_care/feeding.csv) show what reached the bowl after the analysis:
 
 - **25 Mar – Jun 2024: the tailored raw diet** (ingredients above). It includes **chicken meaty bones** (a calcium source), **wheat germ oil and flax** (oils), kelp and zinc, so it was a complete recipe on paper. It was **raw and high in fat**, and he developed pancreatitis about three months after starting it; on 29 Jun 2024 the owner wrote, "Maybe from his diet change". In Apr–May 2024 the groomer also linked new tail hair loss to the diet change.
 - **Jul 2024 (after the pancreatitis episode):** "chicken breast, 0.25 cup of sweet potatoes, 0.25 cup of pumpkin, 2x day", plus Royal Canin and Vet Pro low-fat gastrointestinal food from FurKids, a boiled egg in the evening, and a pork food topper (70% muscle meat with bones and vegetables).

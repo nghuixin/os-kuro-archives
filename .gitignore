@@ -31,7 +31,7 @@ WhatsApp Chat*
 *-WA[0-9][0-9][0-9][0-9].*
 
 # Instrument forms are copyrighted; keep local copies only
-docs/instruments/forms/
+docs/methods/forms/
 
 # Communicator concordance results stay local
 data/processed/communicator/communicator_concordance.csv
@@ -40,3 +40,7 @@ data/processed/communicator/communicator_concordance.csv
 # Diagnostic imaging (X-rays, ultrasound stills) is published; patient ID redacted
 !data/raw/imaging/
 !data/raw/imaging/**
+
+# Not published: the Atlas spec and the Embark analysis plan (kept locally)
+docs/atlas/
+data/raw/genetics/embark/analysis-plan.md

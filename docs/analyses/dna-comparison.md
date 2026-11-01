@@ -1,6 +1,6 @@
 # DNA tests compared: Wisdom Panel (Jan 2023) vs Embark (Feb 2025)
 
-Kuro took two commercial DNA tests. The DNA is the same, so every difference comes from the companies' reference panels, algorithms and wording. The item-by-item scores are in [`data/processed/genetics/dna_comparison.csv`](../data/processed/genetics/dna_comparison.csv) (1 = agree, 0 = disagree). The raw Embark data is in [`data/raw/genetics/embark/`](../data/raw/genetics/embark/); the Wisdom Panel report is not published.
+Kuro took two commercial DNA tests. The DNA is the same, so every difference comes from the companies' reference panels, algorithms and wording. The item-by-item scores are in [`data/processed/genetics/dna_comparison.csv`](../../data/processed/genetics/dna_comparison.csv) (1 = agree, 0 = disagree). The raw Embark data is in [`data/raw/genetics/embark/`](../../data/raw/genetics/embark/); the Wisdom Panel report is not published.
 
 ## Scorecard
 
