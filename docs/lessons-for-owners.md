@@ -6,7 +6,7 @@ His records show something that is easy to miss: **medical management and daily 
 
 This is one dog's history, not veterinary advice. Use it to prepare better questions, not to diagnose your own dog.
 
-To track your own dog with validated scales (pain, quality of life, cognition, body and muscle condition, frailty), see [Validated instruments for monitoring a senior dog](instruments/README.md). Kuro's records contain none of these scores, which is one of the gaps this archive shows.
+To track your own dog with validated scales (pain, quality of life, cognition, body and muscle condition, frailty), see [Validated instruments for monitoring a senior dog](instruments/). Kuro's records contain none of these scores, which is one of the gaps this archive shows.
 
 ## Care-transition timeline
 
@@ -51,7 +51,7 @@ When each problem moved from *something to watch* to *something that needed dail
 
 **What happened to Kuro.** He had more than 40 in-house blood panels. His anemia was repeatedly flagged by the analyzer as "likely non-regenerative". Urea rose from Dec 2025 (peaking at 17.2 mmol/L in Aug 2026) while creatinine and SDMA stayed normal. ALT was above range for much of 2025. Results are missing for 8 visits where tests were billed.
 
-**What the records support.** Keeping every printout made trends visible. They showed the anemia was chronic rather than new, and that kidney function markers stayed normal even as urea rose. Billed tests without results were only discovered by cross-checking invoices against reports ([`visits.csv`](../data/processed/visits.csv), `lab_status`).
+**What the records support.** Keeping every printout made trends visible. They showed the anemia was chronic rather than new, and that kidney function markers stayed normal even as urea rose. Billed tests without results were only discovered by cross-checking invoices against reports ([`visits.csv`](../data/processed/clinical/visits.csv), `lab_status`).
 
 **What remains unknown.** The values for those 8 visits, and the written reports for the 2024 ultrasound, the needle aspirate and the post mortem.
 
@@ -65,7 +65,7 @@ When each problem moved from *something to watch* to *something that needed dail
 
 **What happened to Kuro.** His owner was often abroad. Daily care was split among his parents, a live-in helper, a pet sitter, a pet taxi driver, a groomer and the clinics, with one WhatsApp group for each role. The helper photographed stools and every hot-pack session. The owner wrote care notes and medicine schedules, and carers sent updates after each acupuncture visit.
 
-**What the records support.** The photo log shows care actually done, not just recommended: 321 hot-pack sessions and 63 stool photos ([`home_care.csv`](../data/processed/home_care.csv), [`stool_log.csv`](../data/processed/stool_log.csv)). Written handover notes, such as which emergency signs to watch and how to handle him on stairs, went to every carer. A written update after his 10 Jun 2026 acupuncture session told the family he could no longer stand and had been lying in urine.
+**What the records support.** The photo log shows care actually done, not just recommended: 321 hot-pack sessions and 63 stool photos ([`home_care.csv`](../data/processed/daily_care/home_care.csv), [`stool_log.csv`](../data/processed/daily_care/stool_log.csv)). Written handover notes, such as which emergency signs to watch and how to handle him on stairs, went to every carer. A written update after his 10 Jun 2026 acupuncture session told the family he could no longer stand and had been lying in urine.
 
 **What remains unknown.** What was never logged. For example, only 41 acupuncture sessions are documented, but there were probably 100–140. Separate chats also made it hard to see one complete picture at any moment.
 
@@ -79,7 +79,7 @@ When each problem moved from *something to watch* to *something that needed dail
 
 **What happened to Kuro.** His vet invoices and service records document about **RM38,500**, and the full total was probably RM52,000–65,000. Mobility care added recurring costs and labour: acupuncture once or twice a week, a pet taxi to get him there, house calls, diapers and wraps, hot packs, and indoor grooming. The family looked at a rear-support dog wheelchair in May 2025. Daily help with standing, toileting and cleaning fell mainly on the household helper.
 
-**What the records support.** Mobility loss was gradual, starting with arthritis in Jul 2024 and ending with an inability to stand by Jun 2026. Each step needed more people and time, as well as money ([`providers.csv`](../data/processed/providers.csv), [`invoice_items.csv`](../data/processed/invoice_items.csv)).
+**What the records support.** Mobility loss was gradual, starting with arthritis in Jul 2024 and ending with an inability to stand by Jun 2026. Each step needed more people and time, as well as money ([`providers.csv`](../data/processed/clinical/providers.csv), [`invoice_items.csv`](../data/processed/clinical/invoice_items.csv)).
 
 **What remains unknown.** The full cost: some invoices and most acupuncture sessions are missing. Also unknown is whether earlier home changes would have helped, such as non-slip flooring, ramps or fencing the pond.
 

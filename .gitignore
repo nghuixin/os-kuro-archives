@@ -1,15 +1,17 @@
 # Real records stay out of Git (public repo)
 data/raw/**
 
-# Derived outputs and model weights (list private filenames)
-data/derived/
-data/labels/
+# Private working files and model weights (list private filenames)
+data/reference/image_overrides.csv
+data/processed/clinical/muscle_photos/
 *.pt
 *.onnx
 
-# Embark DNA results are public
-!data/raw/embark/
-!data/raw/embark/**
+# Embark DNA results are public (re-include each parent folder, then re-ignore its siblings)
+!data/raw/genetics/
+data/raw/genetics/*
+!data/raw/genetics/embark/
+!data/raw/genetics/embark/**
 
 # Images, anywhere in the repo
 *.jpg
@@ -32,7 +34,7 @@ WhatsApp Chat*
 docs/instruments/forms/
 
 # Communicator concordance results stay local
-data/processed/communicator_concordance.csv
+data/processed/communicator/communicator_concordance.csv
 
 
 # Diagnostic imaging (X-rays, ultrasound stills) is published; patient ID redacted

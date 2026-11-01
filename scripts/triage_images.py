@@ -9,7 +9,8 @@
 """Label each raw image as medical, dog, exclude (licence plates), other or unsure.
 
 Runs fully offline: YOLO for dogs and vehicles, RapidOCR for text.
-Writes data/derived/image_index.csv and a review gallery; moves nothing.
+Writes data/raw/image_index.csv and a review gallery (data/raw/image_review.html); moves nothing.
+Expects the YOLO weights at scripts/models/yolov8n.pt.
 
     uv run scripts/triage_images.py [--limit N]
 """
@@ -27,9 +28,10 @@ from rapidocr_onnxruntime import RapidOCR
 from ultralytics import YOLO
 
 ROOT = Path(__file__).resolve().parent.parent
-RAW = ROOT / "data" / "raw" / "whatsapp"
-OUT = ROOT / "data" / "derived"
-OVERRIDES = ROOT / "data" / "labels" / "image_overrides.csv"  # file,label,note — hand corrections win
+RAW = ROOT / "data" / "raw" / "chats" / "whatsapp"
+OUT = ROOT / "data" / "raw"
+MODELS = ROOT / "scripts" / "models"
+OVERRIDES = ROOT / "data" / "reference" / "image_overrides.csv"  # file,label,note — hand corrections win
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
 MAX_SIDE = 1600
 
@@ -132,14 +134,14 @@ def main() -> None:
 
     images = sorted(p for p in RAW.rglob("*") if p.suffix.lower() in IMAGE_EXTS)[: args.limit]
     OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "models").mkdir(exist_ok=True)
+    MODELS.mkdir(parents=True, exist_ok=True)
 
     overrides = {}
     if OVERRIDES.exists():
         with open(OVERRIDES, newline="", encoding="utf-8") as f:
             overrides = {r["file"]: r["label"] for r in csv.DictReader(f)}
 
-    detector = YOLO(str(OUT / "models" / "yolov8n.pt"))
+    detector = YOLO(str(MODELS / "yolov8n.pt"))
     ocr = RapidOCR()
 
     rows = []
@@ -172,7 +174,7 @@ def main() -> None:
             "vehicle_conf": round(vehicle, 2),
             "plates": " ".join(plates),
             "ocr_text": " | ".join(lines),
-            "rel": (Path("..") / path.relative_to(ROOT / "data")).as_posix(),  # from data/derived/
+            "rel": path.relative_to(OUT).as_posix(),  # from data/raw/, where the gallery is written
         })
         if i % 25 == 0 or i == len(images):
             print(f"{i}/{len(images)}  {time.time() - start:.0f}s", flush=True)

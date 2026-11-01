@@ -62,7 +62,7 @@ Quality of life in the last two weeks was never scored. That gap is what this su
 
 ## Body condition
 
-DAP's owner surveys **do not ask for a body condition score**. The baseline survey asks for a weight range and exact weight in pounds (`dd_weight_range`, `dd_weight_lbs`; [HLES section 2](https://github.com/dogagingproject/dataRelease/blob/master/Survey_Instruments/HLES/DAP_HLES_02_DogDemographics.pdf)), and the annual follow-up updates the exact weight (`afus_dd_dog_weight_lbs`). Body condition scores in DAP research come from **veterinary records**: one study extracted them for 200 dogs alongside 13,890 questionnaires. Owners are known to misjudge their dog's condition, so for home monitoring use the WSAVA 9-point Body Condition Score and Muscle Condition Score (see [the instruments page](README.md)).
+DAP's owner surveys **do not ask for a body condition score**. The baseline survey asks for a weight range and exact weight in pounds (`dd_weight_range`, `dd_weight_lbs`; [HLES section 2](https://github.com/dogagingproject/dataRelease/blob/master/Survey_Instruments/HLES/DAP_HLES_02_DogDemographics.pdf)), and the annual follow-up updates the exact weight (`afus_dd_dog_weight_lbs`). Body condition scores in DAP research come from **veterinary records**: one study extracted them for 200 dogs alongside 13,890 questionnaires. Owners are known to misjudge their dog's condition, so for home monitoring use the WSAVA 9-point Body Condition Score and Muscle Condition Score (see [the instruments folder](./)).
 
 ## References
 
