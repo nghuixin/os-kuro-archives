@@ -36,3 +36,4 @@ data/processed/communicator_concordance.csv
 
 # Owner's own End of Life Survey answers stay local
 data/dap_retrospective/eols_kuro_owner.csv
+data/dap_retrospective/cslb_kuro_owner.csv
