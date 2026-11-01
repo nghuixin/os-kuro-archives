@@ -10,7 +10,16 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 | `cslb_kuro.csv` | Canine Social and Learned Behavior (DAP's CCDR) | current and vs 6 months ago | 14 | 0 | 14 | — |
 | `afus_age_related_changes_kuro.csv` | Annual Follow-Up: Age-Related Changes, plus weight and body condition | final year (18 Oct 2025 – 18 Oct 2026) | 25 | 9 | 16 | — |
 
-**Owner-completed version.** `cslb_kuro_owner.csv` holds the CSLB as the owner completed it from memory in Oct 2026. It covers his last weeks (Sep–Oct 2026) compared with about Apr 2026. **Total 36 of 16–80, in the normal range** (≥50 indicates cognitive dysfunction, 40–49 borderline). The only points above the minimum came from occasional difficulty finding dropped food and slightly more soiling than six months earlier.
+**Owner-completed End of Life Survey.** `eols_kuro_owner.csv` holds the survey as the owner completed it in Oct 2026, with her own judgements where the records are silent:
+
+- **Quality of life:** last two weeks **6/7** (almost entirely good days); it began declining one or more months before death, mainly from health problems.
+- **Prognosis:** "likely would live beyond a month".
+- **Cause of death:** primary illness (cancer of the spleen, type unknown, known for 2+ years, treated for comfort); secondary sudden death ("sudden deterioration").
+- **Plus:** the full narrative.
+
+The EOLS has no total score.
+
+**Owner-completed CSLB.** `cslb_kuro_owner.csv` holds the CSLB as the owner completed it from memory in Oct 2026. It covers his last weeks (Sep–Oct 2026) compared with about Apr 2026. **Total 36 of 16–80, in the normal range** (≥50 indicates cognitive dysfunction, 40–49 borderline). The only points above the minimum came from occasional difficulty finding dropped food and slightly more soiling than six months earlier.
 
 ## Columns
 
