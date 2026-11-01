@@ -73,6 +73,7 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2025-11-10,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; CATALYST - PANCREATIC LIPASE (PL); CATALYST - SDMA; 7 medications/supplements,INV-23175,2,results present,,7,INV-23175,0
 2025-12-28,chat,FurKids,consultation,"x-rays (2025-12-29 on image); bump near eye ""small cyst that can be popped""",whatsapp pet taxi chat; furkids chat,2,results present,21.3,0,INV-24948,2
 2025-12-30,chat,FurKids,consultation,"left hind limp, possible mild sprain; paw pad red",whatsapp furkids chat,0,none,21.3,0,,0
+2026-01-15,owner recollection (month only),Asia Paws,dental cleaning,"Dental cleaning at Asia Paws, recalled by the owner; no invoice or message found, and whether it was done under anaesthesia is not recorded",owner recollection,0,none,,0,,
 2026-02-03,chat,FurKids,consultation,"bloodwork ""overall reading good""; steroids, pancreas supplement, multivitamin",whatsapp pet taxi chat,2,results present,22.2,3,INV-26419,0
 2026-03-16,chat,FurKids,consultation,"blood test; right cheek ""Touch of it is fluid""; ""abit anemic""",whatsapp pet taxi chat,0,"billed, results missing",,1,INV-27830,0
 2026-04-20,invoice,FurKids,consultation,Chem17 + CBC + SDMA; 20.6 kg; antibiotics; darbepoetin,INV-29152; whatsapp pet taxi chat,0,"billed, results missing",20.6,0,INV-29152,0
