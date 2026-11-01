@@ -10,7 +10,7 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 | `cslb_kuro.csv` | Canine Social and Learned Behavior (DAP's CCDR) | current and vs 6 months ago | 14 | 0 | 14 | — |
 | `afus_age_related_changes_kuro.csv` | Annual Follow-Up: Age-Related Changes, plus weight and body condition | final year (18 Oct 2025 – 18 Oct 2026) | 25 | 9 | 16 | — |
 
-**Owner-completed End of Life Survey.** `eols_kuro_owner.csv` holds the survey as the owner completed it in Oct 2026, with her own judgements where the records are silent:
+**Owner-completed End of Life Survey.** `eols_kuro_owner.csv` holds the survey as the owner completed it in Oct 2026, with the owner's own judgements where the records are silent:
 
 - **Quality of life:** last two weeks **6/7** (almost entirely good days); it began declining one or more months before death, mainly from health problems.
 - **Prognosis:** "likely would live beyond a month".
