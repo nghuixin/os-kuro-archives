@@ -27,3 +27,6 @@ data/labels/
 _chat.txt
 WhatsApp Chat*
 *-WA[0-9][0-9][0-9][0-9].*
+
+# Instrument forms are copyrighted; keep local copies only
+docs/instruments/forms/

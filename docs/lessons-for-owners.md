@@ -6,6 +6,8 @@ His records show something that is easy to miss: **medical management and daily 
 
 This is one dog's history, not veterinary advice. Use it to prepare better questions, not to diagnose your own dog.
 
+To track your own dog with validated scales (pain, quality of life, cognition, body and muscle condition, frailty), see [Validated instruments for monitoring a senior dog](instruments/README.md). Kuro's records contain none of these scores, which is one of the gaps this archive shows.
+
 ## Care-transition timeline
 
 When each problem moved from *something to watch* to *something that needed daily help*. Sources are the CSVs in [`data/processed/`](../data/processed/) and the [health summary](health-summary.md).
