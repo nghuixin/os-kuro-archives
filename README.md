@@ -1,18 +1,35 @@
 # os-kuro-archives
 
-A health archive for **Kuro**, a mixed-breed dog (Embark: 52% Golden Retriever, 34% Japanese Spitz), born 10 Mar 2010 in Malaysia, died 18 Oct 2026, aged 16. It covers 2021 – Oct 2026 and is built from his vet invoices, in-house lab reports, X-rays, medicine labels, care notes, photos and the WhatsApp chats with his family, vets, pet sitter, pet taxi and household helper.
+A longitudinal case study of **ageing, multiple illnesses and caregiving** in one dog: **Kuro**, a Golden Retriever mix (Embark: 52% Golden Retriever, 34% Japanese Spitz), born 10 Mar 2010 in Malaysia, died 18 Oct 2026, aged 16.
 
-It is also the reference dataset for the **Canine Health Atlas**, a planned tool that turns a dog's vet records into a source-linked dataset and dashboard (see [`docs/spec.md`](docs/spec.md)).
+In his last two and a half years Kuro lived with an inoperable splenic tumour, anemia, pancreatitis, arthritis and gradual loss of mobility. The archive follows both his medical care and his daily care. They are related but distinct: a dog can keep receiving veterinary treatment while becoming more and more dependent on people for moving, toileting, hygiene and safety. It is not primarily a cancer case report.
+
+It covers 2021 – Oct 2026. Sources are his vet invoices, in-house lab reports, X-rays, medicine labels, care notes and photos, and the WhatsApp chats with his family, vets, pet sitter, pet taxi and household helper.
 
 ## Start here
 
+**If you care for an older dog**, read [What another senior-dog owner can learn from Kuro](docs/lessons-for-owners.md). It has a care-transition timeline, showing when each problem moved from "watch it" to "needs daily help", and five short cases:
+
+1. How do I recognize when my dog's normal routine needs to change?
+2. Which clinical signs should prompt urgent veterinary attention?
+3. What should I record and ask my vet when a blood-test result changes?
+4. How do I organize daily care when several people share responsibility?
+5. What should I budget and plan for if my dog loses mobility?
+
+Each case sets out what happened to Kuro, what the records support, what remains unknown and questions to discuss with your own vet.
+
+**If you want the full story or the data:**
+
 - [`docs/health-summary.md`](docs/health-summary.md): his story in one page: timeline, lab trends, recurring conditions, home care, medications, diet and the gaps in the records.
 - [`data/processed/`](data/processed/): everything as CSVs, with a [column guide](data/processed/README.md).
+
+**Canine Health Atlas.** This archive is also the reference dataset for the Canine Health Atlas, a planned tool that would turn any dog's vet records into a source-linked dataset and dashboard. The Atlas is specified in [`docs/spec.md`](docs/spec.md) but not yet built; what exists today is this hand-built archive.
 
 ## What's here
 
 | Path | Contents |
 |---|---|
+| [`docs/lessons-for-owners.md`](docs/lessons-for-owners.md) | For owners: care-transition timeline and five case-based questions |
 | [`docs/health-summary.md`](docs/health-summary.md) | Timeline 2021–2026, lab trend table, recurring themes, home care and stools, diet and feeding, medications, gaps |
 | [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
 | [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
