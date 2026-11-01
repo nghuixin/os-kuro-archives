@@ -80,9 +80,7 @@ From the household helper's photo log (`home_care.csv`, `stool_log.csv`). Times 
   - **Throat and breathing:** a "stuck" or phlegmy throat (2024–25, when the owner also noticed coughing), and wheezy or "asthma"-like panting from Oct 2025, when the owner noticed more panting at night.
   - **Other recurring areas:** dry eyes, gums and bad breath, itchy ears and skin, kidney and bladder.
   - **Left rib cage and stomach** in Jul 2026; the post-mortem later found the splenic tumour on that side.
-  - **How he was described:** "as healthy as he can be for his age" (Aug 2025) and "I'm as healthy as I can be" (Sep 2026).
-  - **Checked against his records** ([communicator-concordance.md](communicator-concordance.md)): two independent coders scored the 56 impressions (weighted kappa 0.82). The mean match was 2.11 out of 3, but mostly partial. It fell to 1.82 for specific claims made without her being told about the problem first, with only one full match (the thyroid) out of 11.
-- **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
+  - **How he was described:** "as healthy as he can be for his age" (Aug 2025) and "I'm as healthy as I can be" (Sep 2026).- **Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), a diaper or belly wrap and stained bedding in Feb–Mar 2026.
 
 ## Medications
 

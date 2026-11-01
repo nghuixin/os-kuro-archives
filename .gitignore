@@ -30,3 +30,6 @@ WhatsApp Chat*
 
 # Instrument forms are copyrighted; keep local copies only
 docs/instruments/forms/
+
+# Communicator concordance results stay local
+data/processed/communicator_concordance.csv
