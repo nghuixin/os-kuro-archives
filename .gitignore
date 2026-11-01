@@ -34,3 +34,7 @@ docs/instruments/forms/
 # Communicator concordance results stay local
 data/processed/communicator_concordance.csv
 
+
+# Diagnostic imaging (X-rays, ultrasound stills) is published; patient ID redacted
+!data/raw/imaging/
+!data/raw/imaging/**

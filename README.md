@@ -38,6 +38,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
 | [`data/processed/`](data/processed/) | The extracted data (table below) |
 | [`data/dap_retrospective/`](data/dap_retrospective/) | Kuro scored retrospectively on the Dog Aging Project's End of Life, cognition (CSLB) and Age-Related Changes surveys; answered only where records support it, otherwise flagged missing |
+| [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
 | [`data/raw/embark/`](data/raw/embark/) | Embark DNA results and raw genotypes, with an [analysis plan](data/raw/embark/analysis-plan.md) |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
 
@@ -71,6 +72,6 @@ The CSVs are plain files, sorted by date. `visits.csv` is the backbone: one row 
 ## Notes
 
 - **Not veterinary advice.** The summaries quote what vets and reports said; review documents (`diet-critique.md`) are labelled as reviews.
-- **Privacy.** Raw records (chat exports, photos, PDFs, Notion notes) are gitignored and not published, except the Embark DNA data. The CSVs exclude people's names (birthday greeters are shortened to two letters), addresses, phone numbers, client and patient IDs, vehicle plates and bank details.
+- **Privacy.** Raw records (chat exports, photos, PDFs, Notion notes) are gitignored and not published, except the Embark DNA data and the diagnostic images in `data/raw/imaging/` (patient ID redacted). The CSVs exclude people's names (birthday greeters are shortened to two letters), addresses, phone numbers, client and patient IDs, vehicle plates and bank details.
 - **Dates.** The WhatsApp exports were made on a phone set to US Pacific time; chat timestamps have been converted to Malaysia time where it matters (15–16 hours ahead, depending on daylight saving). Each CSV records its `date_basis`, and chat-based dates may be a day off.
 - **How it was built.** Text-layer PDFs were parsed directly; photos were read by hand or with AI assistance and cross-checked against the PDFs where both exist; `confidence` columns flag uncertain readings.
