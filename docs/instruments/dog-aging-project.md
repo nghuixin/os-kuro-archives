@@ -29,7 +29,7 @@ The [Dog Aging Project](https://dogagingproject.org) (DAP) is a long-term study 
 | Item | Answer from the records |
 |---|---|
 | Location | Home property (garden fish pond) |
-| Witnesses | None |
+| Present at death | Yes. He was near the terrace with family looking for titbits when he slipped into the pond "without noise"; no one saw him go in, and the helper found him about 6.48 pm |
 | Euthanised | No |
 | Primary cause | Unclear. Trauma (drowning) or sudden death, with illness (splenic tumour with partial rupture) as the main contributor; the post mortem could not determine the mechanism |
 | Cancer system | Spleen |

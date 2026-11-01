@@ -6,7 +6,7 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 
 | File | Survey | Time window | Items | Answered | Missing | Other |
 |---|---|---|---|---|---|---|
-| `eols_kuro.csv` | End of Life Survey | final two weeks (4–18 Oct 2026); death details | 57 | 11 | 40 | 2 conflicting, 4 not applicable |
+| `eols_kuro.csv` | End of Life Survey | final two weeks (4–18 Oct 2026); death details | 59 | 14 | 40 | 2 conflicting, 3 not applicable |
 | `cslb_kuro.csv` | Canine Social and Learned Behavior (DAP's CCDR) | current and vs 6 months ago | 14 | 0 | 14 | — |
 | `afus_age_related_changes_kuro.csv` | Annual Follow-Up: Age-Related Changes, plus weight and body condition | final year (18 Oct 2025 – 18 Oct 2026) | 25 | 9 | 16 | — |
 
@@ -24,7 +24,8 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 ## What could be answered
 
 - **End of Life Survey:**
-  - Date of death, place of death (home), no witness, not euthanised.
+  - Date of death and place of death (home); not euthanised.
+  - Present: yes. His family and the household helper were with him at the terrace when he slipped into the pond, but no one saw him go in, and he was found about two hours later.
   - Seen by a vet in the final two weeks (Asia Paws, 8 Oct).
   - Final-two-week signs: poor vision, hind-limb weakness, back pain, looking dirty.
 - **Age-Related Changes (final year):**
