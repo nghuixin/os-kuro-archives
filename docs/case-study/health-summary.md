@@ -32,7 +32,7 @@ Yet his last weeks were mostly good. At his final FurKids check on 14 September 
 
 ### His death (18 Oct 2026)
 
-On 18 October he was looking for titbits near the terrace in the afternoon. The family noticed he was missing at about 4:30 pm and searched the house, garden and neighbourhood. At 6:48 pm he was found in the small garden fish pond, a few feet from where his father had been. No one saw him go into the water. In the last videos of him, taken between 30 minutes and 2 hours before he died, he was panting heavily and did not look particularly energetic. He was cremated on 21 October.
+On 18 October he was looking for titbits near the terrace in the afternoon. The family noticed he was missing at about 4:30 pm and searched the house, garden and neighbourhood. At 6:48 pm he was found in the small garden fish pond, a few feet from where his father had been. No one saw him go into the water. In the last videos of him, taken between 30 minutes and 2 hours before he died, he was panting heavily, though his family says no more heavily than usual, and did not look particularly energetic. He was cremated on 21 October.
 
 ## Post-mortem examination (19 Oct 2026)
 
@@ -57,7 +57,7 @@ The vet's stated cause was "**sudden death in a geriatric dog with significant u
 
 ### What the records add
 
-The records fit the vet's caution. His anaemia was chronic but mild in his last year (HCT 33–35% from July to September 2026, after "No anemia" in February), not the severe drop of June 2024 (13.2%) that marked his known major bleed. On the other hand, he was panting heavily in his last videos and his father described "difficulty in breathing", which is consistent with, but does not prove, a slower bleed or a sudden circulatory event. What happened in the pond remains unknown. A photograph of the splenic mass taken at the post mortem is held by the clinic.
+The records fit the vet's caution. His anaemia was chronic but mild in his last year (HCT 33–35% from July to September 2026, after "No anemia" in February), not the severe drop of June 2024 (13.2%) that marked his known major bleed. His heavy panting in his last videos was, his family says, no heavier than usual, and his father's later mention of "difficulty in breathing" gave no time; neither points clearly to a slower bleed or a sudden circulatory event. What happened in the pond remains unknown. A photograph of the splenic mass taken at the post mortem is held by the clinic.
 
 ## Lab trends (IDEXX in-house analyzers)
 

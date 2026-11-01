@@ -25,7 +25,7 @@ Item content is summarised and DAP's variable names are given so the original wo
 | `answered_by` | `owner` for every row: each answer was given or confirmed by his owner (Oct–Nov 2026) |
 | `evidence` | A check of the answer against what was written at the time (chats, vet records, labs). It starts with a verdict (`supports`, `contradicts`, `mixed`, `not mentioned`, `not checkable`), then gives dated, sourced quotes, and notes where the owner revised an answer after seeing the evidence |
 
-**How it was built.** The owner answered the End of Life and cognition surveys from memory. Every answer was then checked against the records: 101 of the owner's 152 original answers were supported, 2 were contradicted (whether anyone was present at his death) and 20 were mixed; the owner revised four answers after seeing the evidence. For the Age-Related Changes, Diet and Medications sections, answers were first prefilled from the records and then confirmed or corrected by the owner. All codes were validated against the DAP codebook. Two variables are not in DAP's public release: `eol_notes_description` (free text, withheld by DAP) and `dt_overweight_hles` (on the form but not released).
+**How it was built.** The owner answered the End of Life and cognition surveys from memory. Every answer was then checked against the records: 101 of the owner's 152 original answers were supported, 2 were contradicted (whether anyone was present at his death) and 20 were mixed; the owner revised three answers after seeing the evidence. For the Age-Related Changes, Diet and Medications sections, answers were first prefilled from the records and then confirmed or corrected by the owner. All codes were validated against the DAP codebook. Two variables are not in DAP's public release: `eol_notes_description` (free text, withheld by DAP) and `dt_overweight_hles` (on the form but not released).
 
 ## End of Life Survey (EOLS)
 
@@ -53,7 +53,7 @@ Item content is summarised and DAP's variable names are given so the original wo
 |---|---|
 | New diagnoses in his last year | Trauma (left hind limp, Dec 2025), eye (cataract; cyst above the eye), liver or pancreas (pancreatitis flare, Nov 2025), orthopaedic (sarcopenia, Jul 2026), blood (anaemia again, Mar 2026) |
 | Old-age characteristics, last 2 weeks | Poor vision, poor mobility from weakness and from pain, other pain, poor cleanliness |
-| Medical signs, last 2 weeks | Difficulty breathing, incontinence |
+| Medical signs, last 2 weeks | Incontinence (his heavy panting was usual for him, not a new sign) |
 | Quality of life, last 2 weeks | 6, almost entirely good days; decline began one or more months before death, mainly from health problems |
 | Vet care, last 2 weeks | Seen by a vet; no hospital stay or sedation; understood he would likely live beyond a month |
 | Place and witnesses | At home; **no one present** (no one saw him go into the pond) |
