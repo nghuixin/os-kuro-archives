@@ -13,7 +13,7 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 **Owner-completed End of Life Survey.** `eols_kuro_owner.csv` holds the survey as the owner completed it in Oct 2026, with the owner's own judgements where the records are silent:
 
 - **Quality of life:** last two weeks **6/7** (almost entirely good days); it began declining one or more months before death, mainly from health problems.
-- **Prognosis:** "likely would live beyond a month".
+- **Prognosis:** "likely would live beyond a month". This reflects the prognosis given at the Jul 2024 diagnosis ("3 months, 6 months to a year"); no new prognosis is recorded for the final two weeks.
 - **Cause of death:** primary illness (cancer of the spleen, type unknown, known for 2+ years, treated for comfort); secondary sudden death ("sudden deterioration").
 - **Plus:** the full narrative.
 
