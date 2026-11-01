@@ -10,6 +10,8 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 | `cslb_kuro.csv` | Canine Social and Learned Behavior (DAP's CCDR) | current and vs 6 months ago | 14 | 0 | 14 | — |
 | `afus_age_related_changes_kuro.csv` | Annual Follow-Up: Age-Related Changes, plus weight and body condition | final year (18 Oct 2025 – 18 Oct 2026) | 25 | 9 | 16 | — |
 
+**Owner-completed version.** `cslb_kuro_owner.csv` holds the CSLB as the owner completed it from memory in Oct 2026. It covers his last weeks (Sep–Oct 2026) compared with about Apr 2026. **Total 36 of 16–80, in the normal range** (≥50 indicates cognitive dysfunction, 40–49 borderline). The only points above the minimum came from occasional difficulty finding dropped food and slightly more soiling than six months earlier.
+
 ## Columns
 
 `survey`, `section`, `variable` (DAP's variable name), `question_summary`, `response_code` and `response_label` (DAP's coding), `status`, `evidence_date`, `evidence` (quoted or summarised from the records), `source` (the processed file or chat the evidence comes from).
