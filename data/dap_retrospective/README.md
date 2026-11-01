@@ -25,7 +25,7 @@ Kuro's records scored against three Dog Aging Project (DAP) owner surveys, as if
 
 - **End of Life Survey:**
   - Date of death and place of death (home); not euthanised.
-  - Present: yes. His family and the household helper were with him at the terrace when he slipped into the pond, but no one saw him go in, and he was found about two hours later.
+  - Present: yes. He was about 5 feet from his dad when he slipped into the pond "without noise". No one saw him go in, and the helper found him at about 6.48 pm, almost 2.5 hours later.
   - Seen by a vet in the final two weeks (Asia Paws, 8 Oct).
   - Final-two-week signs: poor vision, hind-limb weakness, back pain, looking dirty.
 - **Age-Related Changes (final year):**
