@@ -31,7 +31,7 @@ ROOT = Path(__file__).resolve().parent.parent
 RAW = ROOT / "data" / "raw" / "chats" / "whatsapp"
 OUT = ROOT / "data" / "raw"
 MODELS = ROOT / "scripts" / "models"
-OVERRIDES = ROOT / "data" / "reference" / "image_overrides.csv"  # file,label,note — hand corrections win
+OVERRIDES = ROOT / "data" / "raw" / "image_overrides.csv"  # file,label,note — hand corrections win
 IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".webp"}
 MAX_SIDE = 1600
 

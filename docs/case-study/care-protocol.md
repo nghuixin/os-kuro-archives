@@ -132,4 +132,4 @@ A Blueprint-style log of everything Kuro's care consisted of, in six-month block
 2. **Monitoring became the backbone.** From 2025, monthly blood panels (anaemia, liver, kidney, pancreas) guided the drug changes. Results for 8 billed tests never reached the owner, so ask for every printout.
 3. **Therapies shifted from cure to comfort.** Acupuncture, heat packs and massage were added as mobility declined, and the documented ones were done consistently: 321 heat-pack sessions.
 4. **Daily living care was the hardest part.** Toileting help, hygiene and tooth brushing depended on several people. These were the gaps most often raised in the family chat.
-5. **Nothing measured how he felt.** Weights and labs were frequent, but pain, mobility, quality of life and muscle condition were never scored. The [senior monitoring template](../../data/reference/senior_monitoring_template.csv) lists validated scales that could have filled this gap.
+5. **Nothing measured how he felt.** Weights and labs were frequent, but pain, mobility, quality of life and muscle condition were never scored.

@@ -34,17 +34,16 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
 | | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
-| [`methods/`](docs/methods/) | [Dog Aging Project surveys](docs/methods/dog-aging-project.md) | The DAP End of Life, cognition (CSLB) and Age-Related Changes surveys used for `data/retrospective/`, and why body condition isn't among them |
+| [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The five Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet and Medications/Preventives sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
 
 **Data and code**
 
 | Path | Contents |
 |---|---|
 | [`data/processed/`](data/processed/) | Data recorded during his life (vet records, labs, chats, care notes, photos), cleaned into CSVs (table below) |
-| [`data/retrospective/dap_surveys_kuro.csv`](data/retrospective/dap_surveys_kuro.csv) | Kuro scored retrospectively on the Dog Aging Project's End of Life, cognition (CSLB) and Age-Related Changes surveys, plus the AFUS Diet and Medications/Preventives sections, laid out like a DAP response: one row per DAP variable, with DAP's variable names and answer codes as in the DAP codebook (tick-box items are `True`/`False`; see the [DAP survey notes](docs/methods/dog-aging-project.md)). Every answer was given or confirmed by his owner after his death (Oct–Nov 2026; `answered_by` = `owner`); some were first prefilled from his records and then accepted, as noted in `evidence`. `evidence` checks each answer against what was written at the time (chats, vet records, labs): it starts with a verdict (`supports`, `contradicts`, `mixed`, `not mentioned` or `not checkable`) followed by dated, sourced quotes, and notes where the owner revised an answer after seeing the evidence |
+| [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to five Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
 | [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
 | [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`). The Wisdom Panel report (29 Jan 2023) is kept private |
-| [`data/reference/senior_monitoring_template.csv`](data/reference/senior_monitoring_template.csv) | A blank template for recording validated senior-dog scales over time (body and muscle condition, quality of life, pain, cognition, frailty, stool score) |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
 
 ### The data
@@ -53,8 +52,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 
 - **`raw/`**: the original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private, except imaging and Embark.
 - **`processed/`**: tables built from records made at the time, grouped by topic (`clinical/`, `daily_care/`, `life/`, `genetics/`, `communicator/`).
-- **`retrospective/`**: survey answers made after his death, from his records and from his owner.
-- **`reference/`**: the blank monitoring template.
+- **`dog_aging_project/`**: Dog Aging Project survey answers given after his death, described in [DAP surveys](docs/dog-aging-project/dap-surveys.md).
 
 The processed tables, with their subfolder under `data/processed/`:
 
@@ -67,7 +65,7 @@ The processed tables, with their subfolder under `data/processed/`:
 | `clinical/health_events.csv` | 461 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
 | `clinical/weights.csv` | 24 | Weights from 2020 to 2026 |
 | `clinical/imaging.csv` | 13 | X-rays, ultrasounds, biopsy and post-mortem photo |
-| `clinical/providers.csv` | 21 | Clinics, carers, transport and other services used for his care |
+| `clinical/providers.csv` | 22 | Clinics, carers, transport and other services used for his care |
 | `daily_care/feeding.csv` | 33 | What he ate: home-cooked meals, therapeutic diets, toppers, treats, feeding instructions |
 | `daily_care/diet.csv` | 53 | Nutrient analysis of his Mar 2024 home-cooked recipe |
 | `daily_care/home_care.csv` | 321 | Hot/cold pack sessions on his hips and hindquarters (May 2025 – Apr 2026) |

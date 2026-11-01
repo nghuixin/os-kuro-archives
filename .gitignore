@@ -2,7 +2,6 @@
 data/raw/**
 
 # Private working files and model weights (list private filenames)
-data/reference/image_overrides.csv
 data/processed/clinical/muscle_photos/
 *.pt
 *.onnx
@@ -31,10 +30,10 @@ WhatsApp Chat*
 *-WA[0-9][0-9][0-9][0-9].*
 
 # Instrument forms are copyrighted; keep local copies only
-docs/methods/forms/
+docs/dog-aging-project/forms/
 
 # Communicator concordance results stay local
-data/processed/communicator/communicator_concordance.csv
+data/processed/communicator/communicator_concordance*.csv
 
 
 # Diagnostic imaging (X-rays, ultrasound stills) is published; patient ID redacted

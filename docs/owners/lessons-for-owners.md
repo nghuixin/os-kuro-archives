@@ -6,7 +6,7 @@ His records show something that is easy to miss: **medical management and daily 
 
 This is one dog's history, not veterinary advice. Use it to prepare better questions, not to diagnose your own dog.
 
-To track your own dog with validated scales (pain, quality of life, cognition, body and muscle condition, frailty), record them over time with the [senior monitoring template](../../data/reference/senior_monitoring_template.csv). Kuro's records contain none of these scores, which is one of the gaps this archive shows.
+To track your own dog, record validated scales (pain, quality of life, cognition, body and muscle condition, frailty) at regular intervals, so changes show up as numbers rather than impressions. Kuro's records contain none of these scores, which is one of the gaps this archive shows.
 
 ## Care-transition timeline
 
