@@ -36,6 +36,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`docs/dna-comparison.md`](docs/dna-comparison.md) | Wisdom Panel vs Embark: where the two DNA tests agree and disagree, scored item by item |
 | [`docs/spec.md`](docs/spec.md) | Spec for the Canine Health Atlas, updated with what building this archive taught us |
 | [`data/processed/`](data/processed/) | The extracted data (table below) |
+| [`data/dap_retrospective/`](data/dap_retrospective/) | Kuro scored retrospectively on the Dog Aging Project's End of Life, cognition (CSLB) and Age-Related Changes surveys; answered only where records support it, otherwise flagged missing |
 | [`data/raw/embark/`](data/raw/embark/) | Embark DNA results and raw genotypes, with an [analysis plan](data/raw/embark/analysis-plan.md) |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
 
