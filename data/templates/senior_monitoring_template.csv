@@ -1,1 +1,1 @@
-date,weight_kg,bcs_1_9,mcs,vetmetrica_energetic,vetmetrica_happy,vetmetrica_active,vetmetrica_calm,corq_total,cbpi_severity,cbpi_interference,load_total,hcpi_total,ccdr_total,cades_total,frailty_components_met,frailty_index,fecal_score,assessed_by,source,confidence,notes
+date,weight_kg,bcs_1_9,mcs,vetmetrica_energetic,vetmetrica_happy,vetmetrica_active,vetmetrica_calm,corq_total,cbpi_severity,cbpi_interference,load_total,hcpi_total,ccdr_or_cslb_total,cades_total,frailty_components_met,frailty_index,qol_7pt,fecal_score,assessed_by,source,confidence,notes

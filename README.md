@@ -30,7 +30,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | Path | Contents |
 |---|---|
 | [`docs/lessons-for-owners.md`](docs/lessons-for-owners.md) | For owners: care-transition timeline and five case-based questions |
-| [`docs/instruments/`](docs/instruments/README.md) | Validated scales for monitoring a senior dog (quality of life, pain, cognition, body and muscle condition, frailty), with evidence, where to get each form, and a [recording template](data/templates/senior_monitoring_template.csv) |
+| [`docs/instruments/`](docs/instruments/README.md) | Validated scales for monitoring a senior dog (quality of life, pain, cognition, body and muscle condition, frailty), with evidence, where to get each form, and a [recording template](data/templates/senior_monitoring_template.csv); plus the [Dog Aging Project's](docs/instruments/dog-aging-project.md) End of Life Survey and cognition survey, with Kuro's end-of-life answers from his records |
 | [`docs/health-summary.md`](docs/health-summary.md) | Timeline 2021–2026, lab trend table, recurring themes, home care and stools, diet and feeding, medications, gaps |
 | [`docs/diet-critique.md`](docs/diet-critique.md) | Review of his home-cooked diet against published nutrient limits |
 | [`docs/communicator-concordance.md`](docs/communicator-concordance.md) | How well the animal communicator's health impressions match his records, scored with a two-coder qualitative rubric |
