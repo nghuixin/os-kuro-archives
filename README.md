@@ -30,10 +30,12 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | Folder | Document | Contents |
 |---|---|---|
 | [`case-study/`](docs/case-study/) | [Health summary](docs/case-study/health-summary.md) | His story 2021–2026 as a narrative, the post-mortem findings with the vet's answers to follow-up questions, then the lab trend table, recurring themes (incl. trouble standing up), daily care and stools, medications, diet and gaps |
+| | [End-of-life thresholds](docs/case-study/end-of-life-thresholds.md) | Kuro as a case study for end-of-life decision points: the HHHHHMM scale and his vet's palliative-care guide compared, applied block by block, with the emergency signs that occurred and lessons for owners |
 | | [Care protocol](docs/case-study/care-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026 |
 | [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
 | | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
+| | [Palliative care guide (PDF)](docs/owners/FWVC_PalliativeEnd-of-Life-Care-Support-Guide_2025.pdf) | Furkids Wellness Veterinary Centre's palliative and end-of-life care guide (2025): quality-of-life checklist, when to talk to the vet, emergency signs, home-setup tips |
 | [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The eight Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet, Medications/Preventives, Physical Activity, Environment and Eating behaviour sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
 
 **Data and code**
