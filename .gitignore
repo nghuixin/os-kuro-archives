@@ -6,11 +6,13 @@ data/processed/clinical/muscle_photos/
 *.pt
 *.onnx
 
-# Embark DNA results are public (re-include each parent folder, then re-ignore its siblings)
+# Embark and Wisdom Panel DNA results are public (re-include each parent folder, then re-ignore its siblings)
 !data/raw/genetics/
 data/raw/genetics/*
 !data/raw/genetics/embark/
 !data/raw/genetics/embark/**
+!data/raw/genetics/wisdom_panel/
+!data/raw/genetics/wisdom_panel/**
 
 # Images, anywhere in the repo
 *.jpg

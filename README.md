@@ -44,14 +44,15 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to eight Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
 | [`data/quality_of_life/hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) | His quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, with evidence; see [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
 | [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
-| [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`). The Wisdom Panel report (29 Jan 2023) is kept private |
+| [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`) |
+| [`data/raw/genetics/wisdom_panel/`](data/raw/genetics/wisdom_panel/) | Wisdom Panel DNA test (29 Jan 2023): the full report (`wisdom_panel_dna_report_2023-01-29.pdf`) with breed ancestry, 210 health conditions tested (all clear) and traits. Compared with Embark in the [DNA comparison](docs/analyses/dna-comparison.md) |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
 
 ### The data
 
 `data/` is split by when the data was recorded:
 
-- **`raw/`**: the original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private, except imaging and Embark.
+- **`raw/`**: the original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private, except imaging and the two DNA tests (Embark and Wisdom Panel).
 - **`processed/`**: tables built from records made at the time, grouped by topic (`clinical/`, `daily_care/`, `life/`, `genetics/`, `communicator/`).
 - **`dog_aging_project/`**: Dog Aging Project survey answers given after his death, described in [DAP surveys](docs/dog-aging-project/dap-surveys.md).
 - **`quality_of_life/`**: quality-of-life scores made after his death, block by block, from his records and confirmed by his owner.
@@ -108,6 +109,6 @@ The CSVs are plain files, sorted by date. `visits.csv` is the backbone: one row 
 ## Notes
 
 - **Not veterinary advice.** The summaries quote what vets and reports said; review documents (`diet-review.md`) are labelled as reviews.
-- **Privacy.** Raw records (chat exports, photos, PDFs, Notion notes) are gitignored and not published, except the Embark DNA data and the diagnostic images in `data/raw/imaging/` (patient ID redacted). The CSVs exclude people's names (birthday greeters are shortened to two letters), addresses, phone numbers, client and patient IDs, vehicle plates and bank details.
+- **Privacy.** Raw records (chat exports, photos, PDFs, Notion notes) are gitignored and not published, except the Embark and Wisdom Panel DNA reports and the diagnostic images in `data/raw/imaging/` (patient ID redacted). The CSVs exclude people's names (birthday greeters are shortened to two letters), addresses, phone numbers, client and patient IDs, vehicle plates and bank details.
 - **Dates.** The WhatsApp exports were made on a phone set to US Pacific time; chat timestamps have been converted to Malaysia time where it matters (15–16 hours ahead, depending on daylight saving). Each CSV records its `date_basis`, and chat-based dates may be a day off.
 - **How it was built.** Text-layer PDFs were parsed directly; photos were read by hand or with AI assistance and cross-checked against the PDFs where both exist; `confidence` columns flag uncertain readings.
