@@ -42,6 +42,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 |---|---|
 | [`data/processed/`](data/processed/) | Data recorded during his life (vet records, labs, chats, care notes, photos), cleaned into CSVs (table below) |
 | [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to five Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
+| [`data/quality_of_life/hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) | His quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, with evidence; see [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
 | [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
 | [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`). The Wisdom Panel report (29 Jan 2023) is kept private |
 | [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
@@ -53,6 +54,7 @@ Each case sets out what happened to Kuro, what the records support, what remains
 - **`raw/`**: the original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private, except imaging and Embark.
 - **`processed/`**: tables built from records made at the time, grouped by topic (`clinical/`, `daily_care/`, `life/`, `genetics/`, `communicator/`).
 - **`dog_aging_project/`**: Dog Aging Project survey answers given after his death, described in [DAP surveys](docs/dog-aging-project/dap-surveys.md).
+- **`quality_of_life/`**: quality-of-life scores made after his death, block by block, from his records and confirmed by his owner.
 
 The processed tables, with their subfolder under `data/processed/`:
 
@@ -76,6 +78,28 @@ The processed tables, with their subfolder under `data/processed/`:
 | `life/birthday_wishes.csv` | 11 | Messages for his 15th birthday |
 | `genetics/dna_comparison.csv` | 35 | Wisdom Panel vs Embark, one row per compared item, scored 1 (agree) or 0 (disagree) |
 | `communicator/communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
+
+## Reading the quality-of-life scores
+
+[`hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) scores Kuro on the **HHHHHMM Quality of Life Scale** (Villalobos), a scale vets use in palliative and hospice care. It has seven items, each scored **0 to 10, where 10 is best**:
+
+| Item | Question |
+|---|---|
+| **Hurt** | Is pain well controlled, including his ability to breathe comfortably? |
+| **Hunger** | Is he eating enough, with or without help? |
+| **Hydration** | Is he drinking enough, or does he need encouragement or fluids? |
+| **Hygiene** | Can he be kept clean, especially after toileting, and free of sores? |
+| **Happiness** | Does he show interest and joy and respond to the family? |
+| **Mobility** | Can he get up and walk without help? |
+| **More good days than bad** | Do good days outnumber bad ones? |
+
+**How to read a score.** In this archive the item scores follow fixed anchors: **10** no problem for a senior dog · **7–9** a mild or well-managed problem · **4–6** a moderate problem needing regular help or treatment · **1–3** severe or poorly controlled · **0** unmanageable. The seven items add up to a **total out of 70**; on this scale a **total above 35 is considered acceptable quality of life**, and a falling total, or bad days starting to outnumber good ones, is the point to talk with a vet about comfort and end-of-life care.
+
+**How these were scored.** Each row is one item in one six-month block (`block`, `period`), matching the blocks in the [care protocol](docs/case-study/care-protocol.md#quality-of-life-across-the-blocks). The score describes his **typical** state across the block, not his best or worst day. Scores were first proposed from the records, then confirmed or changed by his owner (`answered_by`). `confidence` says how well the records support each score (high, medium, low), and `evidence` gives the dated records behind it.
+
+**Limits.** The scale was designed to be scored in the moment, by the people caring for the dog; here it was scored after his death, which invites hindsight. Records are thinner where daily care wasn't written down (before Jun 2024, and after the household helper changed in Apr 2026). Treat differences of one or two points as noise and look at the direction of change.
+
+**Kuro's results.** Totals of 60 (2024 H1), 47, 46, 51, 39 and 36 (2026 H2): acceptable throughout, but only just in his last months. Mobility and hygiene fell most; hunger and happiness held up.
 
 ## Using the data
 

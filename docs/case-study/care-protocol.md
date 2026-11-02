@@ -15,6 +15,23 @@ A Blueprint-style log of everything Kuro's care consisted of, in six-month block
 | Managed multimorbidity | 2025 | Monthly labs, acupuncture, pain control, nightly heat packs |
 | Frailty and assisted living | 2026 | Hind-limb weakness, sarcopenia, assisted toileting, more meals |
 
+## Quality of life across the blocks
+
+His quality of life was scored retrospectively for each block from 2024 on, using the **HHHHHMM Quality of Life Scale** (Villalobos), a palliative-care scale with seven items scored 0–10. Scores were prefilled from the records and confirmed by his owner; the evidence for each is in [`hhhhhmm_kuro.csv`](../../data/quality_of_life/hhhhhmm_kuro.csv).
+
+| Item | 2024 H1 | 2024 H2 | 2025 H1 | 2025 H2 | 2026 H1 | 2026 H2 |
+|---|---|---|---|---|---|---|
+| Hurt | 8 | 6 | 5 | 6 | 6 | 6 |
+| Hunger | 9 | 7 | 7 | 8 | 7 | 7 |
+| Hydration | 9 | 6 | 7 | 7 | 5 | 5 |
+| Hygiene | 8 | 6 | 6 | 7 | 4 | 3 |
+| Happiness | 9 | 8 | 8 | 8 | 7 | 7 |
+| Mobility | 8 | 7 | 6 | 7 | 4 | 3 |
+| More good days than bad | 9 | 7 | 7 | 8 | 6 | 5 |
+| **Total (of 70; >35 acceptable)** | **60** | **47** | **46** | **51** | **39** | **36** |
+
+His quality of life stayed above the acceptable line to the end, but only just in his last months. The decline came mainly from **mobility and hygiene**, the parts of his life that depended on people lifting and cleaning him, while **hunger and happiness held up**: he stayed food-driven and engaged. 2025 H1 scores below 2025 H2 because of the Feb–May pain flare. The 2024 H2 hydration score reflects intense thirst, probably from prednisolone, when he drank his own urine at night.
+
 ---
 
 ### 2020 H1 – 2021 H2 · age 10–11 · "lose the weight"
