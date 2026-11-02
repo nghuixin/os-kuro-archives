@@ -2,7 +2,7 @@
 
 The [Dog Aging Project](https://dogagingproject.org) (DAP) is a long-term study of ageing in tens of thousands of US companion dogs. It publishes its owner survey instruments and codebooks in its public GitHub repository, [`dogagingproject/dataRelease`](https://github.com/dogagingproject/dataRelease).
 
-Kuro was never enrolled in the DAP. After his death his owner answered five DAP survey sections for him, so that his last year can be compared with DAP dogs. The answers are in [`data/dog_aging_project/dap_surveys_kuro.csv`](../../data/dog_aging_project/dap_surveys_kuro.csv), and this page describes the surveys behind them:
+Kuro was never enrolled in the DAP. After his death his owner answered eight DAP survey sections for him, so that his last year can be compared with DAP dogs. The answers are in [`data/dog_aging_project/dap_surveys_kuro.csv`](../../data/dog_aging_project/dap_surveys_kuro.csv), and this page describes the surveys behind them:
 
 | Survey | When DAP asks it | Kuro's answers cover |
 |---|---|---|
@@ -11,6 +11,9 @@ Kuro was never enrolled in the DAP. After his death his owner answered five DAP 
 | [Annual Follow-Up: Age-Related Changes](#annual-follow-up-age-related-changes) | Every year | His last year (Oct 2025 – Oct 2026) |
 | [Annual Follow-Up: Diet](#annual-follow-up-diet) | At baseline and every year | His diet in his final months |
 | [Annual Follow-Up: Medications and Preventives](#annual-follow-up-medications-and-preventives) | Every year | His last year |
+| [Annual Follow-Up: Physical Activity](#annual-follow-up-physical-activity) | Every year | His last year |
+| [Annual Follow-Up: Environment](#annual-follow-up-environment) | Every year | His home and daily routine in his last year |
+| [Annual Follow-Up: Eating behaviour (DORA)](#annual-follow-up-eating-behaviour-dora) | Every year | His final months |
 
 Item content is summarised and DAP's variable names are given so the original wording can be found; the forms are not reproduced. The repository has no stated licence, so the PDFs and the DAP codebook are kept as local copies only (`docs/dog-aging-project/forms/`, gitignored).
 
@@ -25,7 +28,7 @@ Item content is summarised and DAP's variable names are given so the original wo
 | `answered_by` | `owner` for every row: each answer was given or confirmed by his owner (Oct–Nov 2026) |
 | `evidence` | A check of the answer against what was written at the time (chats, vet records, labs). It starts with a verdict (`supports`, `contradicts`, `mixed`, `not mentioned`, `not checkable`), then gives dated, sourced quotes, and notes where the owner revised an answer after seeing the evidence |
 
-**How it was built.** The owner answered the End of Life and cognition surveys from memory. Every answer was then checked against the records: 101 of the owner's 152 original answers were supported, 2 were contradicted (whether anyone was present at his death) and 20 were mixed; the owner revised three answers after seeing the evidence. For the Age-Related Changes, Diet and Medications sections, answers were first prefilled from the records and then confirmed or corrected by the owner. All codes were validated against the DAP codebook. Two variables are not in DAP's public release: `eol_notes_description` (free text, withheld by DAP) and `dt_overweight_hles` (on the form but not released).
+**How it was built.** The owner answered the End of Life and cognition surveys from memory. Every answer was then checked against the records: 101 of the owner's 152 original answers were supported, 2 were contradicted (whether anyone was present at his death) and 20 were mixed; the owner revised three answers after seeing the evidence. For the Age-Related Changes, Diet, Medications, Physical Activity, Environment and Eating behaviour sections, answers were first prefilled from the records and then confirmed or corrected by the owner. All codes were validated against the DAP codebook. Two variables are not in DAP's public release: `eol_notes_description` (free text, withheld by DAP) and `dt_overweight_hles` (on the form but not released).
 
 ## End of Life Survey (EOLS)
 
@@ -113,6 +116,24 @@ The post-mortem findings behind the cause of death are in the [health summary](.
 | Non-prescription products | 14 types (antibiotic ointment, antihistamine, anti-inflammatory, ear cleaner, eye lubricant, joint supplement, stomach remedy, omega-3, probiotic, vitamin and others) | `afus_mp_recent_non_prescription_meds_*` |
 
 **Kuro's answers:** teeth checked and brushed only occasionally; a professional dental cleaning in 2026 (also one in 2024), no extractions. Groomed professionally about monthly; washed at home a few times a year. One topical flea and heartworm treatment (Advocate) in Sep 2026. Vaccines last given around 2022–2023; which ones is not known. Non-prescription products: ear cleaner, eye lubricant, joint supplement, stomach remedy, omega-3, probiotic, vitamin and others (liver and kidney supplements, Chinese herbal formulas).
+
+## Annual Follow-Up: Physical Activity
+
+**Source:** [`Survey_Instruments/AFUS/DAP_AFUS_03_PhysicalActivity.pdf`](https://github.com/dogagingproject/dataRelease/tree/master/Survey_Instruments/AFUS). How active the dog is and for how long; how many months of the year are moderate, hot or cold, and for each, time outdoors, sun exposure and the surfaces walked on; on- and off-leash walks (how often, how long, pace, reasons); games, swimming and other aerobic activity (`afus_pa_*`).
+
+**Kuro's answers:** moderately active, about 2.5 hours a day mostly walking around the house; hot weather all year, 8–16 hours outdoors a day on wood and grass, with shade available; leash walks outside the house less than once a week, up to 20 minutes at a slow-to-average pace; rarely played fetch-type games; no swimming.
+
+## Annual Follow-Up: Environment
+
+**Source:** [`Survey_Instruments/AFUS/DAP_AFUS_04_Environment.pdf`](https://github.com/dogagingproject/dataRelease/tree/master/Survey_Instruments/AFUS). The home (type, age, size, fuels, pipes, air conditioning), indoor exposures (asbestos, radon, lead, mothballs, incense, air fresheners, air cleaners), drinking water, toys, sleep, a typical day's routine, the yard and its treatment, outdoor habits (eating grass or faeces, drinking outdoor water), other animals, traffic noise and the neighbourhood (`afus_de_*`). Location questions are answered at category level only.
+
+**Kuro's answers:** a detached house built in the 2000s, about 4,000 sq ft, no heating or air-conditioning for him, electric cooking, metal pipes, filtered drinking water, none of the listed indoor exposures. He slept indoors, about 6 hours at night and 6 by day in a different spot; spent about 16 hours a day in the yard and semi-outdoor areas (1,000–5,000 sq ft) and 8 indoors, never crated; about an hour a day with an adult and an hour with his Kong balls. Koi in the garden pond were the only other animals. He occasionally ate grass, never ate faeces or drank outdoor water, and rarely met people in the neighbourhood. The yard had a small open fish pond; he died after slipping into it.
+
+## Annual Follow-Up: Eating behaviour (DORA)
+
+**Source:** [`Survey_Instruments/AFUS/DAP_AFUS_10_DORA_CanineEatingBehavior.pdf`](https://github.com/dogagingproject/dataRelease/tree/master/Survey_Instruments/AFUS). The Dog Obesity Risk and Appetite questionnaire: 35 agree/disagree statements about the dog's food motivation (interest in food, begging, scavenging, eating speed) and how the household manages feeding (measuring food, treats, human food, weight and exercise) (`afus_dora_*`). It is designed to predict obesity risk, not quality of life. Several items are reverse-scored, so check the codebook labels rather than reading codes as "higher = more".
+
+**Kuro's answers:** a strongly food-motivated dog, always hungry, finishing meals immediately and watching the kitchen for titbits; meals measured (about 200 g each); occasional bread or pork ribs at family mealtimes; no vet restriction on exercise (no jumping was a family rule); the family was trying to keep weight on, not take it off.
 
 ## Body condition
 

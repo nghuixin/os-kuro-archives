@@ -34,14 +34,14 @@ Each case sets out what happened to Kuro, what the records support, what remains
 | [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
 | | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
-| [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The five Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet and Medications/Preventives sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
+| [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The eight Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet, Medications/Preventives, Physical Activity, Environment and Eating behaviour sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
 
 **Data and code**
 
 | Path | Contents |
 |---|---|
 | [`data/processed/`](data/processed/) | Data recorded during his life (vet records, labs, chats, care notes, photos), cleaned into CSVs (table below) |
-| [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to five Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
+| [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to eight Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
 | [`data/quality_of_life/hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) | His quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, with evidence; see [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
 | [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
 | [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`). The Wisdom Panel report (29 Jan 2023) is kept private |
