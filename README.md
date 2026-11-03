@@ -18,55 +18,75 @@ It covers 2021 – Oct 2026. Sources are his vet invoices, in-house lab reports,
 
 Each case sets out what happened to Kuro, what the records support, what remains unknown and questions to discuss with your own vet.
 
+**If you are facing end-of-life decisions**, read [End-of-life thresholds](docs/case-study/end-of-life-thresholds.md), which applies two end-of-life checklists to Kuro block by block.
+
 **If you want the full story or the data:**
 
 - [Health summary](docs/case-study/health-summary.md): his story, the post-mortem findings, lab trends, recurring conditions, daily care, medications, diet and the gaps in the records.
 - [`data/processed/`](data/processed/): everything as CSVs.
 
-## What's here
+## Repository layout
 
-**Documents (`docs/`)**
+```
+os-kuro-archives/
+├── docs/
+│   ├── case-study/          health summary, care protocol, end-of-life thresholds
+│   ├── owners/              lessons for owners, vet's palliative-care guide (PDF)
+│   ├── analyses/            diet review, DNA test comparison
+│   └── dog-aging-project/   Dog Aging Project survey answers, explained
+├── data/
+│   ├── processed/           CSVs built from records made during his life
+│   │   ├── clinical/        visits, labs, prescriptions, invoices, health events, weights, imaging, providers
+│   │   ├── daily_care/      feeding, diet, home care, stool log, grooming
+│   │   ├── life/            trips, milestones, birthday wishes
+│   │   ├── genetics/        Wisdom Panel vs Embark comparison
+│   │   └── communicator/    animal communicator notes
+│   ├── dog_aging_project/   DAP survey answers (scored after his death)
+│   ├── quality_of_life/     HHHHHMM quality-of-life scores (scored after his death)
+│   └── raw/                 original records; only imaging/ and genetics/ are published
+│       ├── imaging/         X-rays and ultrasound stills
+│       └── genetics/        embark/, wisdom_panel/
+└── scripts/
+    └── triage_images.py     offline photo sorter for the WhatsApp exports
+```
+
+## Documents (`docs/`)
 
 | Folder | Document | Contents |
 |---|---|---|
 | [`case-study/`](docs/case-study/) | [Health summary](docs/case-study/health-summary.md) | His story 2021–2026 as a narrative, the post-mortem findings with the vet's answers to follow-up questions, then the lab trend table, recurring themes (incl. trouble standing up), daily care and stools, medications, diet and gaps |
+| | [Care protocol](docs/case-study/care-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026, with quality of life across the blocks |
 | | [End-of-life thresholds](docs/case-study/end-of-life-thresholds.md) | Kuro as a case study for end-of-life decision points: the HHHHHMM scale and his vet's palliative-care guide compared, applied block by block, with the emergency signs that occurred and lessons for owners |
-| | [Care protocol](docs/case-study/care-protocol.md) | His full care protocol (diet, supplements, medications, therapies, movement, hygiene, monitoring) in six-month blocks, 2020–2026 |
-| [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
-| | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
 | | [Palliative care guide (PDF)](docs/owners/FWVC_PalliativeEnd-of-Life-Care-Support-Guide_2025.pdf) | Furkids Wellness Veterinary Centre's palliative and end-of-life care guide (2025): quality-of-life checklist, when to talk to the vet, emergency signs, home-setup tips |
+| [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
+| | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The eight Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet, Medications/Preventives, Physical Activity, Environment and Eating behaviour sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
 
-**Data and code**
-
-| Path | Contents |
-|---|---|
-| [`data/processed/`](data/processed/) | Data recorded during his life (vet records, labs, chats, care notes, photos), cleaned into CSVs (table below) |
-| [`data/dog_aging_project/dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) | Kuro's answers to eight Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
-| [`data/quality_of_life/hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) | His quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, with evidence; see [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
-| [`data/raw/imaging/`](data/raw/imaging/) | His X-rays (Jun–Jul 2024, Dec 2025) and abdominal ultrasound stills (Jul 2024), with the clinic's patient ID redacted |
-| [`data/raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`) |
-| [`data/raw/genetics/wisdom_panel/`](data/raw/genetics/wisdom_panel/) | Wisdom Panel DNA test (29 Jan 2023): the full report (`wisdom_panel_dna_report_2023-01-29.pdf`) with breed ancestry, 210 health conditions tested (all clear) and traits. Compared with Embark in the [DNA comparison](docs/analyses/dna-comparison.md) |
-| [`scripts/triage_images.py`](scripts/triage_images.py) | Offline photo sorter (medical / dog / plates / unsure) used on the WhatsApp exports |
-
-### The data
+## Data (`data/`)
 
 `data/` is split by when the data was recorded:
 
-- **`raw/`**: the original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private, except imaging and the two DNA tests (Embark and Wisdom Panel).
-- **`processed/`**: tables built from records made at the time, grouped by topic (`clinical/`, `daily_care/`, `life/`, `genetics/`, `communicator/`).
-- **`dog_aging_project/`**: Dog Aging Project survey answers given after his death, described in [DAP surveys](docs/dog-aging-project/dap-surveys.md).
-- **`quality_of_life/`**: quality-of-life scores made after his death, block by block, from his records and confirmed by his owner.
+| Folder | What it holds |
+|---|---|
+| [`processed/`](data/processed/) | Tables built from records made at the time, grouped by topic (table below) |
+| [`dog_aging_project/`](data/dog_aging_project/) | [`dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) (468 rows): Kuro's answers to eight Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner after his death, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
+| [`quality_of_life/`](data/quality_of_life/) | [`hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) (42 rows): his quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, made after his death from his records and confirmed by his owner. See [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
+| [`raw/`](data/raw/) | The original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private and gitignored, except the two folders below |
+| [`raw/imaging/`](data/raw/imaging/) | 11 images: X-rays (30 Jun 2024, 11 Jul 2024, 29 Dec 2025) and abdominal ultrasound stills (1 Jul 2024), with the clinic's patient ID redacted |
+| [`raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`) |
+| [`raw/genetics/wisdom_panel/`](data/raw/genetics/wisdom_panel/) | Wisdom Panel DNA test (29 Jan 2023): the full report (`wisdom_panel_dna_report_2023-01-29.pdf`) with breed ancestry, 210 health conditions tested (all clear) and traits. Compared with Embark in the [DNA comparison](docs/analyses/dna-comparison.md) |
 
-The processed tables, with their subfolder under `data/processed/`:
+### Processed tables
+
+Paths are relative to `data/processed/`.
 
 | File | Rows | What it holds |
 |---|---|---|
-| `clinical/visits.csv` | 89 | One row per clinic per day, with what exists for each visit (labs, weight, prescriptions, invoices, imaging) |
+| `clinical/visits.csv` | 90 | One row per clinic per day, with what exists for each visit (labs, weight, prescriptions, invoices, imaging) |
 | `clinical/labs.csv` | 850 | IDEXX blood panels (chemistry, CBC, SDMA, electrolytes, 4Dx), analyzer comments and lab findings mentioned in chat |
 | `clinical/prescriptions.csv` | 118 | Medications, supplements and care products, with kind, brand, dose and duration |
-| `clinical/invoice_items.csv` | 228 | Every line of 27 vet invoices (RM) |
+| `clinical/invoice_items.csv` | 228 | Every line of 29 vet invoices (RM) |
 | `clinical/health_events.csv` | 461 | Symptoms, diagnoses, vet assessments, care notes and post-mortem findings, quoted from the sources |
 | `clinical/weights.csv` | 24 | Weights from 2020 to 2026 |
 | `clinical/imaging.csv` | 13 | X-rays, ultrasounds, biopsy and post-mortem photo |
@@ -81,6 +101,10 @@ The processed tables, with their subfolder under `data/processed/`:
 | `life/birthday_wishes.csv` | 11 | Messages for his 15th birthday |
 | `genetics/dna_comparison.csv` | 35 | Wisdom Panel vs Embark, one row per compared item, scored 1 (agree) or 0 (disagree) |
 | `communicator/communicator_notes.csv` | 61 | Non-clinical health and pain impressions from an animal communicator's reports and reiki notes, with the owner's observations (Jul 2024 – Sep 2026) |
+
+### Using the data
+
+The CSVs are plain files, sorted by date. `clinical/visits.csv` is the backbone: one row per clinic per day, with columns showing what exists for that visit. To chart lab values, use `clinical/labs.csv` filtered to `record_type = panel`.
 
 ## Reading the quality-of-life scores
 
@@ -104,9 +128,13 @@ The processed tables, with their subfolder under `data/processed/`:
 
 **Kuro's results.** Totals of 60 (2024 H1), 47, 46, 51, 39 and 36 (2026 H2): acceptable throughout, but only just in his last months. Mobility and hygiene fell most; hunger and happiness held up.
 
-## Using the data
+## Scripts (`scripts/`)
 
-The CSVs are plain files, sorted by date. `visits.csv` is the backbone: one row per clinic per day, with columns showing what exists for that visit. To chart lab values, use `labs.csv` filtered to `record_type = panel`.
+[`triage_images.py`](scripts/triage_images.py) labels each photo from the WhatsApp exports as medical, dog, exclude (licence plates), other or unsure, fully offline (YOLO for dogs and vehicles, RapidOCR for text). It writes an index and a review gallery into `data/raw/` and moves nothing. It needs the private raw exports and the YOLO weights at `scripts/models/yolov8n.pt` (not committed), and runs with [uv](https://docs.astral.sh/uv/):
+
+```
+uv run scripts/triage_images.py [--limit N]
+```
 
 ## Notes
 
