@@ -63,6 +63,7 @@ os-kuro-archives/
 | | [Supplement review](docs/analyses/supplement-review.md) | Every supplement he took, grouped by ingredient, graded by the strength of evidence in dogs: clinically validated, research stage, tested and not supported, or no credible evidence |
 | | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The eight Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet, Medications/Preventives, Physical Activity, Environment and Eating behaviour sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
+| | [Kuro vs DAP findings](docs/dog-aging-project/kuro-vs-dap-findings.md) | Where Kuro sits against published Dog Aging Project studies of similar dogs: lifespan by size and breed type, multimorbidity, disease history, cognition, and end-of-life patterns |
 
 ## Data (`data/`)
 

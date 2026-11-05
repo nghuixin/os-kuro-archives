@@ -65,6 +65,8 @@ Item content is summarised and DAP's variable names are given so the original wo
 
 The post-mortem findings behind the cause of death are in the [health summary](../case-study/health-summary.md#post-mortem-examination-19-oct-2026).
 
+How these answers compare with published DAP studies of similar dogs: [Kuro vs DAP findings](./kuro-vs-dap-findings.md).
+
 ## Cognition: Canine Social and Learned Behavior survey (CSLB)
 
 **Source:** [`Survey_Instruments/CSLB/DAP_CSLB.pdf`](https://github.com/dogagingproject/dataRelease/blob/master/Survey_Instruments/CSLB/DAP_CSLB.pdf) (2020.11.12). The survey is the **CCDR** (Salvin et al., 2011), minimally modified and renamed so it does not suggest dementia to owners. It is repeated every year.
