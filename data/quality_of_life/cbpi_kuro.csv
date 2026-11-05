@@ -1,0 +1,67 @@
+block,period,item,domain,score,confidence,answered_by,evidence
+2024H1,2024-01 to 2024-06,1,severity,3,medium,owner,"Typical pre-crisis week. Stiffness, no pain meds: 4 Apr 'too slippery very hard to get up'; 19 May 'his back leg stiff' [family chat]. Late-Jun crisis (limping, bloating) excluded as atypical (Owner accepted the records score)"
+2024H1,2024-01 to 2024-06,2,severity,0,medium,owner,Most days no sign of pain: 12 Apr 'happy n jumping'; Feb 'really loves his walkies' [family chat; sitter chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,3,severity,1,medium,owner,"Mild, untreated joint discomfort; no analgesics prescribed before Jul 2024 [prescriptions] (Owner accepted the records score)"
+2024H1,2024-01 to 2024-06,4,severity,1,low,owner,'Pain now' cannot be observed retrospectively; set equal to average pain (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,5,interference,1,medium,owner,Long walks with the pet sitter (Feb); active and playful [sitter chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,6,interference,0,medium,owner,'Kuro always so happy' (24 Jan); 'everything so happy' (12 Apr) [family chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,7,interference,2,medium,owner,4 Apr 'very hard to get up' on slippery wood floor; partly traction rather than pain [family chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,8,interference,1,medium,owner,Walking normally; 10 Jun 'walk very funny like a bear' late in the block [family chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,9,interference,2,low,owner,"Still jumping (12 Apr) and running ('run And poop same time', 10 Apr); 'no jumping' family rule since 2023 [family chat] (Owner accepted the records score)"
+2024H1,2024-01 to 2024-06,10,interference,2,low,owner,No climbing problems recorded; family rule against jumping [family chat] (Owner accepted the records score)
+2024H1,2024-01 to 2024-06,11,overall,very good,medium,owner,"HHHHHMM total 60/70; happiness 9, more good days 9 [hhhhhmm_kuro.csv] (Owner accepted the records score)"
+2024H2,2024-07 to 2024-12,1,severity,5,medium,owner,"19 Jul acupuncture vet, from pulse: 'he should feel a lot of pain'; 24 Oct lower-back pain; 26 Nov 'left body side has signs of pain' [health_events; pet taxi]. Pulse readings are not a validated pain measure (Owner accepted the records score)"
+2024H2,2024-07 to 2024-12,2,severity,1,medium,owner,Good spells: 30 Jul running faster; 24 Sep 'Kuro run He happy'; Oct groomer 'super super active' [sitter chat; family chat; grooming] (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,3,severity,3,medium,owner,Weekly acupuncture; prednisolone from Jul; 22 Jul crepitus/arthritis; 24 Oct 'pulse does NOT indicate excruciating pain' [health_events; prescriptions] (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,4,severity,3,low,owner,Set equal to average pain (not observable retrospectively) (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,5,interference,3,medium,owner,"Walks up to 30 min, played catch (Jul); lethargic in mid-Nov anaemic dip [Notion care notes; health_events] (Owner accepted the records score)"
+2024H2,2024-07 to 2024-12,6,interference,2,medium,owner,"Jul 'active and wants to play'; dip 16 Nov 'very unhappy', recovered by 24 Nov [sitter chat; pet taxi] (Owner accepted the records score)"
+2024H2,2024-07 to 2024-12,7,interference,4,medium,owner,17 Oct 'struggle to get up cause the floor slippery'; 24 Oct 'hind legs are weak' [pet taxi; family chat] (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,8,interference,2,medium,owner,Walks up to 30 min (Jul care notes) [Notion care notes] (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,9,interference,3,medium,owner,"Running and playing catch (Jul, Sep); 'dont make kuro jump' (27 Oct) [sitter chat; family chat] (Owner accepted the records score)"
+2024H2,2024-07 to 2024-12,10,interference,5,medium,owner,Carried into car 15 Oct; stairs only indoors and 'with great care' (18 Jul) [pet taxi; Notion care notes] (Owner accepted the records score)
+2024H2,2024-07 to 2024-12,11,overall,good,medium,owner,"HHHHHMM total 47/70; two bad spells (ICU, Nov anaemia), mostly good between [hhhhhmm_kuro.csv] (Owner accepted the records score)"
+2025H1,2025-01 to 2025-06,1,severity,7,high,owner,"27 Feb 'left side more pain', 'did snap at us when pain'; 28 Feb acupuncture vet 'he is in great pain'; 29 Apr wound 'inflamed and painful' [pet taxi; family chat] (Owner accepted the records score)"
+2025H1,2025-01 to 2025-06,2,severity,2,medium,owner,5 Mar 'super active now'; 26 Mar 'still as lively as a puppy' [family chat] (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,3,severity,4,high,owner,"27 Apr house-call vet 'arthritis and some nerve pain', Galliprant and gabapentin; 4 May pain dose increased; heat packs ~2x/day from May [health_events; prescriptions; home_care] (Owner accepted the records score)"
+2025H1,2025-01 to 2025-06,4,severity,4,low,owner,Set equal to average pain (not observable retrospectively) (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,5,interference,4,medium,owner,"Bad spell late Apr to mid-May: pain, limping, poor appetite; active otherwise [health_events; pet taxi] (Owner accepted the records score)"
+2025H1,2025-01 to 2025-06,6,interference,3,medium,owner,Moody/sad in cone 30 Apr-4 May; 10 Jun 'excited seeing us' [pet taxi] (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,7,interference,6,high,owner,27 Apr house call for 'trouble getting up'; 15 May 'struggling to get up to walk into the room' [helper chat; pet taxi] (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,8,interference,5,high,owner,"27 Apr 'leg was stiff... hard to walk', limping; 7 Feb hind left leg shivers [helper chat; health_events] (Owner accepted the records score)"
+2025H1,2025-01 to 2025-06,9,interference,4,medium,owner,10 Jun 'running after' the other dog; 2 May rear-support wheelchair considered [pet taxi] (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,10,interference,6,medium,owner,Rear-support wheelchair considered (2 May); hind-limb stiffness [pet taxi] (Owner accepted the records score)
+2025H1,2025-01 to 2025-06,11,overall,good,medium,owner,HHHHHMM total 46/70; happiness 8 [hhhhhmm_kuro.csv] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,1,severity,5,medium,owner,"11 Sep 'right side hip pain'; Nov pancreatitis needing painkiller; 30 Dec left hind limp, 'mild sprain or strain' [pet taxi; FurKids chat] (Owner accepted the records score)"
+2025H2,2025-07 to 2025-12,2,severity,1,medium,owner,4 Nov 'no pain pulse'; 28 Nov 'running around like a horse' [pet taxi; family chat] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,3,severity,3,high,owner,"Pain noted at most acupuncture visits (10 Jul, 17 Jul, 19 Aug, 11 Sep); managed with gabapentin, weekly acupuncture and heat packs ~nightly (165 sessions) [pet taxi; prescriptions; home_care] (Owner accepted the records score)"
+2025H2,2025-07 to 2025-12,4,severity,3,low,owner,Set equal to average pain (not observable retrospectively) (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,5,interference,3,medium,owner,16 Oct 'super energetic when it comes to his Kong toy'; 14 Jul did not leave his cage all day [pet taxi] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,6,interference,2,medium,owner,30 Oct 'happy and excited'; 'happy fellow' [pet taxi] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,7,interference,4,medium,owner,9 Sep 'hind leg abit weak more towards the left'; 30 Oct 'abit unstable' [pet taxi] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,8,interference,3,medium,owner,11 Sep 'walk abit weird'; limp after slipping 30 Dec [pet taxi; FurKids chat] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,9,interference,2,medium,owner,28 Nov 'running around like a horse' [family chat] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,10,interference,3,medium,owner,6 Dec father 'so nimble n can jump'; carried home 30 Oct [family chat; pet taxi] (Owner accepted the records score)
+2025H2,2025-07 to 2025-12,11,overall,good,medium,owner,HHHHHMM total 51/70; 4 Nov 'overall health wise he is good' [hhhhhmm_kuro.csv; pet taxi] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,1,severity,6,medium,owner,"22 Jan 'abit of pain', pain relief given; 19 Feb right side inflamed, pain left hind; 9 Jun whining when stuck in urine [pet taxi; family chat] (Owner accepted the records score)"
+2026H1,2026-01 to 2026-06,2,severity,2,medium,owner,19 Mar 'no pain pulse'; 9 Mar 'so healthy and happy' [pet taxi] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,3,severity,3,medium,owner,20 Apr vet: hip 'discomfort on palpation'; 4 Jun 'pain generally as due to aging but overall good'; twice-weekly acupuncture May-Jun [health_events; pet taxi] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,4,severity,4,low,owner,Set slightly above average: the block ends at its low point (unable to stand 10 Jun) (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,5,interference,5,medium,owner,"Jan-Mar walked by father; from Apr less active, 17 Apr 'look tired', 10 Jun 'a bit lazy' [pet taxi; family chat] (Owner accepted the records score)"
+2026H1,2026-01 to 2026-06,6,interference,3,medium,owner,"25 Feb 'very excited literally keep running towards me'; 5 Mar 'calmer, can sleep well' [pet taxi; family chat] (Owner accepted the records score)"
+2026H1,2026-01 to 2026-06,7,interference,6,medium,owner,19 Apr 'couldn't get up' after pooping; 10 Jun 'unable to stand'. Weakness (sarcopenia) likely contributes more than pain [pet taxi; health_events] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,8,interference,5,medium,owner,28 May 'needs help sometimes with hind legs'; leash-walked in backyard 3x/day after 10 Jun [pet taxi; health_events] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,9,interference,6,low,owner,25 Feb still 'running towards me'; little running recorded after Mar [pet taxi] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,10,interference,7,low,owner,Needs help with hind legs (28 May); no climbing recorded [pet taxi] (Owner accepted the records score)
+2026H1,2026-01 to 2026-06,11,overall,fair,medium,owner,HHHHHMM total 39/70; bad days rising from Apr [hhhhhmm_kuro.csv] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,1,severity,6,medium,owner,"9 Aug slipped and yelped, carried up from floor; 15 Oct 'right side back area painful', leaning right [health_events; pet taxi] (Owner accepted the records score)"
+2026H2,2026-07 to 2026-10-18,2,severity,2,medium,owner,2 Oct vet: pulse 'doesn't confirm pain'; 9 Oct 'doing much better'; 12 Oct 'he look happy' [health_events; family chat] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,3,severity,3,medium,owner,Mild pain at most trips: 21 Jul 'slightly in pain in hind legs'; 11 Aug 'pain abit'; muscles 'crampy' (2 Oct); owner 'in pain but always smiling' [pet taxi; health_events; family chat] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,4,severity,3,low,owner,Set equal to average pain (not observable retrospectively) (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,5,interference,6,medium,owner,"Toilet help 4 fixed times daily, lifted hourly; 30 Aug 'Tired Kuro' [health_events; family chat] (Owner accepted the records score)"
+2026H2,2026-07 to 2026-10-18,6,interference,3,medium,owner,13 Oct 'energetic'; 1 Oct 'so excited to see' pet taxi; 28 Aug 'why he look sad' [family chat; pet taxi] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,7,interference,7,medium,owner,"Lifted by helper hourly; 'some days when he could stand, and some days when he couldn't' (owner, 25 Oct). Vet: hind-limb weakness from 'sarcopenia' (7 Jul), so weakness, not only pain [health_events; family chat] (Owner accepted the records score)"
+2026H2,2026-07 to 2026-10-18,8,interference,6,medium,owner,"2 Oct 'progressive hind limb weakness'; but walks fast at times (27 Jul, 11 Aug) [health_events; pet taxi] (Owner accepted the records score)"
+2026H2,2026-07 to 2026-10-18,9,interference,7,low,owner,No running recorded; fast walking at times [pet taxi] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,10,interference,8,low,owner,Carried up from the floor (9 Aug); lifted for toileting [health_events] (Owner accepted the records score)
+2026H2,2026-07 to 2026-10-18,11,overall,fair,medium,owner,"HHHHHMM total 36/70; mobility 3, hygiene low [hhhhhmm_kuro.csv] (Owner accepted the records score)"

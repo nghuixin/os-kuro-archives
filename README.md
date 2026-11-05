@@ -42,7 +42,7 @@ os-kuro-archives/
 │   │   ├── genetics/        Wisdom Panel vs Embark comparison
 │   │   └── communicator/    animal communicator notes
 │   ├── dog_aging_project/   DAP survey answers (scored after his death)
-│   ├── quality_of_life/     HHHHHMM quality-of-life scores (scored after his death)
+│   ├── quality_of_life/     HHHHHMM quality-of-life and CBPI pain scores (scored after his death)
 │   └── raw/                 original records; only imaging/ and genetics/ are published
 │       ├── imaging/         X-rays and ultrasound stills
 │       └── genetics/        embark/, wisdom_panel/
@@ -71,7 +71,7 @@ os-kuro-archives/
 |---|---|
 | [`processed/`](data/processed/) | Tables built from records made at the time, grouped by topic (table below) |
 | [`dog_aging_project/`](data/dog_aging_project/) | [`dap_surveys_kuro.csv`](data/dog_aging_project/dap_surveys_kuro.csv) (468 rows): Kuro's answers to eight Dog Aging Project survey sections, one row per DAP variable with DAP codes, all given or confirmed by his owner after his death, each checked against his records in an `evidence` column. See [DAP surveys](docs/dog-aging-project/dap-surveys.md) |
-| [`quality_of_life/`](data/quality_of_life/) | [`hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) (42 rows): his quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, made after his death from his records and confirmed by his owner. See [Reading the quality-of-life scores](#reading-the-quality-of-life-scores) |
+| [`quality_of_life/`](data/quality_of_life/) | [`hhhhhmm_kuro.csv`](data/quality_of_life/hhhhhmm_kuro.csv) (42 rows): his quality of life scored on the HHHHHMM scale for each six-month block from 2024 to his death, made after his death from his records and confirmed by his owner. See [Reading the quality-of-life scores](#reading-the-quality-of-life-scores). [`cbpi_kuro.csv`](data/quality_of_life/cbpi_kuro.csv) (66 rows): Canine Brief Pain Inventory for the same blocks, item numbers and scores only, confirmed by his owner. See [Reading the pain scores](#reading-the-pain-scores) |
 | [`raw/`](data/raw/) | The original records (WhatsApp exports with the PDFs and photos sent in them, Notion care notes, DNA reports, imaging). Private and gitignored, except the two folders below |
 | [`raw/imaging/`](data/raw/imaging/) | 11 images: X-rays (30 Jun 2024, 11 Jul 2024, 29 Dec 2025) and abdominal ultrasound stills (1 Jul 2024), with the clinic's patient ID redacted |
 | [`raw/genetics/embark/`](data/raw/genetics/embark/) | Embark DNA test (4 Feb 2025): the report (`embark_dna_report_2025-02-04.pdf`), the results export (`embark_results_2025-02-04.csv`) and raw genotypes in PLINK format (`embark_raw_genotypes/`) |
@@ -127,6 +127,31 @@ The CSVs are plain files, sorted by date. `clinical/visits.csv` is the backbone:
 **Limits.** The scale was designed to be scored in the moment, by the people caring for the dog; here it was scored after his death, which invites hindsight. Records are thinner where daily care wasn't written down (before Jun 2024, and after the household helper changed in Apr 2026). Treat differences of one or two points as noise and look at the direction of change.
 
 **Kuro's results.** Totals of 60 (2024 H1), 47, 46, 51, 39 and 36 (2026 H2): acceptable throughout, but only just in his last months. Mobility and hygiene fell most; hunger and happiness held up.
+
+## Reading the pain scores
+
+[`cbpi_kuro.csv`](data/quality_of_life/cbpi_kuro.csv) scores Kuro on the **Canine Brief Pain Inventory** (CBPI; Brown et al., University of Pennsylvania), an owner-completed pain questionnaire validated in dogs with osteoarthritis. It asks about the past 7 days, on a scale from **0 (no pain / no interference) to 10 (extreme)**:
+
+- **Pain severity:** worst, least and average pain, and pain right now (items 1–4, averaged).
+- **Pain interference:** how much pain got in the way of general activity, enjoyment of life, rising, walking, running and climbing (items 5–10, averaged).
+- **Overall quality of life:** item 11, from poor to excellent.
+
+The instrument is copyrighted, so the file stores **item numbers and scores only**, not the questions.
+
+**How these were scored.** As for HHHHHMM: one typical week per six-month block, proposed from the chats and vet records, then confirmed by his owner. Each row has `confidence` and dated `evidence`. "Pain right now" can't be observed after the fact, so it was set to the average pain.
+
+**Limits.** The CBPI attributes all interference to pain; it can't separate weakness. In 2026, when his hind-limb weakness (sarcopenia) worsened, the interference scores overstate pain's role. Several pain observations come from acupuncture pulse readings, which aren't a validated measure. Running and climbing were rarely recorded, so those scores are low-confidence.
+
+**Kuro's results.**
+
+| Block | 2024 H1 | 2024 H2 | 2025 H1 | 2025 H2 | 2026 H1 | 2026 H2 |
+|---|---|---|---|---|---|---|
+| Pain severity | 1.3 | 3.0 | **4.3** | 3.0 | 3.8 | 3.5 |
+| Pain interference | 1.3 | 3.2 | 4.7 | 2.8 | 5.3 | **6.2** |
+| Overall | very good | good | good | good | fair | fair |
+
+- **Pain peaked in 2025 H1** (he snapped when in pain, and Galliprant and gabapentin were started), then held at a moderate level on gabapentin, acupuncture and heat packs.
+- **Interference kept rising while pain didn't.** His decline in 2026 was driven by lost function more than by worsening pain, consistent with the End of Life Survey answer of poor mobility from both weakness and pain.
 
 ## Scripts (`scripts/`)
 
