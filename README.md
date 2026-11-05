@@ -60,6 +60,7 @@ os-kuro-archives/
 | [`owners/`](docs/owners/) | [Lessons for owners](docs/owners/lessons-for-owners.md) | Care-transition timeline and five case-based questions for other senior-dog owners |
 | | [Palliative care guide (PDF)](docs/owners/FWVC_PalliativeEnd-of-Life-Care-Support-Guide_2025.pdf) | Furkids Wellness Veterinary Centre's palliative and end-of-life care guide (2025): quality-of-life checklist, when to talk to the vet, emergency signs, home-setup tips |
 | [`analyses/`](docs/analyses/) | [Diet review](docs/analyses/diet-review.md) | His Mar 2024 home-formulated diet checked against published nutrient limits |
+| | [Supplement review](docs/analyses/supplement-review.md) | Every supplement he took, grouped by ingredient, graded by the strength of evidence in dogs: clinically validated, research stage, tested and not supported, or no credible evidence |
 | | [DNA comparison](docs/analyses/dna-comparison.md) | Wisdom Panel (Jan 2023) vs Embark (Feb 2025): where the two DNA tests agree and disagree, scored item by item |
 | [`dog-aging-project/`](docs/dog-aging-project/) | [DAP surveys](docs/dog-aging-project/dap-surveys.md) | The eight Dog Aging Project survey sections answered for Kuro (End of Life, cognition, and the annual Age-Related Changes, Diet, Medications/Preventives, Physical Activity, Environment and Eating behaviour sections): what each asks, and his answers. Pairs with `data/dog_aging_project/` |
 
