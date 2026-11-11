@@ -54,6 +54,6 @@ Kuro took two commercial DNA tests. The DNA is the same, so every difference com
   - **Type I disc disease (CDDY, FGF4 retrogene on chromosome 12; Brown et al. 2017, *PNAS*):** clear. His back pain is unlikely to come from this inherited disc disease, which fits the vet's diagnosis of arthritis and nerve pain.
   - **Golden Retriever ichthyosis (PNPLA1; Grall et al. 2012, *Nature Genetics*):** clear. This common scaly-skin variant is an unlikely cause of his chronic skin problems.
   - **ALT activity variant:** clear. His ALT values in `labs.csv` can be read against standard ranges.
-- **Neither test speaks to his splenic tumour, hip dysplasia or arthritis.** Goldens carry a high cancer burden (about 60% of deaths in breed surveys, with splenic hemangiosarcoma prominent), but that risk, like hip and joint disease, is spread across many genes rather than one testable variant.
+- **Neither test speaks to his splenic tumour, hip dysplasia or arthritis.** Goldens carry a high cancer burden (about 60% of deaths in breed surveys, with splenic hemangiosarcoma prominent), but that risk, like hip and joint disease, is spread across many genes rather than one testable variant. Kuro's own splenic tumour was never typed and never shown to be malignant.
 
 *References are cited from general knowledge; check exact figures before quoting them.*

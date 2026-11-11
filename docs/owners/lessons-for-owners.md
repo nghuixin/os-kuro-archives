@@ -1,6 +1,6 @@
 # What another senior-dog owner can learn from Kuro
 
-Kuro lived to 16 years 7 months. In his last two and a half years he lived with an inoperable splenic tumour, anemia, pancreatitis, arthritis and gradual loss of mobility, cared for by his family, a household helper, a pet sitter, a pet taxi driver, a groomer and three clinics. This page turns his records into five practical questions. Each case has four parts: **what happened to Kuro**, **what the records support**, **what remains unknown**, and **questions to discuss with your own vet**.
+Kuro lived to 16 years 7 months. In his last two and a half years he lived with an inoperable splenic tumour (never typed, and never shown to be malignant), anemia, pancreatitis, arthritis and gradual loss of mobility, cared for by his family, a household helper, a pet sitter, a pet taxi driver, a groomer and three clinics. This page turns his records into five practical questions. Each case has four parts: **what happened to Kuro**, **what the records support**, **what remains unknown**, and **questions to discuss with your own vet**.
 
 His records show something that is easy to miss: **medical management and daily quality of life are related but distinct.** A dog can keep receiving good veterinary treatment while becoming steadily more dependent on people for moving, toileting, hygiene and safety. Both need planning.
 

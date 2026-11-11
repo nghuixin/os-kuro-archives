@@ -13,6 +13,7 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2024-07-01,invoice,FurKids,hospitalization,"HOSPITALIZATION, ICU; CATALYST - CHEM17 + CBC(PACKAGE); CATALYST - LYTE 4; FLUIDS - IV SET UP + 1ST BAG; BLOOD TRANSFUSION (>20KG); RAPIDVET BLOOD TYPING - CANINE; FLUID BAG 1000ML (LR/NACL); ULTRASOUND - THOROUGH (>15MIN); RADIOGRAPH 2VIEWS; RADIOGRAPH - 3RD ONWARDS; TEST - SNAP cPL (PANCREATITIS); CBC (INCLUDE PBF); 12 medications/supplements",INV-8599,5,results present,,0,INV-8599,3
 2024-07-05,invoice,FurKids,consultation,"BOARDING, DOG > 20KG; CBC (INCLUDE PBF); FINE NEEDLE ASPIRATION (FNA); FLUIDS - SC (>20KG); 9 medications/supplements",INV-8671,0,"billed, results missing",,1,INV-8671,1
 2024-07-11,invoice,FurKids,consultation,RADIOGRAPH - 3RD ONWARDS; CATALYST - CHEM17 + CBC(PACKAGE); 8 medications/supplements | 2 medications/supplements,INV-8842; INV-8843,2,results present,,0,INV-8842; INV-8843,2
+2024-07-12,chat (booked),Asia Paws,acupuncture,"first appointment planned: acupuncture, TCM meds, red-light therapy, diet",family chat,0,none,,0,,0
 2024-07-19,chat,Asia Paws,acupuncture,"first recorded acupuncture: from his pulse ""he should feel a lot of pain""",whatsapp pet sitting chat,0,none,,0,,0
 2024-07-22,chat,house-call vet (Petcare),house call,"arthritis (""crepitus""); heart and respiratory rate normal",whatsapp pet sitting chat; Petcare invoice 77823 (2024-07-23),0,none,,1,Petcare-77823,0
 2024-07-25,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); CATALYST - SDMA; 5 medications/supplements,INV-9031,3,results present,21.3,1,INV-9031,0
@@ -22,20 +23,31 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2024-08-14,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); TEST - SNAP cPL (PANCREATITIS); 5 medications/supplements,INV-9564,0,"billed, results missing",,1,INV-9564,0
 2024-08-21,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#90,0,none,,0,,0
 2024-08-28,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#90,0,none,,0,,0
-2024-10-01,chat,Asia Paws,acupuncture,"""doc say overall strong boy""",whatsapp pet taxi chat,0,none,,0,,0
-2024-10-15,chat,Asia Paws,acupuncture,"gums checked: ""looks good and hydrated""",whatsapp pet taxi chat,0,none,,0,,0
+2024-08-30,chat (booked),Asia Paws,acupuncture,"booked 11:30 with pet sitter; clinic moving location after 30 Aug",whatsapp pet sitting chat,0,none,,0,,0
+2024-10-02,chat,Asia Paws,acupuncture,"""doc say overall strong boy""",whatsapp pet taxi chat,0,none,,0,,0
+2024-10-04,chat,Asia Paws,acupuncture,"session; pet taxi live updates",whatsapp pet taxi chat,0,none,,0,,0
+2024-10-09,chat (booked),Asia Paws,acupuncture,"booked with pet sitter",whatsapp pet sitting chat,0,none,,0,,0
+2024-10-11,chat (booked),Asia Paws,acupuncture,"booked with pet sitter",whatsapp pet sitting chat,0,none,,0,,0
+2024-10-16,chat,Asia Paws,acupuncture,"gums checked: ""looks good and hydrated""",whatsapp pet taxi chat,0,none,,0,,0
+2024-10-18,chat,Asia Paws,acupuncture,"struggled to get up on slippery floor; dr did do a check no issue so far",whatsapp pet taxi chat,0,none,,0,,0
 2024-10-22,chat,FurKids,consultation,blood test; jab and meds; then acupuncture,whatsapp pet taxi chat,0,"billed, results missing",21.3; 21.5; 21.7,2,INV-11387,0
-2024-10-24,chat,Asia Paws,acupuncture,lower back pain; urinary infection ruled out; written report relayed,whatsapp pet taxi chat,0,none,21.7,0,,0
+2024-10-23,chat,Asia Paws,acupuncture,"session; only 2 needle came out during session",whatsapp pet taxi chat,0,none,,0,,0
+2024-10-25,chat,Asia Paws,acupuncture,lower back pain; urinary infection ruled out; written report relayed,whatsapp pet taxi chat,0,none,21.7,0,,0
 2024-11-17,chat,KD Vet (outside clinic),consultation,"ultrasound and bloods while FurKids vets were away; red cell count 19%; prednisolone, antibiotic, anti-bleeding",whatsapp furkids chat; whatsapp pet taxi chat,2,results present,,3,,0
-2024-11-26,chat,Asia Paws,acupuncture,"""left body side has signs of pain""",whatsapp pet taxi chat,0,none,,0,,0
+2024-11-27,chat,Asia Paws,acupuncture,"""left body side has signs of pain""",whatsapp pet taxi chat,0,none,,0,,0
+2024-11-29,chat,Asia Paws,acupuncture,"he is more irritated on the right today",whatsapp pet taxi chat,0,none,,0,,0
+2024-12-04,chat,Asia Paws,acupuncture,"pet sitter took him; Kuro needs to wear diaper to acupuncture",whatsapp pet sitting chat,0,none,,0,,0
 2024-12-12,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); 6 medications/supplements,INV-12766,0,"billed, results missing",,0,INV-12766,0
 2025-01-06,lab report,FurKids,consultation,CBC + chemistry (no invoice in records),KURO_20250210_113328_5110.pdf,2,results present,,0,,0
-2025-02-07,chat,Asia Paws,acupuncture,"""left kneee is abit bad""",whatsapp pet taxi chat,0,none,,0,,0
+2025-01-08,chat,Asia Paws,acupuncture,"pet sitter took him; diaper borrowed from clinic",whatsapp pet sitting chat,0,none,,0,,0
+2025-01-17,chat,Asia Paws,acupuncture,"owner took him; just finished acupuncture",whatsapp pet taxi chat,0,none,,0,,0
+2025-02-08,chat,Asia Paws,acupuncture,"""left kneee is abit bad""",whatsapp pet taxi chat,0,none,,0,,0
 2025-02-10,invoice,FurKids,consultation,CATALYST - CHEM10 + CBC(PACKAGE); 5 medications/supplements,INV-14317,2,results present,20.9; 21.2,3,INV-14317,0
 2025-02-12,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#175,0,none,,0,,0
 2025-02-14,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#175,0,none,,0,,0
 2025-02-19,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#192,0,none,,0,,0
-2025-02-27,chat,Asia Paws,acupuncture,"""left side more pain""; supplement given",whatsapp pet taxi chat,0,none,,0,,0
+2025-02-26,chat,Asia Paws,acupuncture,"session; doctor arrived late",whatsapp pet taxi chat,0,none,,0,,0
+2025-02-28,chat,Asia Paws,acupuncture,"""left side more pain""; supplement given",whatsapp pet taxi chat,0,none,,0,,0
 2025-03-05,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#192,0,none,,0,,0
 2025-03-07,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#192,0,none,,0,,0
 2025-03-09,chat,FurKids,consultation,blood test; 20.5 kg; dental advice,whatsapp pet taxi chat,2,results present,20.5,4,INV-15278,0
@@ -52,40 +64,80 @@ date,date_basis,clinic,visit_type,summary,source,lab_runs,lab_status,weight_kg,p
 2025-04-16,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); FLUIDS - SC (>20KG); 3 medications/supplements,INV-16323,0,none,,0,,0
 2025-04-27,chat,house-call vet (Petcare),house call,"""Arthritis and some nerve pain""; injection",whatsapp pet sitting chat,0,none,20,1,,0
 2025-04-28,chat,house-call vet (Petcare),house call,"called for limping and trouble getting up; ""he was in pain""",whatsapp pet taxi chat; IMG-20250428-WA0083.jpg,0,none,20,1,Petcare-79410,0
+2025-04-30,chat,Asia Paws,acupuncture,"right hind leg wound; right side is inflamed and painful",whatsapp pet taxi chat,0,none,,0,,0
 2025-05-01,chat,Petcare Veterinary Clinic,consultation,"""abrasion wound due to pain in the hind leg""; wound cleaned; cone; painkiller",whatsapp pet taxi chat; IMG-20250501-WA0062.jpg,0,none,,1,,0
 2025-05-02,invoice,FurKids,consultation,WOUND CLEANING - SIMPLE; 6 medications/supplements,INV-16763,0,none,,4,INV-16763,0
+2025-05-02,chat,Asia Paws,acupuncture,"abrasion wound from hind leg pain; more floor mats advised",whatsapp pet taxi chat,0,none,,0,,0
 2025-05-05,invoice,FurKids,consultation,RADIOGRAPH 2VIEWS; CATALYST - CHEM17 + CBC(PACKAGE); 3 medications/supplements,INV-16890,2,results present,20.6,1,INV-16890,1
-2025-05-06,chat,Asia Paws,acupuncture,"""heart is good""; ""a little pain on the right""",whatsapp pet taxi chat,0,none,,0,,0
-2025-05-15,chat,Asia Paws,acupuncture,pain remedy given,whatsapp pet taxi chat,0,none,,2,,0
+2025-05-07,chat,Asia Paws,acupuncture,"""heart is good""; ""a little pain on the right""",whatsapp pet taxi chat,0,none,,0,,0
+2025-05-09,chat,Asia Paws,acupuncture,"session about 30 min",whatsapp pet taxi chat,0,none,,0,,0
+2025-05-14,chat,Asia Paws,acupuncture,"no pain pulse like last time",whatsapp pet taxi chat,0,none,,0,,0
+2025-05-16,chat,Asia Paws,acupuncture,pain remedy given,whatsapp pet taxi chat,0,none,,2,,0
 2025-06-04,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#284,0,none,,0,,0
 2025-06-06,pet-taxi invoice (booked),Asia Paws,acupuncture,pet-taxi trip booked,Invoice#284,0,none,,0,,0
 2025-06-16,invoice,FurKids,consultation,CATALYST - CHEM17 + CBC(PACKAGE); 5 medications/supplements,INV-18168,2,results present,22.0,4,INV-18168,0
-2025-07-03,chat,Asia Paws,acupuncture,gassy stomach; charcoal given,whatsapp pet taxi chat,0,none,,0,,0
-2025-07-15,chat,Asia Paws,acupuncture,"heart ""beating strong""; owner reports high ALT",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-02,chat,Asia Paws,acupuncture,"first session after June break",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-04,chat,Asia Paws,acupuncture,gassy stomach; charcoal given,whatsapp pet taxi chat,0,none,,0,,0
+2025-07-09,chat,Asia Paws,acupuncture,"session",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-11,chat,Asia Paws,acupuncture,"leg hind left side abit pain but overall okay",whatsapp pet taxi chat,0,none,,0,,0
 2025-07-15,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; 3 medications/supplements,INV-19129,0,"billed, results missing",,0,INV-19129,0
-2025-08-05,chat,Asia Paws,acupuncture,"""the sore due to aging""",whatsapp pet taxi chat,0,none,,0,,0
-2025-08-12,chat,Asia Paws,acupuncture,"""heart rate is abit slow""; T4 test suggested",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-16,chat,Asia Paws,acupuncture,"heart ""beating strong""; owner reports high ALT",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-18,chat,Asia Paws,acupuncture,"right and left hind leg abit painful",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-23,chat,Asia Paws,acupuncture,"abit unhappy needles on the hind leg",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-25,chat,Asia Paws,acupuncture,"left side hurts more, yelped; hot pack and warm towel on hips advised",whatsapp pet taxi chat,0,none,,0,,0
+2025-07-30,chat,Asia Paws,acupuncture,"slight discomfort on hind leg but overall ok",whatsapp pet taxi chat,0,none,,0,,0
+2025-08-01,chat,Asia Paws,acupuncture,"very relax",whatsapp pet taxi chat,0,none,,0,,0
+2025-08-06,chat,Asia Paws,acupuncture,"""the sore due to aging""",whatsapp pet taxi chat,0,none,,0,,0
+2025-08-08,chat,Asia Paws,acupuncture,"knee pain, more towards left hind leg",whatsapp pet taxi chat,0,none,,0,,0
+2025-08-13,chat,Asia Paws,acupuncture,"""heart rate is abit slow""; T4 test suggested",whatsapp pet taxi chat,0,none,,0,,0
 2025-08-13,pet-taxi invoice (booked),FurKids,consultation,pet-taxi trip booked 2:30 pm,Invoice#340,0,none,,0,,0
+2025-08-15,chat,Asia Paws,acupuncture,"owner attended; Dr Susanna: Miracle boy is here",family chat,0,none,,0,,0
+2025-08-20,chat,Asia Paws,acupuncture,"lower back and hip sore; block off low cupboards advised",whatsapp pet taxi chat,0,none,,0,,0
+2025-08-22,chat,Asia Paws,acupuncture,"good pulse overall; back pain resolved",whatsapp pet taxi chat,0,none,,0,,0
 2025-09-09,chat,FurKids,consultation,,whatsapp pet taxi chat,0,none,,0,,0
-2025-09-11,chat,Asia Paws,acupuncture,right hip pain; pills given,whatsapp pet taxi chat,0,none,,1,,0
+2025-09-10,chat,Asia Paws,acupuncture,"black stool noted before session",whatsapp pet taxi chat,0,none,,0,,0
+2025-09-12,chat,Asia Paws,acupuncture,right hip pain; pills given,whatsapp pet taxi chat,0,none,,1,,0
 2025-10-13,invoice,FurKids,consultation,Chem17 + CBC,INV-22117,0,"billed, results missing",,0,INV-22117,0
-2025-11-04,medicine label,Asia Paws,consultation,added from cross-check: 1 prescription(s),prescriptions.csv,0,none,,1,,0
+2025-10-29,chat,Asia Paws,acupuncture,"right side more painful",whatsapp pet taxi chat,0,none,,0,,0
+2025-10-31,chat,Asia Paws,acupuncture,"needle near neck to relieve pain",whatsapp pet taxi chat,0,none,,0,,0
+2025-11-05,chat,Asia Paws,acupuncture,"""no pain pulse""; Strophanthus (heart support) label",prescriptions.csv,0,none,,1,,0
+2025-11-07,chat,Asia Paws,acupuncture,"overall health wise he is good",whatsapp pet taxi chat,0,none,,0,,0
 2025-11-10,invoice,FurKids,consultation,CBC - complete blood count ( Hematology); CATALYST - CHEM17; CATALYST - PANCREATIC LIPASE (PL); CATALYST - SDMA; 7 medications/supplements,INV-23175,2,results present,,7,INV-23175,0
 2025-12-28,chat,FurKids,consultation,"x-rays (2025-12-29 on image); bump near eye ""small cyst that can be popped""",whatsapp pet taxi chat; furkids chat,2,results present,21.3,0,INV-24948,2
 2025-12-30,chat,FurKids,consultation,"left hind limp, possible mild sprain; paw pad red",whatsapp furkids chat,0,none,21.3,0,,0
+2026-01-07,chat,Asia Paws,acupuncture,"session",whatsapp pet taxi chat,0,none,,0,,0
+2026-01-09,chat,Asia Paws,acupuncture,"session; owner attended",whatsapp pet taxi chat,0,none,,0,,0
+2026-01-14,chat,Asia Paws,acupuncture,"session; clinic supplied diaper",whatsapp pet taxi chat,0,none,,0,,0
 2026-01-15,owner recollection (month only),Asia Paws,dental cleaning,"Dental cleaning at Asia Paws, recalled by the owner; no invoice or message found, and whether it was done under anaesthesia is not recorded",owner recollection,0,none,,0,,
+2026-01-16,chat,Asia Paws,acupuncture,"session",whatsapp pet taxi chat,0,none,,0,,0
+2026-01-23,chat,Asia Paws,acupuncture,"hind leg and hip pain; pain relief given in session",whatsapp pet taxi chat,0,none,,0,,0
 2026-02-03,chat,FurKids,consultation,"bloodwork ""overall reading good""; steroids, pancreas supplement, multivitamin",whatsapp pet taxi chat,2,results present,22.2,3,INV-26419,0
+2026-02-20,chat,Asia Paws,acupuncture,"right side inflamed, some pain on left hind leg",whatsapp pet taxi chat,0,none,,0,,0
+2026-02-25,chat,Asia Paws,acupuncture,"As usual his hind legs abit pain but overall good",whatsapp pet taxi chat,0,none,,0,,0
 2026-03-16,chat,FurKids,consultation,"blood test; right cheek ""Touch of it is fluid""; ""abit anemic""",whatsapp pet taxi chat,0,"billed, results missing",,1,INV-27830,0
+2026-03-20,chat,Asia Paws,acupuncture,"No pain pulse so far pretty good",whatsapp pet taxi chat,0,none,,0,,0
 2026-04-20,invoice,FurKids,consultation,Chem17 + CBC + SDMA; 20.6 kg; antibiotics; darbepoetin,INV-29152; whatsapp pet taxi chat,0,"billed, results missing",20.6,0,INV-29152,0
 2026-05-18,chat,FurKids,consultation,blood test; 19.9 kg; jab for anemia,whatsapp pet taxi chat; furkids chat,0,none,19.9,0,,0
-2026-06-04,chat,Asia Paws,acupuncture,"""Pain generally as due to aging""; heart ""okay just slow""; meds to keep in the fridge",whatsapp pet taxi chat,0,none,,0,,0
+2026-05-20,chat,Asia Paws,acupuncture,"weight loss raised; smaller, more frequent meals advised",whatsapp pet taxi chat,0,none,,0,,0
+2026-05-22,chat,Asia Paws,acupuncture,"heart rate is slightly slower today but nothing major",whatsapp pet taxi chat,0,none,,0,,0
+2026-05-27,chat,Asia Paws,acupuncture,"left hind leg aching",whatsapp pet taxi chat,0,none,,0,,0
+2026-05-29,chat,Asia Paws,acupuncture,"Hind leg abit weak n pain; heart good",whatsapp pet taxi chat,0,none,,0,,0
+2026-06-05,chat,Asia Paws,acupuncture,"""Pain generally as due to aging""; heart ""okay just slow""; meds to keep in the fridge",whatsapp pet taxi chat,0,none,,0,,0
 2026-06-10,chat,Asia Paws,acupuncture,"""unable to stand due to significant hind limb weakness"", ""found lying in urine""",family chat,0,none,,0,,0
 2026-07-01,chat,FurKids,consultation,"19.5 kg; urine burn and weight loss concerns; liver and kidney ""abit high""",whatsapp pet taxi chat; furkids chat,2,results present,19.5,0,,0
-2026-07-07,chat,Asia Paws,acupuncture,"growths on hind legs and armpit; sarcopenia; heart, lungs, lymph nodes normal",whatsapp pet taxi chat,0,none,,0,,0
+2026-07-08,chat,Asia Paws,acupuncture,"growths on hind legs and armpit; sarcopenia; heart, lungs, lymph nodes normal",whatsapp pet taxi chat,0,none,,0,,0
+2026-07-10,chat,Asia Paws,acupuncture,"heart good; hind leg aching; anti-slip paw grips suggested",whatsapp pet taxi chat,0,none,,0,,0
+2026-07-22,chat,Asia Paws,acupuncture,"hind legs slightly painful; heart and lungs good",whatsapp pet taxi chat,0,none,,0,,0
+2026-07-24,chat,Asia Paws,acupuncture,"cooperative, little struggle with back legs",whatsapp pet taxi chat,0,none,,0,,0
+2026-07-31,chat,Asia Paws,acupuncture,"heart good; large, dark stool noted",whatsapp pet taxi chat,0,none,,0,,0
 2026-08-10,invoice,FurKids,consultation,Chem17 + CBC; 19.4 kg; darbepoetin,INV-33691; whatsapp pet taxi chat,2,results present,19.4,0,INV-33691,0
+2026-08-12,chat,Asia Paws,acupuncture,"hind leg and joint pain; heart and lungs good",whatsapp pet taxi chat,0,none,,0,,0
+2026-08-19,chat,Asia Paws,acupuncture,"some inflammation; blow-dry after washing advised",whatsapp pet taxi chat,0,none,,0,,0
+2026-09-09,chat,Asia Paws,acupuncture,"some inflammation; nibbled wound noted",whatsapp pet taxi chat,0,none,,0,,0
+2026-09-11,chat,Asia Paws,acupuncture,"hind leg discomfort before acupuncture",whatsapp pet taxi chat,0,none,,0,,0
 2026-09-14,invoice,FurKids,consultation,Chem17 + CBC + SNAP 4Dx Plus; 19.7 kg; antibiotics; Advocate,INV-35208; whatsapp pet taxi chat,3,results present,19.7,0,INV-35208,0
 2026-10-02,chat,Asia Paws,acupuncture,"""progressive hind limb weakness""; hind limb and spine muscles ""crampy""; home massage advised",family chat,0,none,,0,,0
-2026-10-06,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat,0,none,,2,AsiaPaws-2026-10-07,0
+2026-10-07,chat,Asia Paws,acupuncture,Chinese medicine for hind leg weakness,whatsapp pet taxi chat,0,none,,2,AsiaPaws-2026-10-07,0
 2026-10-09,chat,Asia Paws,acupuncture,"""doing much better""; getting up on his own a bit better",family chat; whatsapp pet taxi chat,0,none,,0,,0
 2026-10-16,chat,Asia Paws,acupuncture,"last session: some pain in back legs, leaning right; red-light mat recommended",family chat; whatsapp pet taxi chat,0,none,,0,,0
 2026-10-19,invoice,FurKids,post mortem,POST MORTEM,INV-36648,0,none,,0,INV-36648,0

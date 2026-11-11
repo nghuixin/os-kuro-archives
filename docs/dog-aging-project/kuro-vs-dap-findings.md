@@ -15,7 +15,7 @@ How Kuro's [DAP survey answers](./dap-surveys.md) and records compare with what 
 |---|---|---|---|
 | Lifespan | Median lifespan falls with size: about 13–14 years for toy and small dogs, 9–10 for giants; mixed-breed males outlive same-size purebreds by 0.7–1.6 years; neutering made no difference | 16.6 years at about 20–28 kg | **Well beyond the median**, even the small-dog median. Mixed breed and male-neutered are consistent with the findings |
 | Multimorbidity | 71.6% of DAP dogs (median age 7.75) had 3 or more conditions; accumulating conditions raises mortality; dogs with osteoarthritis at baseline went on to more diagnoses | At least 7 conditions in his last 2.5 years | **Typical for his age.** His arthritis-first path matches the reported pattern |
-| Disease history (seniors 11+) | Cancer 15%, eye 28%, gastrointestinal 18%, liver/pancreas 8%, neurologic 12%, kidney/urinary 15%; cancer rises about 2.5-fold per 4 years of age | Cancer, eye, pancreas, nerve pain and orthopaedic disease present; gut issues mild; kidney borderline | **Higher burden than the average senior**, as expected at 16 |
+| Disease history (seniors 11+) | Cancer 15%, eye 28%, gastrointestinal 18%, liver/pancreas 8%, neurologic 12%, kidney/urinary 15%; cancer rises about 2.5-fold per 4 years of age | Tumour (splenic, untyped, not shown to be malignant), eye, pancreas, nerve pain and orthopaedic disease present; gut issues mild; kidney borderline | **Higher burden than the average senior**, as expected at 16 |
 | Cognition | 1.4% of dogs met the dysfunction cut-off; odds rise 52% per year after 10; inactive dogs had 6.47× the odds | Score 36 (cut-off 50); moderately active | **Better than expected for 16.** Consistent with the activity finding |
 | Manner of death | 83–85% euthanised; 15–17% died unassisted; 14.7% at home with no vet involved | Unassisted, at home, no vet present | **In the minority** on all three |
 | Cause of death | Owner-reported: cancer 29.7%, old age 29.4%; in dogs over 15, old age 54.9% | Illness (tumour) primary; sudden death secondary | **Less common for his age group** |
@@ -83,7 +83,7 @@ plus rising urea in 2025–26.
 
 | Category | DAP seniors (11+) | Kuro |
 |---|---|---|
-| Cancer / tumour | 15% | Yes (splenic tumour, 2024) |
+| Cancer / tumour | 15% | Yes (splenic tumour, 2024; type never determined, not shown to be malignant) |
 | Eye | 28% | Yes (cataract) |
 | Gastrointestinal | 18% | Mild: occasional diarrhoea (2023, Feb 2025); logged stools mostly ideal (Purina 2–3 of 7) |
 | Liver / pancreas | 8% | Yes (pancreatitis 2024 and 2025; mild liver enzyme rises) |
@@ -95,10 +95,10 @@ plus rising urea in 2025–26.
 - **Orthopaedic disease** roughly doubled per 4 years of age, also steeper in large dogs.
 
 **How he fits:**
-- **Overall:** he had clear disease in five of the seven categories (cancer, eye, liver/pancreas, orthopaedic, and nerve pain under neurologic), against senior averages of 8–28% each. Gut and kidney were borderline.
+- **Overall:** he had clear disease in five of the seven categories (cancer/tumour, eye, liver/pancreas, orthopaedic, and nerve pain under neurologic), against senior averages of 8–28% each. Gut and kidney were borderline.
 - **Why that's expected:** the "senior" group starts at 11 and most of it is far younger than 16, so prevalence at his age would be much higher than these figures.
 - **Liver/pancreas** is the least common category (8%) and the most distinctive part of his history.
-- **His tumour at 14** fits the steep rise of cancer with age in larger dogs.
+- **His tumour at 14** falls in this category, which rises steeply with age in larger dogs. It counts as a tumour, not a confirmed cancer: it was never typed, he lived more than two years with it, and the spread reported in 2024 wasn't found at post mortem.
 
 ## Cognition
 
@@ -125,7 +125,7 @@ plus rising urea in 2025–26.
 |---|---|---|
 | Euthanised | 85.4% / 83.0% | No |
 | Died at home with no vet involved | 14.7% | Yes |
-| Primary cause (owner view) | Illness 58% (cancer 29.7%), old age 29–31% | Illness (cancer) |
+| Primary cause (owner view) | Illness 58% (cancer 29.7%), old age 29–31% | Illness (splenic tumour, DAP's "cancer or tumors" category; not shown to be malignant) |
 | Old age as cause in dogs over 15 | 54.9% | No |
 | Old-age signs, last 2 weeks | Euthanised 5.08; unassisted 3.62 | 5 |
 | Most common old-age signs | Less active 55%; weakness 54%; eating/drinking less 43%; pain/stiffness 40% | Weakness and pain yes; less active and eating less, no |

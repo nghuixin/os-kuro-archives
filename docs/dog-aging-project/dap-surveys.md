@@ -61,7 +61,7 @@ Item content is summarised and DAP's variable names are given so the original wo
 | Vet care, last 2 weeks | Seen by a vet; no hospital stay or sedation; understood he would likely live beyond a month |
 | Place and witnesses | At home; **no one present** (no one saw him go into the pond) |
 | Euthanised | No |
-| Cause of death | Primary: illness (cancer of the spleen, name not known, known about for two or more years, treated palliatively). Secondary: sudden death with no apparent cause |
+| Cause of death | Primary: illness (DAP category "cancer or tumors": splenic tumour, type never determined and not shown to be malignant, known about for two or more years, treated palliatively). Secondary: sudden death with no apparent cause |
 
 The post-mortem findings behind the cause of death are in the [health summary](../case-study/health-summary.md#post-mortem-examination-19-oct-2026).
 
