@@ -162,7 +162,7 @@ Every block below uses the same ten fields, in the same order. "None recorded" m
 - **Procedures and events:** dental cleaning at Asia Paws (Jan, owner's recollection); a new household helper (16 Apr); unable to stand and found lying in urine (10 Jun).
 - **Therapies:** hot packs nightly until Apr; acupuncture **twice weekly** (May–Jun).
 - **Mobility:** "couldn't get up" after pooping (Apr); after 10 Jun, walked on a lead in the backyard three times a day.
-- **Hygiene and grooming:** diapers and belly wraps (Feb–Mar); absorbent pads; after 10 Jun, **help to urinate at least four times a day**; home grooming roughly monthly (none in Apr).
+- **Hygiene and grooming:** diapers and belly wraps (Feb–Mar); after 10 Jun, **help to urinate at least four times a day**; home grooming roughly monthly (none in Apr).
 - **Home and comfort:** water kept within reach (Jun).
 - **Monitoring:** 4 FurKids consultations; monthly blood tests (several results never received).
 

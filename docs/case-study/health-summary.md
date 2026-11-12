@@ -114,7 +114,7 @@ Much of Kuro's care happened at home, recorded in the household helper's photo l
 - **Shape:** all segmented logs, pieces or single logs; none flattened or ribbon-like. Width couldn't be measured (no size reference), and 13 had been picked up before being photographed.
 - **Dark stools:** very dark or black pieces on 24 Sep 2024 and 20–21 Nov 2024. They were formed, which makes digested blood less likely, and he was taking activated charcoal, which blackens stool; but the Nov 2024 stools came days after his worst anaemia (HCT 18.9%), so gut bleeding can't be excluded.
 
-**Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), and a diaper or belly wrap and stained bedding in Feb–Mar 2026.
+**Other observations:** a hind-leg skin lesion (Aug 2024, Apr 2025; e-collar from May 2025), and a diaper or belly wrap in Feb–Mar 2026.
 
 **Grooming** (`grooming.csv`, `providers.csv`): Groomingbygracie until 2023, with occasional sessions at Pawsrepublic; then Gooddoggrooming at home every 2–3 weeks from Jan 2024 to his last session on 13 Oct 2026 (49 sessions), moved indoors after the 2024 hospital stay to avoid falls. The groomer's notes track his skin: tail hair loss (Apr–May 2024), dandruff (Jun 2024), "the skin improve a lot" (Sep 2024), a crusty tail and body odour (Oct 2024), dirty ears (May 2025). In his last year there were 13 sessions, with gaps in Apr and Aug–Sep 2026.
 

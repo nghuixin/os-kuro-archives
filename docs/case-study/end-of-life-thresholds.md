@@ -70,7 +70,7 @@ The records show each of the first four was acted on within about a day. The las
 
 | FurKids tip | Kuro's care |
 |---|---|
-| Soft bedding in a quiet area | slept indoors, in a different spot by day; absorbent pads |
+| Soft bedding in a quiet area | slept indoors, in a different spot by day |
 | Food and water within reach | water kept within reach and on a 2-hourly chart (from May–Jun 2026) |
 | Non-slip mats for stability | mats from 2024 and dog shoes; anti-slip paw grips in 2026; the mats had worn out by his final months (owner's recollection) |
 | Clean, dry skin to avoid sores or urine scald | diapers, wipes, blow-drying; urine-scald risk noted by the vet (Jul 2026); toileting help four times a day |
